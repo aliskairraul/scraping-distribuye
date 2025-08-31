@@ -24,7 +24,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: Ejecutar script principal
-        run: python distribuye.py
+        run: python main.py distribuye
 
       - name: Configurar Git
         run: |
