@@ -14,7 +14,7 @@ def menu_principal():
         ("4", "📂 Procesar data externa ETL"),
         ("5", "📡 Envío de datos a API"),
         ("6", "📡 Mantener despierta API"),
-        ("7", "📡 Distribuye según horario")
+        ("7", "📡 Distribuye según horario"),
         ("8", "❌ Salir")
     ]
 

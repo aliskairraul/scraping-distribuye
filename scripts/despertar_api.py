@@ -10,7 +10,7 @@ from utils.utils import limpiar_terminal, guardar_json, borrar_archivos
 from utils.logger import get_logger
 
 
-def main(maximo_intentos: int = 5, limpiar: bool = True) -> None:
+def main(maximo_intentos: int = 4, limpiar: bool = True) -> None:
     """_summary_
     main: Funcion de entrada al script `despertar_api` y en este caso ejecuta la logica de hacer un llamado sencillo varias veces
           a la Api para mantenerla activa y que este disponible a la brevedad cuando sea solicitada por la App del dashboard, Esta
