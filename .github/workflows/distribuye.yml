@@ -31,11 +31,16 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
 
+      - name: Autenticarse con token
+        run: |
+          git remote set-url origin https://x-access-token:${{ secrets.GH_PAT }}@github.com/${{ github.repository }}
+
       - name: Commit y push de cambios
         run: |
           git add data/db/base.parquet
           git add data/variables/control_ejecusiones.json
           git add data/historico_scraping/*.csv
           git add logs/*.log
-          git commit -m "Actualización automática: $(date '+%Y-%m-%d %H:%M')"
+          git commit -m "Actualización automática: $(date '+%Y-%m-%d %H:%M')" || echo "Sin cambios para commitear"
           git push
+
