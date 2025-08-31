@@ -1,0 +1,22 @@
+2025-08-29 18:27:56 - INFO - [RandstadScraper] - Intento 1 de scrapear Randstad
+2025-08-29 18:27:56 - INFO - [RandstadScraper] - el json control_ejecusiones cargo correctamente
+2025-08-29 18:27:56 - INFO - [RandstadScraper] - Ultima vez que se scrapeo Randstad fue 2025-08-28
+2025-08-29 18:27:56 - INFO - [RandstadScraper] - Iniciando scraping en plataforma: Randstad
+2025-08-29 18:27:59 - INFO - [RandstadScraper] - Pagina 1 cargada correctamente - URL: https://www.randstad.es/candidatos/ofertas-empleo/sa-1100/st-3/jp-50/
+2025-08-29 18:29:03 - INFO - [RandstadScraper] - Pagina 2 cargada correctamente - URL: https://www.randstad.es/candidatos/ofertas-empleo/sa-1100/st-3/jp-50/pg-2/
+2025-08-29 18:30:05 - INFO - [RandstadScraper] - Pagina 3 cargada correctamente - URL: https://www.randstad.es/candidatos/ofertas-empleo/sa-1100/st-3/jp-50/pg-3/
+2025-08-29 18:31:09 - INFO - [RandstadScraper] - Pagina 4 cargada correctamente - URL: https://www.randstad.es/candidatos/ofertas-empleo/sa-1100/st-3/jp-50/pg-4/
+2025-08-29 18:32:12 - INFO - [RandstadScraper] - Pagina 5 cargada correctamente - URL: https://www.randstad.es/candidatos/ofertas-empleo/sa-1100/st-3/jp-50/pg-5/
+2025-08-29 18:32:12 - INFO - [RandstadScraper] - Scraping finalizado. Datos guardados en: data\historico_scraping\Randstad_2025-08-29.csv
+2025-08-29 18:32:12 - INFO - [RandstadScraper] - Se actualizo la fecha de la ultima vez scraper a --> 2025-08-29
+2025-08-29 18:32:12 - INFO - [RandstadScraper] - Se ha actualizado el archivo -->  control_ejecusiones.json
+2025-08-29 22:03:52 - INFO - [RandstadScraper] - Intento 1 de añadir a la DATABASE y la data del scrapeo del dia 2025-08-29
+2025-08-29 22:03:52 - INFO - [RandstadScraper] - El json control_ejecusiones cargo correctamente
+2025-08-29 22:03:52 - INFO - [RandstadScraper] - Ultima vez que se scrapeo Randstad fue 2025-08-28
+2025-08-29 22:03:52 - INFO - [RandstadScraper] - Iniciando el Procesamiento de la Data
+2025-08-29 22:03:53 - INFO - [RandstadScraper] - Se logró cargar la DATABASE, actualmente con 2097 registros
+2025-08-29 22:03:54 - INFO - [RandstadScraper] - Se logró cargar la data para actualizar, actualmente con 1432 registros
+2025-08-29 22:03:55 - INFO - [RandstadScraper] - ETL finalizado, se guardaron los datos en data\db\base.parquet
+2025-08-29 22:03:55 - INFO - [RandstadScraper] - Despues de Juntar y eliminar ofertas repetidas quedaron 3167 registros
+2025-08-29 22:03:55 - INFO - [RandstadScraper] - Se actualizo la fecha de la ultima vez ETL a --> 2025-08-29
+2025-08-29 22:03:55 - INFO - [RandstadScraper] - Se ha actualizado el archivo -->  control_ejecusiones.json

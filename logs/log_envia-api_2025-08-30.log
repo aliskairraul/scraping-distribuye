@@ -1,0 +1,22 @@
+2025-08-30 21:41:41 - INFO - [envia-api] - Inicia Envio de Data Actualizada a API
+2025-08-30 21:41:41 - INFO - [envia-api] - El json control_ejecusiones cargo correctamente
+2025-08-30 21:41:42 - INFO - [envia-api] - Se logro enviar la data a la Api en el intento --> 1
+2025-08-30 21:46:56 - INFO - [envia-api] - Inicia Envio de Data Actualizada a API
+2025-08-30 21:46:56 - INFO - [envia-api] - El json control_ejecusiones cargo correctamente
+2025-08-30 21:46:56 - INFO - [envia-api] - Se logro enviar la data a la Api en el intento --> 1
+2025-08-30 21:46:56 - INFO - [envia-api] - Se Actualizo la fecha en el control de Ejecusiones
+2025-08-30 22:21:41 - INFO - [envia-api] - Inicio del ciclo 1 de la hora 22
+2025-08-30 22:21:41 - INFO - [envia-api] - El json control_ejecusiones cargo correctamente
+2025-08-30 22:22:24 - INFO - [envia-api] - EL status code fue 200 despertando a la API
+2025-08-30 22:22:24 - INFO - [envia-api] - Archivo de log logs\log_ActualizacionData_2025-06-30.log eliminado
+2025-08-30 22:22:24 - INFO - [envia-api] - Archivo de log logs\log_ActualizacionData_2025-07-30.log eliminado
+2025-08-30 22:32:24 - INFO - [envia-api] - Inicio del ciclo 2 de la hora 2
+2025-08-30 22:32:24 - INFO - [envia-api] - El json control_ejecusiones cargo correctamente
+2025-08-30 22:32:25 - INFO - [envia-api] - EL status code fue 200 despertando a la API
+2025-08-30 22:42:25 - INFO - [envia-api] - Inicio del ciclo 3 de la hora 2
+2025-08-30 22:42:25 - INFO - [envia-api] - El json control_ejecusiones cargo correctamente
+2025-08-30 22:42:25 - INFO - [envia-api] - EL status code fue 200 despertando a la API
+2025-08-30 22:52:25 - INFO - [envia-api] - Inicio del ciclo 4 de la hora 2
+2025-08-30 22:52:25 - INFO - [envia-api] - El json control_ejecusiones cargo correctamente
+2025-08-30 22:52:26 - INFO - [envia-api] - EL status code fue 200 despertando a la API
+2025-08-30 23:02:26 - INFO - [envia-api] - Se actualizo el archivo de control de ejecusiones
