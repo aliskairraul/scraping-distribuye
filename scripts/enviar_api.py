@@ -41,9 +41,9 @@ def main():
     carpeta = Path("data/variables")
     ruta_control_ejecusiones = carpeta / "control_ejecusiones.json"
     logger = get_logger("Envia-Api")
-    logger.info("Inicia Envio de Data Actualizada a API")
+    logger.info("********  Inicia Envio de Data Actualizada a API **************************")
 
-    limpiar_terminal()
+    # limpiar_terminal()
     status_code = 0
 
     intentos = 1

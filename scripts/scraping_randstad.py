@@ -153,7 +153,7 @@ def main() -> None:
 
     intentos = 1
     while intentos < 5 and ultimo_randstad < today:
-        logger.info(f"Intento {intentos} de scrapear Randstad")
+        logger.info(f"***********  Intento {intentos} de scrapear Randstad  ********************")
         try:
             with ruta_control_ejecusiones.open("r", encoding="utf-8") as f:
                 control_ejecusiones = json.load(f)

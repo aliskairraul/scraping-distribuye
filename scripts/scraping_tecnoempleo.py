@@ -177,12 +177,12 @@ def main() -> None:
     ruta_control_ejecusiones = carpeta / "control_ejecusiones.json"
 
     today = datetime.now().date()
-    limpiar_terminal()
+    # limpiar_terminal()
     ultimo_tecnoempleo = today - timedelta(days=1)
 
     intentos = 1
     while intentos < 5 and ultimo_tecnoempleo < today:
-        logger.info(f"Intento {intentos} de scrapear Tecnoempleo")
+        logger.info(f"************** Intento {intentos} de scrapear Tecnoempleo  ********************************")
         try:
             with ruta_control_ejecusiones.open("r", encoding="utf-8") as f:
                 control_ejecusiones = json.load(f)

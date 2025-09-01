@@ -121,10 +121,10 @@ def main() -> None:
     ruta_control_ejecusiones = carpeta / "control_ejecusiones.json"
 
     today = datetime.now().date()
-    limpiar_terminal()
+    # limpiar_terminal()
 
     intentos = 1
-    logger.info(f"Intento {intentos} de añadir a la DATABASE y la data del scrapeo del dia {today}")
+    logger.info(f"**********  Intento {intentos} de añadir a la DATABASE y la data del scrapeo del dia {today}  ********")
     try:
         with ruta_control_ejecusiones.open("r", encoding="utf-8") as f:
             control_ejecusiones = json.load(f)

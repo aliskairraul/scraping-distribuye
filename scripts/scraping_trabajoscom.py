@@ -181,12 +181,12 @@ def main():
     ruta_control_ejecusiones = carpeta / "control_ejecusiones.json"
 
     today = datetime.now().date()
-    limpiar_terminal()
+    # limpiar_terminal()
     ultimo_trabajoscom = today - timedelta(days=1)
 
     intentos = 1
     while intentos < 5 and ultimo_trabajoscom < today:
-        logger.info(f"Intento {intentos} de scrapear Trabajoscom")
+        logger.info(f"**********   Intento {intentos} de scrapear Trabajoscom  ********************************")
         try:
             with ruta_control_ejecusiones.open("r", encoding="utf-8") as f:
                 control_ejecusiones = json.load(f)
