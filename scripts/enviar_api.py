@@ -6,7 +6,7 @@ import sys
 import time
 from utils.utils import limpiar_terminal, guardar_json
 from utils.logger import get_logger
-from scripts_registry import ejecutar_script, SCRIPTS_APP
+# from scripts_registry import ejecutar_script, SCRIPTS_APP
 
 carpeta = Path("data/db")
 ruta = carpeta / "base.parquet"
@@ -34,6 +34,9 @@ def main():
     main: Entrada a este script de la app.
           Lleva el control de los logs y mantiene actualizado el registro de las ultimas ejecusión del envio a la Api
     """
+    # DESPERTAR LA API ANTES DE ENVIAR LA DATA
+    # ejecutar_script(SCRIPTS_APP["despertar_api"], maximo_intentos=2, limpiar=False)
+
     today = datetime.now().date()
     carpeta = Path("data/variables")
     ruta_control_ejecusiones = carpeta / "control_ejecusiones.json"
@@ -69,5 +72,4 @@ def main():
         except TimeoutError:
             logger.error("No se pudo actualizar la fecha en el control de ejecusiones a pesar de que si envio a la Api la data")
 
-    ejecutar_script(SCRIPTS_APP["despertar_api"], maximo_intentos=3, limpiar=False)
     sys.exit()

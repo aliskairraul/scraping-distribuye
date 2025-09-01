@@ -4,6 +4,7 @@ import sys
 from cli.launcher import ejecutar_despertar_api, ejecutar_enviar_api, ejecutar_scraping_randstad
 from cli.launcher import ejecutar_scraping_tecnoempleo, ejecutar_scraping_trabajoscom, ejecutar_etl
 from utils.utils import limpiar_terminal
+from scripts_registry import ejecutar_script, SCRIPTS_APP
 
 
 def distribuye_segun_hora() -> None:
@@ -16,21 +17,13 @@ def distribuye_segun_hora() -> None:
 
     if hora_local == 18:
         ejecutar_scraping_randstad()
-        return
-
-    if hora_local == 19:
+        ejecutar_script(SCRIPTS_APP["despertar_api"], maximo_intentos=2, limpiar=False, segundos=300)
         ejecutar_scraping_tecnoempleo()
-        return
-
-    if hora_local == 20:
+        ejecutar_script(SCRIPTS_APP["despertar_api"], maximo_intentos=2, limpiar=False, segundos=300)
         ejecutar_scraping_trabajoscom()
-        return
-
-    if hora_local == 21:
+        ejecutar_script(SCRIPTS_APP["despertar_api"], maximo_intentos=2, limpiar=False, segundos=300)
         ejecutar_etl()
-        return
-
-    if hora_local == 22:
+        ejecutar_script(SCRIPTS_APP["despertar_api"], maximo_intentos=2, limpiar=False, segundos=300)
         ejecutar_enviar_api()
         return
 

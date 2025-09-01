@@ -8,7 +8,7 @@ import logging
 import json
 from utils.logger import get_logger
 from utils.utils import limpiar_terminal, guardar_json
-from scripts_registry import ejecutar_script, SCRIPTS_APP
+# from scripts_registry import ejecutar_script, SCRIPTS_APP
 
 
 def procesar_data(logger: logging) -> date:
@@ -151,5 +151,5 @@ def main() -> None:
         if intentos == 5:
             logger.info("DESPUES DE 4 INTENTOS NO LOGRO REALIZAR EL ETL")
 
-    ejecutar_script(SCRIPTS_APP["despertar_api"], maximo_intentos=3, limpiar=False)
+    # ejecutar_script(SCRIPTS_APP["despertar_api"], maximo_intentos=3, limpiar=False)
     sys.exit()
