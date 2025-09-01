@@ -15,6 +15,7 @@ def distribuye_segun_hora() -> None:
     """
     hora_local = datetime.now(ZoneInfo("America/Caracas")).hour
 
+    hora_local = 18
     if hora_local == 18:
         ejecutar_scraping_randstad()
         ejecutar_scraping_tecnoempleo()
