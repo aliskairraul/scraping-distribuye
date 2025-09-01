@@ -53,7 +53,7 @@ def ejecutar_enviar_api():
 
 
 def ejecutar_despertar_api():
-    ejecutar_script(SCRIPTS_APP["despertar_api"], maximo_intentos=4, limpiar=True, segundos=600)
+    ejecutar_script(SCRIPTS_APP["despertar_api"], maximo_intentos=1, limpiar=True, segundos=10)
 
 
 def ejecutar_distribuye_segun_horario():

@@ -17,13 +17,13 @@ def distribuye_segun_hora() -> None:
 
     if hora_local == 18:
         ejecutar_scraping_randstad()
-        ejecutar_script(SCRIPTS_APP["despertar_api"], maximo_intentos=2, limpiar=False, segundos=300)
+        ejecutar_script(SCRIPTS_APP["despertar_api"], maximo_intentos=1, limpiar=False, segundos=3)
         ejecutar_scraping_tecnoempleo()
-        ejecutar_script(SCRIPTS_APP["despertar_api"], maximo_intentos=2, limpiar=False, segundos=300)
+        ejecutar_script(SCRIPTS_APP["despertar_api"], maximo_intentos=1, limpiar=False, segundos=3)
         ejecutar_scraping_trabajoscom()
-        ejecutar_script(SCRIPTS_APP["despertar_api"], maximo_intentos=2, limpiar=False, segundos=300)
+        ejecutar_script(SCRIPTS_APP["despertar_api"], maximo_intentos=1, limpiar=False, segundos=3)
         ejecutar_etl()
-        ejecutar_script(SCRIPTS_APP["despertar_api"], maximo_intentos=2, limpiar=False, segundos=300)
+        ejecutar_script(SCRIPTS_APP["despertar_api"], maximo_intentos=1, limpiar=False, segundos=3)
         ejecutar_enviar_api()
         return
 
