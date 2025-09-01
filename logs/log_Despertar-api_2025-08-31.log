@@ -26,3 +26,10 @@
 2025-08-31 18:48:49 - INFO - [Despertar-api] - ********* LLAMADA desde algun SCRAPER *************
 2025-08-31 18:48:49 - INFO - [Despertar-api] - Inicio del ciclo 1 de la hora 18
 2025-08-31 18:48:49 - INFO - [Despertar-api] - El json control_ejecusiones cargo correctamente
+2025-08-31 20:15:04 - INFO - [Despertar-api] - ********* LLAMADA desde algun SCRAPER *************
+2025-08-31 20:15:04 - INFO - [Despertar-api] - Inicio del ciclo 1 de la hora 20
+2025-08-31 20:15:04 - INFO - [Despertar-api] - El json control_ejecusiones cargo correctamente
+2025-08-31 20:19:06 - INFO - [Despertar-api] - ********* LLAMADA desde algun SCRAPER *************
+2025-08-31 20:19:06 - INFO - [Despertar-api] - Inicio del ciclo 1 de la hora 20
+2025-08-31 20:19:06 - INFO - [Despertar-api] - El json control_ejecusiones cargo correctamente
+2025-08-31 20:19:06 - INFO - [Despertar-api] - EL status code fue 200 despertando a la API
