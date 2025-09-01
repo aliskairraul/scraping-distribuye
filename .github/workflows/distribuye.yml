@@ -2,7 +2,7 @@ name: Distribuye
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Cada hora en punto
+    - cron: '0 22 * * *'  # Cada hora en punto
   workflow_dispatch:
 
 permissions:
