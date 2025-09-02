@@ -5,17 +5,17 @@ from pathlib import Path
 from schemas.schemas import schema_multiple
 from datetime import datetime, date, timedelta
 import time
-import sys
 import json
 import logging
+from scripts_registry import ejecutar_script, SCRIPTS_APP
 from utils.logger import get_logger
 from utils.utils import limpiar_terminal, guardar_json
-# from scripts_registry import ejecutar_script, SCRIPTS_APP
 
 
-def separa_provincia_modalidad_fecha_salario(cadena: str) -> tuple[str, str, str, str]:
+def separa_provincia_modalidad_fecha_salario(cadena: str) -> tuple[str, str, date, str]:
     remoto = False
     tiene_parentesis = False
+    hoy = datetime.now().date()
     if "100% remoto" in cadena:
         remoto = True
         modalidad = "100% remoto"
@@ -24,6 +24,14 @@ def separa_provincia_modalidad_fecha_salario(cadena: str) -> tuple[str, str, str
     index_separar_bloques = cadena.find("-")
     bloque_1 = cadena[0:index_separar_bloques]
     bloque_2 = cadena[index_separar_bloques + 1:]
+
+    try:
+        date_str = bloque_2.strip()[0:10]
+        date_oferta = datetime.strptime(date_str, "%d/%m/%Y").date()
+        bloque3 = bloque_2[11:].replace("Nueva", "").replace("Actualizada", "").strip()
+        salary = bloque3 if len(bloque3) > 1 else "Sin Data"
+    except ValueError:
+        return ("Sin Data", "Sin Data", hoy, "Sin Data")
 
     if not remoto:
         if "(" in bloque_1 and ")" in bloque_1:
@@ -37,11 +45,6 @@ def separa_provincia_modalidad_fecha_salario(cadena: str) -> tuple[str, str, str
             index_fin = bloque_1.find(")")
             provincia = bloque_1[0: index_ini]
             modalidad = bloque_1[index_ini + 1: index_fin]
-
-    date_str = bloque_2.strip()[0:10]
-    date_oferta = datetime.strptime(date_str, "%d/%m/%Y").date()
-    bloque3 = bloque_2[11:].replace("Nueva", "").replace("Actualizada", "").strip()
-    salary = bloque3 if len(bloque3) > 1 else "Sin Data"
 
     return (provincia, modalidad, date_oferta, salary)
 
@@ -83,7 +86,7 @@ def scrapear(logger: logging) -> date:
             url = "https://www.tecnoempleo.com/ofertas-trabajo/"
         else:
             url = "https://www.tecnoempleo.com/ofertas-trabajo/?pagina=" + str(page)
-            time.sleep(60)
+            time.sleep(30)
 
         response = requests.get(url, headers=headers)
         if response.status_code != 200:
@@ -112,7 +115,10 @@ def scrapear(logger: logging) -> date:
 
                 try:
                     empresa_tag = body_tag.find("a", class_="text-primary link-muted")
-                    empresa = empresa_tag.get_text(strip=True)
+                    if empresa_tag:
+                        empresa = empresa_tag.get_text(strip=True)
+                    else:
+                        empresa = "Sin Data"
                 except ValueError:
                     logger.exception("Error al extraer Empresa de la oferta")
                     empresa = 'Sin Data'
@@ -120,8 +126,11 @@ def scrapear(logger: logging) -> date:
                 # PROVINCIA - MODALIDAD - FECHA - SALARIO
                 try:
                     provincia_tag = body_tag.find("span", class_="d-block d-lg-none text-gray-800")
-                    provincia_modalidad_fecha_salario = provincia_tag.get_text(strip=True)
-                    provincia, modalidad, date_oferta, salary = separa_provincia_modalidad_fecha_salario(provincia_modalidad_fecha_salario)
+                    if provincia_tag:
+                        provincia_modalidad_fecha_salario = provincia_tag.get_text(strip=True)
+                        provincia, modalidad, date_oferta, salary = separa_provincia_modalidad_fecha_salario(provincia_modalidad_fecha_salario)
+                    else:
+                        provincia, modalidad, date_oferta, salary = ("Sin Data", "Sin Data", today, "Sin Data")
                 except ValueError:
                     logger.exception("Error al extraer Provincia, Modalidad, Salario, Fecha de la oferta")
                     provincia = 'Sin Data'
@@ -133,14 +142,17 @@ def scrapear(logger: logging) -> date:
                 requisitos_tag = body_tag.find("span", class_="hidden-md-down text-gray-800")
                 requisitos = ""
                 try:
-                    span_requisitos = requisitos_tag.find_all("span")
-                    total_requisitos = len(span_requisitos)
-                    for i, span in enumerate(span_requisitos):
-                        if i + 1 == total_requisitos:
-                            requisitos = requisitos + span.get_text(strip=True)
-                        else:
-                            requisitos = requisitos + span.get_text(strip=True) + " -"
-                    requisitos = requisitos.strip()
+                    if requisitos_tag:
+                        span_requisitos = requisitos_tag.find_all("span")
+                        total_requisitos = len(span_requisitos)
+                        for i, span in enumerate(span_requisitos):
+                            if i + 1 == total_requisitos:
+                                requisitos = requisitos + span.get_text(strip=True)
+                            else:
+                                requisitos = requisitos + span.get_text(strip=True) + " -"
+                        requisitos = requisitos.strip()
+                    else:
+                        requisitos = "Sin Data"
                 except ValueError:
                     requisitos = "Sin Data"
                     logger.exception("Error al extraer Requisitos de la oferta")
@@ -166,7 +178,7 @@ def scrapear(logger: logging) -> date:
     return ayer
 
 
-def main() -> None:
+def main(proviene_de_distribuye: bool = False) -> None:
     """_summary_
     main: punto de entrada al script dentro de la App tipo Typer.  Inicializa el Logger y controla una serie de intentos
           en caso de que no logre scrapear la pagina web correspondiente en el instante de lanzado el script
@@ -190,7 +202,7 @@ def main() -> None:
             intentos += 1
         except TimeoutError:
             logger.error(f"Error al intentar cargar control_ejecusiones en el intento {intentos}")
-            time.sleep(450)
+            time.sleep(300)
             intentos += 1
             continue
 
@@ -199,7 +211,7 @@ def main() -> None:
 
         ultimo_tecnoempleo = scrapear(logger=logger)
         if ultimo_tecnoempleo < today:
-            time.sleep(450)
+            time.sleep(300)
         else:
             control_ejecusiones["ultima_ejecusion_tecnoempleo_scraping"] = str(today)
             try:
@@ -212,5 +224,6 @@ def main() -> None:
         if intentos == 5:
             logger.info("DESPUES DE 4 INTENTOS NO LOGRO SCRAPEAR TECNOEMPLEO")
 
-    # ejecutar_script(SCRIPTS_APP["despertar_api"], maximo_intentos=3, limpiar=False)
-    sys.exit()
+    if proviene_de_distribuye:
+        ejecutar_script(SCRIPTS_APP["trabajoscom"], proviene_de_distribuye=True)
+    return

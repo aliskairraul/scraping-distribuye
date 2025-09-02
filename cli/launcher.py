@@ -33,27 +33,33 @@ def lanzar_menu():
 
 
 def ejecutar_scraping_randstad():
-    ejecutar_script(SCRIPTS_APP["randstad"])
+    ejecutar_script(SCRIPTS_APP["randstad"], proviene_de_distribuye=False)
+    sys.exit()
 
 
 def ejecutar_scraping_tecnoempleo():
-    ejecutar_script(SCRIPTS_APP["tecnoempleo"])
+    ejecutar_script(SCRIPTS_APP["tecnoempleo"], proviene_de_distribuye=False)
+    sys.exit()
 
 
 def ejecutar_scraping_trabajoscom():
-    ejecutar_script(SCRIPTS_APP["trabajoscom"])
+    ejecutar_script(SCRIPTS_APP["trabajoscom"], proviene_de_distribuye=False)
+    sys.exit()
 
 
 def ejecutar_etl():
-    ejecutar_script(SCRIPTS_APP["etl"])
+    ejecutar_script(SCRIPTS_APP["etl"], proviene_de_distribuye=False)
+    sys.exit()
 
 
 def ejecutar_enviar_api():
     ejecutar_script(SCRIPTS_APP["enviar_api"])
+    sys.exit()
 
 
 def ejecutar_despertar_api():
-    ejecutar_script(SCRIPTS_APP["despertar_api"], maximo_intentos=1, limpiar=True, segundos=10)
+    ejecutar_script(SCRIPTS_APP["despertar_api"], maximo_intentos=1, limpiar=True, segundos=10, proviene_de_distribuye=False)
+    sys.exit()
 
 
 def ejecutar_distribuye_segun_horario():

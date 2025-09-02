@@ -8,3 +8,13 @@
 2025-09-01 01:33:54 - INFO - [Despertar-api] - El json control_ejecusiones cargo correctamente
 2025-09-01 01:33:55 - INFO - [Despertar-api] - EL status code fue 200 despertando a la API
 2025-09-01 01:43:55 - INFO - [Despertar-api] - Se actualizo el archivo de control de ejecusiones
+2025-09-01 19:15:42 - INFO - [Despertar-api] - ********* LLAMADA desde algun SCRAPER *************
+2025-09-01 19:15:42 - INFO - [Despertar-api] - Inicio del ciclo 1 de la hora 19
+2025-09-01 19:15:42 - INFO - [Despertar-api] - El json control_ejecusiones cargo correctamente
+2025-09-01 19:16:43 - INFO - [Despertar-api] - EL status code fue 200 despertando a la API
+2025-09-01 19:16:53 - INFO - [Despertar-api] - Se actualizo el archivo de control de ejecusiones
+2025-09-01 21:29:31 - INFO - [Despertar-api] - ********* LLAMADA desde algun SCRAPER *************
+2025-09-01 21:29:31 - INFO - [Despertar-api] - Inicio del ciclo 1 de la hora 21
+2025-09-01 21:29:31 - INFO - [Despertar-api] - El json control_ejecusiones cargo correctamente
+2025-09-01 21:30:33 - INFO - [Despertar-api] - EL status code fue 200 despertando a la API
+2025-09-01 21:30:43 - INFO - [Despertar-api] - Se actualizo el archivo de control de ejecusiones

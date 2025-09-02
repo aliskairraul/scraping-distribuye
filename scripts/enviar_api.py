@@ -2,11 +2,9 @@ import requests
 from pathlib import Path
 from datetime import datetime, date
 import json
-import sys
 import time
 from utils.utils import limpiar_terminal, guardar_json
 from utils.logger import get_logger
-# from scripts_registry import ejecutar_script, SCRIPTS_APP
 
 carpeta = Path("data/db")
 ruta = carpeta / "base.parquet"
@@ -72,4 +70,4 @@ def main():
         except TimeoutError:
             logger.error("No se pudo actualizar la fecha en el control de ejecusiones a pesar de que si envio a la Api la data")
 
-    sys.exit()
+    return

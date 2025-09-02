@@ -3,14 +3,14 @@ from pathlib import Path
 from datetime import datetime, date, timedelta
 from zoneinfo import ZoneInfo
 import json
-import sys
 import time
 import os
+from scripts_registry import ejecutar_script, SCRIPTS_APP
 from utils.utils import limpiar_terminal, guardar_json, borrar_archivos
 from utils.logger import get_logger
 
 
-def main(maximo_intentos: int = 1, limpiar: bool = True, segundos: int = 10) -> None:
+def main(maximo_intentos: int = 1, limpiar: bool = True, segundos: int = 10, proviene_de_distribuye: bool = False) -> None:
     """_summary_
     main: Funcion de entrada al script `despertar_api` y en este caso ejecuta la logica de hacer un llamado sencillo varias veces
           a la Api para mantenerla activa y que este disponible a la brevedad cuando sea solicitada por la App del dashboard, Esta
@@ -75,4 +75,6 @@ def main(maximo_intentos: int = 1, limpiar: bool = True, segundos: int = 10) -> 
     except TimeoutError:
         logger.error("Error tratando de Actualizar el archivo de control de ejecusiones")
 
-    sys.exit()
+    if proviene_de_distribuye:
+        ejecutar_script(SCRIPTS_APP["enviar_api"])
+    return

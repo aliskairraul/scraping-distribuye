@@ -3,12 +3,11 @@ from pathlib import Path
 from datetime import datetime, timedelta, date
 import time
 import os
-import sys
 import logging
 import json
+from scripts_registry import ejecutar_script, SCRIPTS_APP
 from utils.logger import get_logger
 from utils.utils import limpiar_terminal, guardar_json
-# from scripts_registry import ejecutar_script, SCRIPTS_APP
 
 
 def procesar_data(logger: logging) -> date:
@@ -108,7 +107,7 @@ def procesar_data(logger: logging) -> date:
     return ayer
 
 
-def main() -> None:
+def main(proviene_de_distribuye: bool = False) -> None:
     """_summary_
     main: Función de entrada al script que junta la data de los empleos en la Data del sistema con los empleos conseguidos el dia de hoy
           Esta función también inicializa el Logger de esta parte de la App y se encarga de realizar varios intentos en caso de que no consiga
@@ -151,5 +150,6 @@ def main() -> None:
         if intentos == 5:
             logger.info("DESPUES DE 4 INTENTOS NO LOGRO REALIZAR EL ETL")
 
-    # ejecutar_script(SCRIPTS_APP["despertar_api"], maximo_intentos=3, limpiar=False)
-    sys.exit()
+    if proviene_de_distribuye:
+        ejecutar_script(SCRIPTS_APP["despertar_api"], maximo_intentos=2, limpiar=False, segundos=10, proviene_de_distribuye=True)
+    return

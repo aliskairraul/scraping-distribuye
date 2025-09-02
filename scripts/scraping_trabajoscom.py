@@ -5,12 +5,11 @@ from pathlib import Path
 from schemas.schemas import schema_multiple
 from datetime import datetime, timedelta, date
 import time
-import sys
 import logging
 import json
+from scripts_registry import ejecutar_script, SCRIPTS_APP
 from utils.logger import get_logger
 from utils.utils import limpiar_terminal, guardar_json
-# from scripts_registry import ejecutar_script, SCRIPTS_APP
 
 
 def separa_localidad_provincia(cadena: str) -> tuple[str, str]:
@@ -67,7 +66,7 @@ def scrapear(logger: logging) -> date:
             desde = ((page - 1) * 40) + 1
             url_1 = "https://www.trabajos.com/ofertas-empleo/?CADENA=&IDPAIS=100&=NO&ORD=F&FPV=&MT-FPV=NO&FPB=&MT-FPB=NO&FAR=&MT-FAR=NO&FPF=&MT-FPF=NO&FEM=&MT-FEM=NO&FXM-S-MIN=-1&FXM-S-MAX=-1&FSM-S-MIN=-1&FSM-S-MAX=-1&FSM-TP=A&FJL=&MT-FJL=NO&FTC=&MT-FTC=NO&FBL=&MT-FBL=NO&DESDE="
             url = url_1 + str(desde) + "#google_vignette"
-            time.sleep(60)
+            time.sleep(30)
 
         response = requests.get(url, headers=headers)
         if response.status_code != 200:
@@ -92,7 +91,10 @@ def scrapear(logger: logging) -> date:
             # EMPRESA
             try:
                 empresa_tag = job.find("a", class_="empresa").find("span")
-                empresa = empresa_tag.get_text()
+                if empresa_tag:
+                    empresa = empresa_tag.get_text()
+                else:
+                    empresa = "Sin Data"
             except ValueError:
                 logger.exception("Error al extraer Empresa de la oferta")
                 empresa = "Sin Data"
@@ -170,7 +172,7 @@ def scrapear(logger: logging) -> date:
     return ayer
 
 
-def main():
+def main(proviene_de_distribuye: bool = False):
     """_summary_
     main: punto de entrada al script dentro de la App tipo Typer.  Inicializa el Logger y controla una serie de intentos
           en caso de que no logre scrapear la pagina web correspondiente en el instante de lanzado el script
@@ -194,7 +196,7 @@ def main():
             intentos += 1
         except TimeoutError:
             logger.error(f"Error al intentar cargar control_ejecusiones en el intento {intentos}")
-            time.sleep(450)
+            time.sleep(300)
             intentos += 1
             continue
 
@@ -203,7 +205,7 @@ def main():
 
         ultimo_trabajoscom = scrapear(logger=logger)
         if ultimo_trabajoscom < today:
-            time.sleep(450)
+            time.sleep(300)
         else:
             control_ejecusiones["ultima_ejecusion_trabajoscom_scraping"] = str(today)
             try:
@@ -216,5 +218,6 @@ def main():
         if intentos == 5:
             logger.info("DESPUES DE 4 INTENTOS NO LOGRO SCRAPEAR TRABAJOSCOM")
 
-    # ejecutar_script(SCRIPTS_APP["despertar_api"], maximo_intentos=3, limpiar=False)
-    sys.exit()
+    if proviene_de_distribuye:
+        ejecutar_script(SCRIPTS_APP["etl"], proviene_de_distribuye=True)
+    return

@@ -1,8 +1,6 @@
 from datetime import datetime
 from zoneinfo import ZoneInfo
 import sys
-from cli.launcher import ejecutar_despertar_api, ejecutar_enviar_api, ejecutar_scraping_randstad
-from cli.launcher import ejecutar_scraping_tecnoempleo, ejecutar_scraping_trabajoscom, ejecutar_etl
 from utils.utils import limpiar_terminal
 from scripts_registry import ejecutar_script, SCRIPTS_APP
 
@@ -17,12 +15,12 @@ def distribuye_segun_hora() -> None:
 
     hora_local = 18
     if hora_local == 18:
-        ejecutar_scraping_randstad()
-        ejecutar_scraping_tecnoempleo()
-        ejecutar_scraping_trabajoscom()
-        ejecutar_etl()
-        ejecutar_script(SCRIPTS_APP["despertar_api"], maximo_intentos=2, limpiar=False, segundos=10)
-        ejecutar_enviar_api()
+        ejecutar_script(SCRIPTS_APP["randstad"], proviene_de_distribuye=True)
+        # ejecutar_script(SCRIPTS_APP["tecnoempleo"], proviene_de_distribuye=True)
+        # ejecutar_script(SCRIPTS_APP["trabajoscom"], proviene_de_distribuye=True)
+        # ejecutar_script(SCRIPTS_APP["etl"], proviene_de_distribuye=True)
+        # ejecutar_script(SCRIPTS_APP["despertar_api"], maximo_intentos=2, limpiar=False, segundos=10, proviene_de_distribuye=True)
+        # ejecutar_script(SCRIPTS_APP["enviar_api"])
         return
 
 

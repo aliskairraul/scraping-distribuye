@@ -5,12 +5,11 @@ from pathlib import Path
 from schemas.schemas import schema_multiple
 from datetime import datetime, date, timedelta
 import time
-import sys
 import json
 import logging
+from scripts_registry import ejecutar_script, SCRIPTS_APP
 from utils.logger import get_logger
 from utils.utils import limpiar_terminal, guardar_json
-# from scripts_registry import ejecutar_script, SCRIPTS_APP
 
 
 def scrapear(logger: logging) -> date:
@@ -51,7 +50,7 @@ def scrapear(logger: logging) -> date:
             url = "https://www.randstad.es/candidatos/ofertas-empleo/sa-1100/st-3/jp-50/"
         else:
             url = "https://www.randstad.es/candidatos/ofertas-empleo/sa-1100/st-3/jp-50/pg-" + str(page) + "/"
-            time.sleep(60)
+            time.sleep(30)
 
         response = requests.get(url, headers=headers)
         if response.status_code != 200:
@@ -82,9 +81,13 @@ def scrapear(logger: logging) -> date:
             # PROVINVIA Y LOCALIDAD
             prov_loc_tag = job.find("p", class_="cards__subtitle")
             try:
-                prov_loc = prov_loc_tag.get_text(strip=True)
-                localidad = prov_loc.split("-")[0].strip()
-                provincia = prov_loc.split("-")[1].strip()
+                if prov_loc_tag:
+                    prov_loc = prov_loc_tag.get_text(strip=True)
+                    localidad = prov_loc.split("-")[0].strip()
+                    provincia = prov_loc.split("-")[1].strip()
+                else:
+                    localidad = 'Sin Data'
+                    provincia = 'Sin Data'
             except ValueError:
                 logger.exception("Error al extraer provincia/localidad")
                 localidad = 'Sin Data'
@@ -94,8 +97,11 @@ def scrapear(logger: logging) -> date:
             footer_tag = job.find("div", class_="cards__footer")
             try:
                 salary_tag = footer_tag.find("div", class_="cards__salary-info")
-                span_salary = salary_tag.find("span")
-                salary = span_salary.get_text(strip=True)
+                if salary_tag:
+                    span_salary = salary_tag.find("span")
+                    salary = span_salary.get_text(strip=True)
+                else:
+                    salary = "Sin Data"
             except ValueError:
                 logger.exception("Error al extraer salario")
                 salary = 'Sin Data'
@@ -112,9 +118,12 @@ def scrapear(logger: logging) -> date:
             # EMPRESA
             logo_tag = job.find("div", class_="cards__logo")
             try:
-                logo_img = logo_tag.find("img")
-                empresa = logo_img.get("src")
-                empresa = empresa.split("/")[-1].replace("logo_", "").replace(".svg", "").replace("_", " ").capitalize()
+                if logo_tag:
+                    logo_img = logo_tag.find("img")
+                    empresa = logo_img.get("src")
+                    empresa = empresa.split("/")[-1].replace("logo_", "").replace(".svg", "").replace("_", " ").capitalize()
+                else:
+                    empresa = "Sin Data"
             except ValueError:
                 logger.exception("Error al extraer Empresa de la oferta")
                 empresa = 'Sin Data'
@@ -137,7 +146,7 @@ def scrapear(logger: logging) -> date:
     return ayer
 
 
-def main() -> None:
+def main(proviene_de_distribuye: bool = False) -> None:
     """_summary_
     main: punto de entrada al script dentro de la App tipo Typer.  Inicializa el Logger y controla una serie de intentos
           en caso de que no logre scrapear la pagina web correspondiente en el instante de lanzado el script
@@ -161,7 +170,7 @@ def main() -> None:
             intentos += 1
         except TimeoutError:
             logger.error(f"Error al intentar cargar control_ejecusiones en el intento {intentos}")
-            time.sleep(450)
+            time.sleep(300)
             intentos += 1
             continue
 
@@ -170,7 +179,7 @@ def main() -> None:
 
         ultimo_randstad = scrapear(logger=logger)
         if ultimo_randstad < today:
-            time.sleep(450)
+            time.sleep(300)
         else:
             control_ejecusiones["ultima_ejecusion_randstad_scraping"] = str(today)
             try:
@@ -183,5 +192,6 @@ def main() -> None:
         if intentos == 5:
             logger.info("DESPUES DE 4 INTENTOS NO LOGRO SCRAPEAR RANDSTAD")
 
-    # ejecutar_script(SCRIPTS_APP["despertar_api"], maximo_intentos=3, limpiar=False)
-    sys.exit()
+    if proviene_de_distribuye:
+        ejecutar_script(SCRIPTS_APP["tecnoempleo"], proviene_de_distribuye=True)
+    return
