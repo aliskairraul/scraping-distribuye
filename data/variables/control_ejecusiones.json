@@ -1,9 +1,9 @@
 {
-    "ultima_ejecusion_randstad_scraping": "2025-09-01",
-    "ultima_ejecusion_tecnoempleo_scraping": "2025-09-01",
-    "ultima_ejecusion_trabajoscom_scraping": "2025-09-01",
-    "ultima_ejecusion_etl": "2025-09-01",
-    "ultima_ejecusion_enviar_api": "2025-09-01",
-    "ultima_hora_despertar_api": 21,
-    "ultimo_dia_despertar_api": "2025-09-01"
+    "ultima_ejecusion_randstad_scraping": "2025-09-02",
+    "ultima_ejecusion_tecnoempleo_scraping": "2025-09-02",
+    "ultima_ejecusion_trabajoscom_scraping": "2025-09-02",
+    "ultima_ejecusion_etl": "2025-09-02",
+    "ultima_ejecusion_enviar_api": "2025-09-02",
+    "ultima_hora_despertar_api": 18,
+    "ultimo_dia_despertar_api": "2025-09-02"
 }
