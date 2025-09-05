@@ -1,0 +1,9 @@
+2025-09-05 22:34:17 - INFO - [Envia-Api] - ********  Inicia Envio de Data Actualizada a API **************************
+2025-09-05 22:34:17 - INFO - [Envia-Api] - El json control_ejecusiones cargo correctamente
+2025-09-05 22:34:18 - INFO - [Envia-Api] - Archivo 'base.parquet' subido exitosamente a la Api.
+2025-09-05 22:34:18 - INFO - [Envia-Api] - Se logro enviar la data a la Api en el intento --> 1
+2025-09-05 22:34:18 - ERROR - [Envia-Api] - Error inesperado al subir a Google Drive: subir_a_google_drive() missing 1 required positional argument: 'logger'
+2025-09-05 22:39:18 - ERROR - [Envia-Api] - Error inesperado al subir a Google Drive: subir_a_google_drive() missing 1 required positional argument: 'logger'
+2025-09-05 22:44:18 - ERROR - [Envia-Api] - Error inesperado al subir a Google Drive: subir_a_google_drive() missing 1 required positional argument: 'logger'
+2025-09-05 22:49:18 - ERROR - [Envia-Api] - Error inesperado al subir a Google Drive: subir_a_google_drive() missing 1 required positional argument: 'logger'
+2025-09-05 22:54:18 - INFO - [Envia-Api] - Se Actualizo la fecha en el control de Ejecusiones para el envio de la Api

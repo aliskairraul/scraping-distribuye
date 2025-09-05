@@ -1,0 +1,5 @@
+2025-09-05 22:33:01 - INFO - [Despertar-api] - ********* LLAMADA desde algun SCRAPER *************
+2025-09-05 22:33:01 - INFO - [Despertar-api] - Inicio del ciclo 1 de la hora 18
+2025-09-05 22:33:01 - INFO - [Despertar-api] - El json control_ejecusiones cargo correctamente
+2025-09-05 22:34:07 - INFO - [Despertar-api] - EL status code fue 200 despertando a la API
+2025-09-05 22:34:17 - INFO - [Despertar-api] - Se actualizo el archivo de control de ejecusiones
