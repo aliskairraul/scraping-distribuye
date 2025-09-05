@@ -2,6 +2,7 @@
 __pycache__/
 **/__pycache__/
 venv/
+google/
 
 # 📄 Archivos en la raíz del proyecto
 .flake8
@@ -9,3 +10,5 @@ requirements_ojo.txt
 pruebas.ipynb
 prueba_elt.ipynb
 cliente_API.ipynb
+credenciales.json
+notas.txt
