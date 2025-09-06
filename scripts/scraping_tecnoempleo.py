@@ -30,7 +30,7 @@ def separa_provincia_modalidad_fecha_salario(cadena: str) -> tuple[str, str, dat
         date_oferta = datetime.strptime(date_str, "%d/%m/%Y").date()
         bloque3 = bloque_2[11:].replace("Nueva", "").replace("Actualizada", "").strip()
         salary = bloque3 if len(bloque3) > 1 else "Sin Data"
-    except ValueError:
+    except Exception:
         return ("Sin Data", "Sin Data", hoy, "Sin Data")
 
     if not remoto:
@@ -109,8 +109,8 @@ def scrapear(logger: logging) -> date:
                     h3_tag = body_tag.find("h3")
                     oferta_tag = h3_tag.find("a")
                     oferta_empleo = oferta_tag.get_text(strip=True)
-                except ValueError:
-                    logger.exception("Error al extraer oferta de empleo")
+                except Exception as e:
+                    logger.exception(f"Error al extraer oferta de empleo -> {e}")
                     oferta_empleo = "Sin Data"
 
                 try:
@@ -119,8 +119,8 @@ def scrapear(logger: logging) -> date:
                         empresa = empresa_tag.get_text(strip=True)
                     else:
                         empresa = "Sin Data"
-                except ValueError:
-                    logger.exception("Error al extraer Empresa de la oferta")
+                except Exception as e:
+                    logger.exception(f"Error al extraer Empresa de la oferta -> {e}")
                     empresa = 'Sin Data'
 
                 # PROVINCIA - MODALIDAD - FECHA - SALARIO
@@ -131,8 +131,8 @@ def scrapear(logger: logging) -> date:
                         provincia, modalidad, date_oferta, salary = separa_provincia_modalidad_fecha_salario(provincia_modalidad_fecha_salario)
                     else:
                         provincia, modalidad, date_oferta, salary = ("Sin Data", "Sin Data", today, "Sin Data")
-                except ValueError:
-                    logger.exception("Error al extraer Provincia, Modalidad, Salario, Fecha de la oferta")
+                except Exception as e:
+                    logger.exception(f"Error al extraer Provincia, Modalidad, Salario, Fecha de la oferta -> {e}")
                     provincia = 'Sin Data'
                     modalidad = 'Sin Data'
                     salary = 'Sin Data'
@@ -153,11 +153,11 @@ def scrapear(logger: logging) -> date:
                         requisitos = requisitos.strip()
                     else:
                         requisitos = "Sin Data"
-                except ValueError:
+                except Exception as e:
                     requisitos = "Sin Data"
-                    logger.exception("Error al extraer Requisitos de la oferta")
-            except ValueError:
-                logger.exception(f"Error general en el procesamiento de la pagina {page}")
+                    logger.exception(f"Error al extraer Requisitos de la oferta -> {e}")
+            except Exception as e:
+                logger.exception(f"Error general en el procesamiento de la pagina {page} -> {e}")
                 pass
 
             encontro_condicion_finalizar = True
@@ -173,8 +173,8 @@ def scrapear(logger: logging) -> date:
         df.write_csv(ruta)
         logger.info(f"Scraping finalizado. Datos guardados en: {ruta}")
         return today
-    except TimeoutError:
-        logger.error("Error a la hora de cargar")
+    except Exception as e:
+        logger.error(f"Error a la hora de cargar -> {e}")
     return ayer
 
 
@@ -200,9 +200,9 @@ def main(proviene_de_distribuye: bool = False) -> None:
                 control_ejecusiones = json.load(f)
             logger.info("El json control_ejecusiones cargo correctamente")
             intentos += 1
-        except TimeoutError:
-            logger.error(f"Error al intentar cargar control_ejecusiones en el intento {intentos}")
-            time.sleep(300)
+        except Exception as e:
+            logger.error(f"Error al intentar cargar control_ejecusiones en el intento {intentos} -> {e}")
+            time.sleep(150)
             intentos += 1
             continue
 
@@ -211,15 +211,15 @@ def main(proviene_de_distribuye: bool = False) -> None:
 
         ultimo_tecnoempleo = scrapear(logger=logger)
         if ultimo_tecnoempleo < today:
-            time.sleep(300)
+            time.sleep(150)
         else:
             control_ejecusiones["ultima_ejecusion_tecnoempleo_scraping"] = str(today)
             try:
                 guardar_json(archivo=control_ejecusiones, ruta=ruta_control_ejecusiones)
                 logger.info(f"Se actualizo la fecha de la ultima vez scraper a --> {today}")
                 logger.info("Se ha actualizado el archivo -->  control_ejecusiones.json")
-            except TimeoutError:
-                logger.error("Error actualizacon archivo -->  control_ejecusiones.json")
+            except Exception as e:
+                logger.error(f"Error actualizacon archivo -->  control_ejecusiones.json -> {e}")
 
         if intentos == 5:
             logger.info("DESPUES DE 4 INTENTOS NO LOGRO SCRAPEAR TECNOEMPLEO")

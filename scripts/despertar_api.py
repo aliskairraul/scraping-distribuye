@@ -40,8 +40,8 @@ def main(maximo_intentos: int = 1, limpiar: bool = True, segundos: int = 10, pro
             with ruta_control_ejecusiones.open("r", encoding="utf-8") as f:
                 control_ejecusiones = json.load(f)
             logger.info("El json control_ejecusiones cargo correctamente")
-        except TimeoutError:
-            logger.error(f"Error al intentar cargar control_ejecusiones en el intento {intentos}")
+        except Exception as e:
+            logger.error(f"Error al intentar cargar control_ejecusiones en el intento {intentos} -> {e}")
 
         response = requests.get("https://primeraapirender.onrender.com/wake-up/")
 
@@ -61,8 +61,8 @@ def main(maximo_intentos: int = 1, limpiar: bool = True, segundos: int = 10, pro
                 try:
                     if datetime.strptime(fecha_str, "%Y-%m-%d").date() <= fecha_obsolecencia:
                         archivos_borrar.append(archivo)
-                except ValueError:
-                    logger.error("ERROR 500 el archivo tipo log tiene un nombre no previsto")
+                except Exception as e:
+                    logger.error(f"ERROR 500 el archivo tipo log tiene un nombre no previsto -> {e}")
 
             if len(archivos_borrar) > 0:
                 borrar_archivos(archivos=archivos_borrar, carpeta="logs", logger=logger)
@@ -72,8 +72,8 @@ def main(maximo_intentos: int = 1, limpiar: bool = True, segundos: int = 10, pro
     try:
         guardar_json(archivo=control_ejecusiones, ruta=ruta_control_ejecusiones)
         logger.info("Se actualizo el archivo de control de ejecusiones")
-    except TimeoutError:
-        logger.error("Error tratando de Actualizar el archivo de control de ejecusiones")
+    except Exception as e:
+        logger.error(f"Error tratando de Actualizar el archivo de control de ejecusiones -> {e}")
 
     if proviene_de_distribuye:
         ejecutar_script(SCRIPTS_APP["enviar_api"])

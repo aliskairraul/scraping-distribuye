@@ -42,11 +42,9 @@ def subir_a_google_drive(ruta_archivo: Path, nombre_archivo_gd: str, logger: log
             fields='id'
         ).execute()
         logger.info(f"Archivo subido, ID: {file.get('id')}")
-        # print(f"Archivo subido, ID: {file.get('id')}")
         return True
     except Exception as e:
         logger.error(f"Ocurrió un error al subir el archivo a Google Drive: {e}")
-        # print(f"Ocurrió un error al subir el archivo a Google Drive: {e}")
         return False
 
 
@@ -121,7 +119,7 @@ def main():
     while intentos_gd < 5 and not logro_grabar_google_drive:
         intentos_gd += 1
         try:
-            logro_grabar_google_drive = subir_a_google_drive(ruta_archivo=ruta, nombre_archivo_gd="base.parquet")
+            logro_grabar_google_drive = subir_a_google_drive(ruta_archivo=ruta, nombre_archivo_gd="base.parquet", logger=logger)
             if logro_grabar_google_drive:
                 logger.info("Archivo 'base.parquet' subido exitosamente a Google Drive.")
                 if logro_cargar_control_ejecusiones:
@@ -129,10 +127,10 @@ def main():
                 break  # Salir del bucle si es exitoso
             else:
                 logger.error(f"No se pudo subir a Google Drive en el intento --> {intentos_gd}")
-                time.sleep(300)  # Esperar antes de reintentar
+                time.sleep(150)  # Esperar antes de reintentar
         except Exception as e:
             logger.error(f"Error inesperado al subir a Google Drive: {e}")
-            time.sleep(300)
+            time.sleep(150)
 
     if logro_cargar_control_ejecusiones:
         try:

@@ -74,9 +74,9 @@ def scrapear(logger: logging) -> date:
             title_tag = job.find("h3")
             try:
                 oferta_empleo = title_tag.get_text(strip=True)
-            except ValueError:
+            except Exception as e:
                 oferta_empleo = None
-                logger.exception("Error al extraer oferta de empleo")
+                logger.exception(f"Error al extraer oferta de empleo -> {e}")
 
             # PROVINVIA Y LOCALIDAD
             prov_loc_tag = job.find("p", class_="cards__subtitle")
@@ -88,8 +88,8 @@ def scrapear(logger: logging) -> date:
                 else:
                     localidad = 'Sin Data'
                     provincia = 'Sin Data'
-            except ValueError:
-                logger.exception("Error al extraer provincia/localidad")
+            except Exception as e:
+                logger.exception(f"Error al extraer provincia/localidad -> {e}")
                 localidad = 'Sin Data'
                 provincia = 'Sin Data'
 
@@ -102,8 +102,8 @@ def scrapear(logger: logging) -> date:
                     salary = span_salary.get_text(strip=True)
                 else:
                     salary = "Sin Data"
-            except ValueError:
-                logger.exception("Error al extraer salario")
+            except Exception as e:
+                logger.exception(f"Error al extraer salario -> {e}")
                 salary = 'Sin Data'
 
             try:
@@ -111,8 +111,8 @@ def scrapear(logger: logging) -> date:
                 span_date = date_tag.find("span")
                 date_str = span_date.get_text(strip=True).replace("desde ", "")
                 date_oferta = datetime.strptime(date_str, "%d/%m/%Y").date()
-            except ValueError:
-                logger.exception("Error al extraer fecha de oferta")
+            except Exception as e:
+                logger.exception(f"Error al extraer fecha de oferta -> {e}")
                 date_oferta = None
 
             # EMPRESA
@@ -124,8 +124,8 @@ def scrapear(logger: logging) -> date:
                     empresa = empresa.split("/")[-1].replace("logo_", "").replace(".svg", "").replace("_", " ").capitalize()
                 else:
                     empresa = "Sin Data"
-            except ValueError:
-                logger.exception("Error al extraer Empresa de la oferta")
+            except Exception as e:
+                logger.exception(f"Error al extraer Empresa de la oferta -> {e}")
                 empresa = 'Sin Data'
 
             encontro_condicion_finalizar = True
@@ -141,8 +141,8 @@ def scrapear(logger: logging) -> date:
         df.write_csv(ruta)
         logger.info(f"Scraping finalizado. Datos guardados en: {ruta}")
         return today
-    except TimeoutError:
-        logger.error("Error a la hora de cargar")
+    except Exception as e:
+        logger.error(f"Error a la hora de cargar -> {e}")
     return ayer
 
 
@@ -168,9 +168,9 @@ def main(proviene_de_distribuye: bool = False) -> None:
                 control_ejecusiones = json.load(f)
             logger.info("El json control_ejecusiones cargo correctamente")
             intentos += 1
-        except TimeoutError:
-            logger.error(f"Error al intentar cargar control_ejecusiones en el intento {intentos}")
-            time.sleep(300)
+        except Exception as e:
+            logger.error(f"Error al intentar cargar control_ejecusiones en el intento {intentos} -> {e}")
+            time.sleep(150)
             intentos += 1
             continue
 
@@ -179,15 +179,15 @@ def main(proviene_de_distribuye: bool = False) -> None:
 
         ultimo_randstad = scrapear(logger=logger)
         if ultimo_randstad < today:
-            time.sleep(300)
+            time.sleep(150)
         else:
             control_ejecusiones["ultima_ejecusion_randstad_scraping"] = str(today)
             try:
                 guardar_json(archivo=control_ejecusiones, ruta=ruta_control_ejecusiones)
                 logger.info(f"Se actualizo la fecha de la ultima vez scraper a --> {today}")
                 logger.info("Se ha actualizado el archivo -->  control_ejecusiones.json")
-            except TimeoutError:
-                logger.error("Error actualizacon archivo -->  control_ejecusiones.json")
+            except Exception as e:
+                logger.error(f"Error actualizacon archivo control_ejecusiones.json -> {e}")
 
         if intentos == 5:
             logger.info("DESPUES DE 4 INTENTOS NO LOGRO SCRAPEAR RANDSTAD")
