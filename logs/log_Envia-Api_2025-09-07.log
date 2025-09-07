@@ -1,0 +1,13 @@
+2025-09-07 22:22:23 - INFO - [Envia-Api] - ********  Inicia Envio de Data Actualizada a API **************************
+2025-09-07 22:22:23 - INFO - [Envia-Api] - El json control_ejecusiones cargo correctamente
+2025-09-07 22:22:23 - INFO - [Envia-Api] - Archivo 'base.parquet' subido exitosamente a la Api.
+2025-09-07 22:22:23 - INFO - [Envia-Api] - Se logro enviar la data a la Api en el intento --> 1
+2025-09-07 22:22:23 - ERROR - [Envia-Api] - Ocurrió un error al subir el archivo a Google Drive: La variable de entorno GOOGLE_DRIVE_CREDENTIALS no está configurada.
+2025-09-07 22:22:23 - ERROR - [Envia-Api] - No se pudo subir a Google Drive en el intento --> 2
+2025-09-07 22:24:53 - ERROR - [Envia-Api] - Ocurrió un error al subir el archivo a Google Drive: La variable de entorno GOOGLE_DRIVE_CREDENTIALS no está configurada.
+2025-09-07 22:24:53 - ERROR - [Envia-Api] - No se pudo subir a Google Drive en el intento --> 3
+2025-09-07 22:27:23 - ERROR - [Envia-Api] - Ocurrió un error al subir el archivo a Google Drive: La variable de entorno GOOGLE_DRIVE_CREDENTIALS no está configurada.
+2025-09-07 22:27:23 - ERROR - [Envia-Api] - No se pudo subir a Google Drive en el intento --> 4
+2025-09-07 22:29:53 - ERROR - [Envia-Api] - Ocurrió un error al subir el archivo a Google Drive: La variable de entorno GOOGLE_DRIVE_CREDENTIALS no está configurada.
+2025-09-07 22:29:53 - ERROR - [Envia-Api] - No se pudo subir a Google Drive en el intento --> 5
+2025-09-07 22:32:23 - INFO - [Envia-Api] - Se Actualizo la fecha en el control de Ejecusiones para el envio de la Api
