@@ -1,0 +1,13 @@
+2025-09-08 02:54:58 - INFO - [Envia-Api] - ********  Inicia Envio de Data Actualizada a API **************************
+2025-09-08 02:54:58 - INFO - [Envia-Api] - El json control_ejecusiones cargo correctamente
+2025-09-08 02:54:58 - INFO - [Envia-Api] - Archivo 'base.parquet' subido exitosamente a la Api.
+2025-09-08 02:54:58 - INFO - [Envia-Api] - Se logro enviar la data a la Api en el intento --> 1
+2025-09-08 02:54:59 - ERROR - [Envia-Api] - Ocurrió un error al subir el archivo a Google Drive: <HttpError 404 when requesting None returned "File not found: 1q63_sLHuDqQItw88hAnTgzB6JOQcYNHx.". Details: "[{'message': 'File not found: 1q63_sLHuDqQItw88hAnTgzB6JOQcYNHx.', 'domain': 'global', 'reason': 'notFound', 'location': 'fileId', 'locationType': 'parameter'}]">
+2025-09-08 02:54:59 - ERROR - [Envia-Api] - No se pudo subir a Google Drive en el intento --> 2
+2025-09-08 02:57:29 - ERROR - [Envia-Api] - Ocurrió un error al subir el archivo a Google Drive: <HttpError 404 when requesting None returned "File not found: 1q63_sLHuDqQItw88hAnTgzB6JOQcYNHx.". Details: "[{'message': 'File not found: 1q63_sLHuDqQItw88hAnTgzB6JOQcYNHx.', 'domain': 'global', 'reason': 'notFound', 'location': 'fileId', 'locationType': 'parameter'}]">
+2025-09-08 02:57:29 - ERROR - [Envia-Api] - No se pudo subir a Google Drive en el intento --> 3
+2025-09-08 03:00:00 - ERROR - [Envia-Api] - Ocurrió un error al subir el archivo a Google Drive: <HttpError 404 when requesting None returned "File not found: 1q63_sLHuDqQItw88hAnTgzB6JOQcYNHx.". Details: "[{'message': 'File not found: 1q63_sLHuDqQItw88hAnTgzB6JOQcYNHx.', 'domain': 'global', 'reason': 'notFound', 'location': 'fileId', 'locationType': 'parameter'}]">
+2025-09-08 03:00:00 - ERROR - [Envia-Api] - No se pudo subir a Google Drive en el intento --> 4
+2025-09-08 03:02:30 - ERROR - [Envia-Api] - Ocurrió un error al subir el archivo a Google Drive: <HttpError 404 when requesting None returned "File not found: 1q63_sLHuDqQItw88hAnTgzB6JOQcYNHx.". Details: "[{'message': 'File not found: 1q63_sLHuDqQItw88hAnTgzB6JOQcYNHx.', 'domain': 'global', 'reason': 'notFound', 'location': 'fileId', 'locationType': 'parameter'}]">
+2025-09-08 03:02:30 - ERROR - [Envia-Api] - No se pudo subir a Google Drive en el intento --> 5
+2025-09-08 03:05:00 - INFO - [Envia-Api] - Se Actualizo la fecha en el control de Ejecusiones para el envio de la Api
