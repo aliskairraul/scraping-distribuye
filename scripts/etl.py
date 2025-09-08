@@ -150,6 +150,7 @@ def main(proviene_de_distribuye: bool = False) -> None:
         if intentos == 5:
             logger.info("DESPUES DE 4 INTENTOS NO LOGRO REALIZAR EL ETL")
 
+    proviene_de_distribuye = False
     if proviene_de_distribuye:
         ejecutar_script(SCRIPTS_APP["despertar_api"], maximo_intentos=2, limpiar=False, segundos=10, proviene_de_distribuye=True)
     return
