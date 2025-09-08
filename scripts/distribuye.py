@@ -15,12 +15,13 @@ def distribuye_segun_hora() -> None:
 
     hora_local = 18
     if hora_local == 18:
-        ejecutar_script(SCRIPTS_APP["randstad"], proviene_de_distribuye=True)
+        # ejecutar_script(SCRIPTS_APP["randstad"], proviene_de_distribuye=True)
         # ejecutar_script(SCRIPTS_APP["tecnoempleo"], proviene_de_distribuye=True)
         # ejecutar_script(SCRIPTS_APP["trabajoscom"], proviene_de_distribuye=True)
         # ejecutar_script(SCRIPTS_APP["etl"], proviene_de_distribuye=True)
         # ejecutar_script(SCRIPTS_APP["despertar_api"], maximo_intentos=2, limpiar=False, segundos=10, proviene_de_distribuye=True)
         # ejecutar_script(SCRIPTS_APP["enviar_api"])
+        ejecutar_script(SCRIPTS_APP["enviar_api"])
         return
 
 

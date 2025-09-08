@@ -2,7 +2,7 @@ name: Distribuye
 
 on:
   schedule:
-    - cron: '0 22 * * *'  # Cada hora en punto
+    - cron: '0 22 * * *' 
   workflow_dispatch:
 
 permissions:
@@ -27,6 +27,8 @@ jobs:
           pip install -r requirements.txt
 
       - name: Ejecutar script principal
+        env:
+          GOOGLE_DRIVE_CREDENTIALS: ${{ secrets.GOOGLE_DRIVE_CREDENTIALS }}
         run: python main.py distribuye
 
       - name: Configurar Git
