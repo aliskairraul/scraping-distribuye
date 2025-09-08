@@ -35,7 +35,7 @@ def subir_a_google_drive(ruta_archivo: Path, nombre_archivo_gd: str, id_carpeta_
 
         file_metadata = {
             'name': nombre_archivo_gd,
-            'parents': [id_carpeta_gd]  # <<-- ¡Aquí está la magia!
+            'parents': [id_carpeta_gd]
         }
         media = MediaFileUpload(ruta_archivo, resumable=True)
 
@@ -43,7 +43,6 @@ def subir_a_google_drive(ruta_archivo: Path, nombre_archivo_gd: str, id_carpeta_
             body=file_metadata,
             media_body=media,
             fields='id',
-            supportsAllDrives=True  # Necesario para unidades compartidas
         ).execute()
         logger.info(f"Archivo subido, ID: {file.get('id')}")
         return True
@@ -120,7 +119,7 @@ def main():
 
     # Bucle de reintentos para Google Drive
     logro_grabar_google_drive = False
-    id_tu_unidad_compartida = "1q63_sLHuDqQItw88hAnTgzB6JOQcYNHx"
+    id_tu_unidad_compartida = "1ZunaKaRk3xnhYIyVxex7DeHN3o4XoxTe"
     while intentos_gd < 5 and not logro_grabar_google_drive:
         intentos_gd += 1
         try:
