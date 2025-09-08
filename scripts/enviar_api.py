@@ -119,7 +119,8 @@ def main():
 
     # Bucle de reintentos para Google Drive
     logro_grabar_google_drive = False
-    id_tu_unidad_compartida = "1q63_sLHuDqQItw88hAnTgzB6JOQcYNHx"
+    id_tu_unidad_compartida = "15zkBbM-SvfDijlHgFQCthEo69lhjV9uM"
+    logger.info(f"Usando el ID de carpeta: {id_tu_unidad_compartida}")
     while intentos_gd < 5 and not logro_grabar_google_drive:
         intentos_gd += 1
         try:
