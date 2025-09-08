@@ -18,7 +18,7 @@ carpeta = Path("data/db")
 ruta = carpeta / "base.parquet"
 
 
-def subir_a_google_drive(ruta_archivo: Path, nombre_archivo_gd: str, logger: logging) -> bool:
+def subir_a_google_drive(ruta_archivo: Path, nombre_archivo_gd: str, id_carpeta_gd: str, logger: logging) -> bool:
     """
     Sube un archivo a Google Drive usando las credenciales de la cuenta de servicio.
     """
@@ -33,13 +33,17 @@ def subir_a_google_drive(ruta_archivo: Path, nombre_archivo_gd: str, logger: log
 
         service = build('drive', 'v3', credentials=creds)
 
-        file_metadata = {'name': nombre_archivo_gd}
+        file_metadata = {
+            'name': nombre_archivo_gd,
+            'parents': [id_carpeta_gd]  # <<-- ¡Aquí está la magia!
+        }
         media = MediaFileUpload(ruta_archivo, resumable=True)
 
         file = service.files().create(
             body=file_metadata,
             media_body=media,
-            fields='id'
+            fields='id',
+            supportsAllDrives=True  # Necesario para unidades compartidas
         ).execute()
         logger.info(f"Archivo subido, ID: {file.get('id')}")
         return True
@@ -116,10 +120,14 @@ def main():
 
     # Bucle de reintentos para Google Drive
     logro_grabar_google_drive = False
+    id_tu_unidad_compartida = "1ZunaKaRk3xnhYIyVxex7DeHN3o4XoxTe"
     while intentos_gd < 5 and not logro_grabar_google_drive:
         intentos_gd += 1
         try:
-            logro_grabar_google_drive = subir_a_google_drive(ruta_archivo=ruta, nombre_archivo_gd="base.parquet", logger=logger)
+            logro_grabar_google_drive = subir_a_google_drive(ruta_archivo=ruta,
+                                                             nombre_archivo_gd="base.parquet",
+                                                             id_carpeta_gd=id_tu_unidad_compartida,
+                                                             logger=logger)
             if logro_grabar_google_drive:
                 logger.info("Archivo 'base.parquet' subido exitosamente a Google Drive.")
                 if logro_cargar_control_ejecusiones:
