@@ -12,3 +12,6 @@ prueba_elt.ipynb
 cliente_API.ipynb
 credenciales.json
 notas.txt
+
+# Ignorar los Json de la raiz
+/*.json

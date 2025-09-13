@@ -82,6 +82,8 @@ def scrapear(logger: logging) -> date:
     logger.info(f"Iniciando scraping en plataforma: {plataforma}")
     data = []
     while not encontro_condicion_finalizar:
+        if page == 30:
+            break
         if page == 1:
             url = "https://www.tecnoempleo.com/ofertas-trabajo/"
         else:
