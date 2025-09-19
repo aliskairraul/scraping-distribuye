@@ -1,8 +1,8 @@
 {
-    "ultima_ejecusion_randstad_scraping": "2025-09-18",
-    "ultima_ejecusion_tecnoempleo_scraping": "2025-09-18",
-    "ultima_ejecusion_trabajoscom_scraping": "2025-09-18",
-    "ultima_ejecusion_etl": "2025-09-18",
+    "ultima_ejecusion_randstad_scraping": "2025-09-19",
+    "ultima_ejecusion_tecnoempleo_scraping": "2025-09-19",
+    "ultima_ejecusion_trabajoscom_scraping": "2025-09-19",
+    "ultima_ejecusion_etl": "2025-09-19",
     "ultima_ejecusion_enviar_api": "2025-09-08",
     "ultima_ejecusion_enviar_gd": "2025-09-04",
     "ultima_hora_despertar_api": 18,
