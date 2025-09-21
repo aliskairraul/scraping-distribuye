@@ -168,7 +168,7 @@ def main(proviene_de_distribuye: bool = False) -> None:
     encontro_algo_de_data = False
 
     intentos = 1
-    while intentos < 5 and ultimo_randstad < today:
+    while intentos < 5 and ultimo_randstad < today and (intentos == 1 or encontro_algo_de_data):
         logger.info(f"***********  Intento {intentos} de scrapear Randstad  ********************")
         try:
             with ruta_control_ejecusiones.open("r", encoding="utf-8") as f:
@@ -188,11 +188,14 @@ def main(proviene_de_distribuye: bool = False) -> None:
         if ultimo_randstad < today and encontro_algo_de_data:
             time.sleep(150)
         else:
-            control_ejecusiones["ultima_ejecusion_randstad_scraping"] = str(today)
             try:
-                guardar_json(archivo=control_ejecusiones, ruta=ruta_control_ejecusiones)
-                logger.info(f"Se actualizo la fecha de la ultima vez scraper a --> {today}")
-                logger.info("Se ha actualizado el archivo -->  control_ejecusiones.json")
+                if encontro_algo_de_data:
+                    control_ejecusiones["ultima_ejecusion_trabajoscom_scraping"] = str(today)
+                    guardar_json(archivo=control_ejecusiones, ruta=ruta_control_ejecusiones)
+                    logger.info(f"Se actualizo la fecha de la ultima vez scraper a --> {today}")
+                    logger.info("Se ha actualizado el archivo -->  control_ejecusiones.json")
+                else:
+                    logger.info("NO ACTUALIZO --> control_ejecusiones.json,  porque NO ENCONTRO DATA")
             except Exception as e:
                 logger.error(f"Error actualizacon archivo control_ejecusiones.json -> {e}")
 

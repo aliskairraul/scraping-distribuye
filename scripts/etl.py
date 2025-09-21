@@ -1,6 +1,7 @@
 import polars as pl
 from pathlib import Path
 from datetime import datetime, timedelta, date
+from zoneinfo import ZoneInfo
 import time
 import os
 import logging
@@ -27,8 +28,9 @@ def procesar_data(logger: logging) -> date:
     """
     logger.info("Iniciando el Procesamiento de la Data")
 
-    today = datetime.now().date()
+    today = datetime.now(ZoneInfo("America/Caracas")).date()
     ayer = today - timedelta(days=1)
+    hay_data_para_actualizar = False
 
     fecha_obsolecencia = today - timedelta(days=21)
     carpeta_scraping = Path("data/historico_scraping")
@@ -79,8 +81,9 @@ def procesar_data(logger: logging) -> date:
 
     if df_actualizacion.shape[0] == 0:
         logger.error("No hay ninguna Data disponible para actualizar")
-        return ayer
+        return ayer, hay_data_para_actualizar
 
+    hay_data_para_actualizar = True
     logger.info(f"Se logró cargar la data para actualizar, actualmente con {df_actualizacion.shape[0]} registros")
     df_actualizacion = df_actualizacion.with_columns(pl.col("Fecha").cast(pl.Date))
 
@@ -102,11 +105,11 @@ def procesar_data(logger: logging) -> date:
         df_base.write_parquet(ruta_base)
         logger.info(f"ETL finalizado, se guardaron los datos en {ruta_base}")
         logger.info(f"Despues de Juntar y eliminar ofertas repetidas quedaron {df_base.shape[0]} registros")
-        return today
+        return today, hay_data_para_actualizar
     except Exception as e:
         logger.error(f"No logró guardar la actualizacion correspondiente a {today}")
         logger.error(f'Error --> {e}')
-    return ayer
+    return ayer, hay_data_para_actualizar
 
 
 def main(proviene_de_distribuye: bool = False) -> None:
@@ -121,7 +124,8 @@ def main(proviene_de_distribuye: bool = False) -> None:
     carpeta = Path("data/variables")
     ruta_control_ejecusiones = carpeta / "control_ejecusiones.json"
 
-    today = datetime.now().date()
+    today = datetime.now(ZoneInfo("America/Caracas")).date()
+    hay_data_para_actualizar = False
     # limpiar_terminal()
 
     intentos = 1
@@ -135,18 +139,21 @@ def main(proviene_de_distribuye: bool = False) -> None:
         logger.error(f"Error --> {e}")
     ultimo_etl = date.fromisoformat(control_ejecusiones["ultima_ejecusion_etl"])
 
-    logger.info(f"Ultima vez que se scrapeo Randstad fue {ultimo_etl}")
-    while intentos < 5 and ultimo_etl < today:
-        ultimo_etl = procesar_data(logger=logger)
+    logger.info(f"Ultima vez que se ejecuto ETL {ultimo_etl}")
+    while intentos < 5 and ultimo_etl < today and (intentos == 1 or hay_data_para_actualizar):
+        ultimo_etl, hay_data_para_actualizar = procesar_data(logger=logger)
         if ultimo_etl < today:
-            time.sleep(450)
+            time.sleep(150)
             intentos += 1
         else:
-            control_ejecusiones["ultima_ejecusion_etl"] = str(today)
             try:
-                guardar_json(archivo=control_ejecusiones, ruta=ruta_control_ejecusiones)
-                logger.info(f"Se actualizo la fecha de la ultima vez ETL a --> {today}")
-                logger.info("Se ha actualizado el archivo -->  control_ejecusiones.json")
+                if hay_data_para_actualizar:
+                    control_ejecusiones["ultima_ejecusion_etl"] = str(today)
+                    guardar_json(archivo=control_ejecusiones, ruta=ruta_control_ejecusiones)
+                    logger.info(f"Se actualizo la fecha de la ultima vez ETL a --> {today}")
+                    logger.info("Se ha actualizado el archivo -->  control_ejecusiones.json")
+                else:
+                    logger.info("No Realizo ETL porque no habia Data para actualizar")
             except Exception as e:
                 logger.error("Error actualizacon archivo -->  control_ejecusiones.json")
                 logger.error(f'Error --> {e}')
