@@ -4,6 +4,7 @@ import polars as pl
 from pathlib import Path
 from schemas.schemas import schema_multiple
 from datetime import datetime, timedelta, date
+from zoneinfo import ZoneInfo
 import time
 import logging
 import json
@@ -40,7 +41,7 @@ def scrapear(logger: logging) -> date:
     Returns:
         date: Retorna la fecha de hoy (today) si logró scrapear la pagina correctamente, de lo contrario fue que no lo consiguió
     """
-    today = datetime.now().date()
+    today = datetime.now(ZoneInfo("America/Caracas")).date()
     ayer = today - timedelta(days=1)
     plataforma = 'Trabajoscom'
     experiencia = 'Sin Data'
@@ -164,13 +165,14 @@ def scrapear(logger: logging) -> date:
                 data.append(diccionario)
                 encontro_condicion_finalizar = False
 
-    df = pl.DataFrame(data)
-    try:
-        df.write_csv(ruta)
-        logger.info(f"Scraping finalizado. Datos guardados en: {ruta}")
-        return today
-    except Exception as e:
-        logger.error(f"Error a la hora de cargar -> {e}")
+    if len(data) > 0:
+        try:
+            df = pl.DataFrame(data)
+            df.write_csv(ruta)
+            logger.info(f"Scraping finalizado. Datos guardados en: {ruta}")
+            return today
+        except Exception as e:
+            logger.error(f"Error a la hora de cargar -> {e}")
     return ayer
 
 
