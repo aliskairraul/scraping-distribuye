@@ -23,6 +23,7 @@ def scrapear(logger: logging) -> date:
     Returns:
         date: Retorna la fecha de hoy (today) si logró scrapear la pagina correctamente, de lo contrario fue que no lo consiguió
     """
+    encontro_algo_de_data = False
     today = datetime.now(ZoneInfo("America/Caracas")).date()
     ayer = today - timedelta(days=1)
 
@@ -133,6 +134,7 @@ def scrapear(logger: logging) -> date:
 
             encontro_condicion_finalizar = True
             if oferta_empleo and date_oferta == today:
+                encontro_algo_de_data = True
                 values = (today, plataforma, provincia, localidad, oferta_empleo, salary, modalidad,
                           tipo_contrato, tipo_jornada, experiencia, empresa, requisitos)
                 diccionario = schema_multiple(values=values, keys=keys)
@@ -144,10 +146,10 @@ def scrapear(logger: logging) -> date:
             df = pl.DataFrame(data)
             df.write_csv(ruta)
             logger.info(f"Scraping finalizado. Datos guardados en: {ruta}")
-            return today
+            return today, encontro_algo_de_data
         except Exception as e:
             logger.error(f"Error a la hora de cargar -> {e}")
-    return ayer
+    return ayer, encontro_algo_de_data
 
 
 def main(proviene_de_distribuye: bool = False) -> None:
@@ -160,9 +162,10 @@ def main(proviene_de_distribuye: bool = False) -> None:
     carpeta = Path("data/variables")
     ruta_control_ejecusiones = carpeta / "control_ejecusiones.json"
 
-    today = datetime.now().date()
+    today = datetime.now(ZoneInfo("America/Caracas")).date()
     limpiar_terminal()
     ultimo_randstad = today - timedelta(days=1)
+    encontro_algo_de_data = False
 
     intentos = 1
     while intentos < 5 and ultimo_randstad < today:
@@ -181,8 +184,8 @@ def main(proviene_de_distribuye: bool = False) -> None:
         ultimo_randstad = date.fromisoformat(control_ejecusiones["ultima_ejecusion_randstad_scraping"])
         logger.info(f"Ultima vez que se scrapeo Randstad fue {ultimo_randstad}")
 
-        ultimo_randstad = scrapear(logger=logger)
-        if ultimo_randstad < today:
+        ultimo_randstad, encontro_algo_de_data = scrapear(logger=logger)
+        if ultimo_randstad < today and encontro_algo_de_data:
             time.sleep(150)
         else:
             control_ejecusiones["ultima_ejecusion_randstad_scraping"] = str(today)
