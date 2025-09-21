@@ -38,8 +38,8 @@ def procesar_data(logger: logging) -> date:
     try:
         df_base = pl.read_parquet(ruta_base)
         logger.info(f"Se logró cargar la DATABASE, actualmente con {df_base.shape[0]} registros")
-    except TimeoutError:
-        logger.exception("Error al intentar cargar la data Base")
+    except Exception as e:
+        logger.exception(f"Error al intentar cargar la data Base --> {e}")
         return
 
     # Clave Unica --> Todas las columnas - 'Fecha'  (Para evitar repetidos)
@@ -68,8 +68,9 @@ def procesar_data(logger: logging) -> date:
         ruta = carpeta_scraping / archivo
         try:
             df = pl.read_csv(ruta)
-        except TimeoutError:
+        except Exception as e:
             logger.exception(f"No logró cargar la data que deberia esta en {ruta}")
+            logger.exception(f'Error --> {e}')
             continue
         if i == 0:
             df_actualizacion = df
@@ -102,8 +103,9 @@ def procesar_data(logger: logging) -> date:
         logger.info(f"ETL finalizado, se guardaron los datos en {ruta_base}")
         logger.info(f"Despues de Juntar y eliminar ofertas repetidas quedaron {df_base.shape[0]} registros")
         return today
-    except TimeoutError:
+    except Exception as e:
         logger.error(f"No logró guardar la actualizacion correspondiente a {today}")
+        logger.error(f'Error --> {e}')
     return ayer
 
 
@@ -128,8 +130,9 @@ def main(proviene_de_distribuye: bool = False) -> None:
         with ruta_control_ejecusiones.open("r", encoding="utf-8") as f:
             control_ejecusiones = json.load(f)
         logger.info("El json control_ejecusiones cargo correctamente")
-    except TimeoutError:
+    except Exception as e:
         logger.error(f"Error al intentar cargar control_ejecusiones en el intento {intentos}")
+        logger.error(f"Error --> {e}")
     ultimo_etl = date.fromisoformat(control_ejecusiones["ultima_ejecusion_etl"])
 
     logger.info(f"Ultima vez que se scrapeo Randstad fue {ultimo_etl}")
@@ -144,8 +147,9 @@ def main(proviene_de_distribuye: bool = False) -> None:
                 guardar_json(archivo=control_ejecusiones, ruta=ruta_control_ejecusiones)
                 logger.info(f"Se actualizo la fecha de la ultima vez ETL a --> {today}")
                 logger.info("Se ha actualizado el archivo -->  control_ejecusiones.json")
-            except TimeoutError:
+            except Exception as e:
                 logger.error("Error actualizacon archivo -->  control_ejecusiones.json")
+                logger.error(f'Error --> {e}')
 
         if intentos == 5:
             logger.info("DESPUES DE 4 INTENTOS NO LOGRO REALIZAR EL ETL")
