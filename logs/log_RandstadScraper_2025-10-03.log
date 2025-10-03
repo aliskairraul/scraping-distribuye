@@ -1,0 +1,14 @@
+2025-10-03 22:18:41 - INFO - [RandstadScraper] - ***********  Intento 1 de scrapear Randstad  ********************
+2025-10-03 22:18:41 - INFO - [RandstadScraper] - El json control_ejecusiones cargo correctamente
+2025-10-03 22:18:41 - INFO - [RandstadScraper] - Ultima vez que se scrapeo Randstad fue 2025-09-19
+2025-10-03 22:18:41 - INFO - [RandstadScraper] - Iniciando scraping en plataforma: Randstad
+2025-10-03 22:18:43 - INFO - [RandstadScraper] - Pagina 1 cargada correctamente - URL: https://www.randstad.es/candidatos/ofertas-empleo/sa-1100/st-3/jp-50/
+2025-10-03 22:19:15 - INFO - [RandstadScraper] - Pagina 2 cargada correctamente - URL: https://www.randstad.es/candidatos/ofertas-empleo/sa-1100/st-3/jp-50/pg-2/
+2025-10-03 22:19:47 - INFO - [RandstadScraper] - Pagina 3 cargada correctamente - URL: https://www.randstad.es/candidatos/ofertas-empleo/sa-1100/st-3/jp-50/pg-3/
+2025-10-03 22:20:20 - INFO - [RandstadScraper] - Pagina 4 cargada correctamente - URL: https://www.randstad.es/candidatos/ofertas-empleo/sa-1100/st-3/jp-50/pg-4/
+2025-10-03 22:20:53 - INFO - [RandstadScraper] - Pagina 5 cargada correctamente - URL: https://www.randstad.es/candidatos/ofertas-empleo/sa-1100/st-3/jp-50/pg-5/
+2025-10-03 22:21:25 - INFO - [RandstadScraper] - Pagina 6 cargada correctamente - URL: https://www.randstad.es/candidatos/ofertas-empleo/sa-1100/st-3/jp-50/pg-6/
+2025-10-03 22:21:57 - INFO - [RandstadScraper] - Pagina 7 cargada correctamente - URL: https://www.randstad.es/candidatos/ofertas-empleo/sa-1100/st-3/jp-50/pg-7/
+2025-10-03 22:21:58 - INFO - [RandstadScraper] - Scraping finalizado. Datos guardados en: data/historico_scraping/Randstad_2025-10-03.csv
+2025-10-03 22:21:58 - INFO - [RandstadScraper] - Se actualizo la fecha de la ultima vez scraper a --> 2025-10-03
+2025-10-03 22:21:58 - INFO - [RandstadScraper] - Se ha actualizado el archivo -->  control_ejecusiones.json
