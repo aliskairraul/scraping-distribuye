@@ -1,0 +1,6 @@
+2025-10-18 22:19:27 - INFO - [TrabajoscomScraper] - **********   Intento 1 de scrapear Trabajoscom  ********************************
+2025-10-18 22:19:27 - INFO - [TrabajoscomScraper] - El json control_ejecusiones cargo correctamente
+2025-10-18 22:19:27 - INFO - [TrabajoscomScraper] - Ultima vez que se scrapeo Trabajoscom fue 2025-10-18
+2025-10-18 22:19:27 - INFO - [TrabajoscomScraper] - Iniciando scraping en plataforma: Trabajoscom
+2025-10-18 22:19:29 - INFO - [TrabajoscomScraper] - Pagina 1 cargada correctamente - URL: https://www.trabajos.com/ofertas-empleo/
+2025-10-18 22:19:29 - INFO - [TrabajoscomScraper] - NO ACTUALIZO --> control_ejecusiones.json,  porque NO ENCONTRO DATA
