@@ -1,0 +1,20 @@
+2025-10-31 22:24:28 - INFO - [TecnoempleoScraper] - ************** Intento 1 de scrapear Tecnoempleo  ********************************
+2025-10-31 22:24:28 - INFO - [TecnoempleoScraper] - El json control_ejecusiones cargo correctamente
+2025-10-31 22:24:28 - INFO - [TecnoempleoScraper] - Ultima vez que se scrapeo Tecnoempleo fue 2025-09-19
+2025-10-31 22:24:28 - INFO - [TecnoempleoScraper] - Iniciando scraping en plataforma: Tecnoempleo
+2025-10-31 22:24:29 - INFO - [TecnoempleoScraper] - Pagina 1 cargada correctamente - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2025-10-31 22:25:00 - INFO - [TecnoempleoScraper] - Pagina 2 cargada correctamente - URL: https://www.tecnoempleo.com/ofertas-trabajo/?pagina=2
+2025-10-31 22:25:30 - INFO - [TecnoempleoScraper] - Pagina 3 cargada correctamente - URL: https://www.tecnoempleo.com/ofertas-trabajo/?pagina=3
+2025-10-31 22:26:01 - INFO - [TecnoempleoScraper] - Pagina 4 cargada correctamente - URL: https://www.tecnoempleo.com/ofertas-trabajo/?pagina=4
+2025-10-31 22:26:31 - INFO - [TecnoempleoScraper] - Pagina 5 cargada correctamente - URL: https://www.tecnoempleo.com/ofertas-trabajo/?pagina=5
+2025-10-31 22:27:02 - INFO - [TecnoempleoScraper] - Pagina 6 cargada correctamente - URL: https://www.tecnoempleo.com/ofertas-trabajo/?pagina=6
+2025-10-31 22:27:32 - INFO - [TecnoempleoScraper] - Pagina 7 cargada correctamente - URL: https://www.tecnoempleo.com/ofertas-trabajo/?pagina=7
+2025-10-31 22:28:03 - INFO - [TecnoempleoScraper] - Pagina 8 cargada correctamente - URL: https://www.tecnoempleo.com/ofertas-trabajo/?pagina=8
+2025-10-31 22:28:34 - INFO - [TecnoempleoScraper] - Pagina 9 cargada correctamente - URL: https://www.tecnoempleo.com/ofertas-trabajo/?pagina=9
+2025-10-31 22:29:04 - INFO - [TecnoempleoScraper] - Pagina 10 cargada correctamente - URL: https://www.tecnoempleo.com/ofertas-trabajo/?pagina=10
+2025-10-31 22:29:35 - INFO - [TecnoempleoScraper] - Pagina 11 cargada correctamente - URL: https://www.tecnoempleo.com/ofertas-trabajo/?pagina=11
+2025-10-31 22:30:05 - INFO - [TecnoempleoScraper] - Pagina 12 cargada correctamente - URL: https://www.tecnoempleo.com/ofertas-trabajo/?pagina=12
+2025-10-31 22:30:36 - INFO - [TecnoempleoScraper] - Pagina 13 cargada correctamente - URL: https://www.tecnoempleo.com/ofertas-trabajo/?pagina=13
+2025-10-31 22:30:36 - INFO - [TecnoempleoScraper] - Scraping finalizado. Datos guardados en: data/historico_scraping/Tecnoempleo_2025-10-31.csv
+2025-10-31 22:30:36 - INFO - [TecnoempleoScraper] - Se actualizo la fecha de la ultima vez scraper a --> 2025-10-31
+2025-10-31 22:30:36 - INFO - [TecnoempleoScraper] - Se ha actualizado el archivo -->  control_ejecusiones.json
