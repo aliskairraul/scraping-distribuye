@@ -1,0 +1,44 @@
+Fecha,Plataforma,Provincia,Localidad,Oferta_Empleo,Salario,Modalidad,Tipo_Contrato,Tipo_Jornada,Experiencia,Empresa,Requisitos
+2025-11-22,Tecnoempleo,Madridy otras,Sin Data,"Analista Programador IA, BI",21.000€ - 30.000€ b/a,Sin Data,Sin Data,Sin Data,Sin Data,Incoming Domain,AWS -IAM -EC2
+2025-11-22,Tecnoempleo,Sin Data,Sin Data,Profesionales junior/senior Java,Sin Data,100% remoto,Sin Data,Sin Data,Sin Data,Seltime,java -spring -angular
+2025-11-22,Tecnoempleo,Sin Data,Sin Data,Arquitecto/a de Diseño de APIs,39.000€ - 45.000€ b/a,100% remoto,Sin Data,Sin Data,Sin Data,Social You,rest -api -openapi
+2025-11-22,Tecnoempleo,Sin Data,Sin Data,Especialista en Estimación y Métricas,Sin Data,100% remoto,Sin Data,Sin Data,Sin Data,Grupo Digital,IFPUG
+2025-11-22,Tecnoempleo,Sin Data,Sin Data,Specific IT PEGA Case Management,36.000€ - 45.000€ b/a,100% remoto,Sin Data,Sin Data,Sin Data,Grupo NS,PEGA
+2025-11-22,Tecnoempleo,Sin Data,Sin Data,Consultor/a SAP IBP,Sin Data,100% remoto,Sin Data,Sin Data,Sin Data,Grupo Digital,SAP -SAP IBP
+2025-11-22,Tecnoempleo,Sin Data,Sin Data,Consultor/a Técnico QA Salud,Sin Data,100% remoto,Sin Data,Sin Data,Sin Data,Grupo Digital,QA -REST
+2025-11-22,Tecnoempleo,Madrid,Sin Data,Ingeniero/a Bases de Datos,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,GMV,PostgreSQL -MySQL -Python
+2025-11-22,Tecnoempleo,Sin Data,Sin Data,Programador/a SR Oracle SOA + OSB,Sin Data,100% remoto,Sin Data,Sin Data,Sin Data,Grupo Digital,ORACLE -SOA
+2025-11-22,Tecnoempleo,Sin Data,Sin Data,Ingeniero/a OpenShift/Open Stack,Sin Data,100% remoto,Sin Data,Sin Data,Sin Data,Krell Consulting & Training,openshift -openstack -red hat
+2025-11-22,Tecnoempleo,Sin Data,Sin Data,Analista Big Data / Splunk,27.000€ - 30.000€ b/a,100% remoto,Sin Data,Sin Data,Sin Data,PSS,Splunk -SQL -SQL Server
+2025-11-22,Tecnoempleo,Sin Data,Sin Data,Programador Oracle SOA/OSB,36.000€ - 42.000€ b/a,100% remoto,Sin Data,Sin Data,Sin Data,PSS,Oracle SOA -Oracle OSB -Oracle BPM
+2025-11-22,Tecnoempleo,Sin Data,Sin Data,DevOps Specialist,Sin Data,100% remoto,Sin Data,Sin Data,Sin Data,Grupo Digital,Kubernetes -Azure -AKS
+2025-11-22,Tecnoempleo,Tarragona,Sin Data,Administrador/a de Sistemas Unix,Sin Data,Presencial,Sin Data,Sin Data,Sin Data,Grupo Digital,UNIX -ansible -red hat
+2025-11-22,Tecnoempleo,Málaga,Sin Data,Programador/a Angular + Java,Sin Data,Presencial,Sin Data,Sin Data,Sin Data,Grupo Digital,Angular -java
+2025-11-22,Tecnoempleo,Madrid,Sin Data,Operador/a SOC/CERT,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,GMV,Ciberseguridad -WAF -EDR
+2025-11-22,Tecnoempleo,Madrid,Sin Data,Técnico/a Senior de Redes,39.000€ - 54.000€ b/a,Sin Data,Sin Data,Sin Data,Sin Data,Page Personnel,LAN -WAN -TCP/IP
+2025-11-22,Tecnoempleo,Girona,Sin Data,Técnico de Soporte On-Site,18.000€ - 21.000€ b/a,Presencial,Sin Data,Sin Data,Sin Data,Nextret,microsoft -virtualizacion -redes
+2025-11-22,Tecnoempleo,Barcelona,Sin Data,Analista programador COBOL/DB2/SQL,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Second Window,Orale -db2 -sql
+2025-11-22,Tecnoempleo,Madrid,Sin Data,Senior Digital Analyst Adobe Analytics,30.000€ - 42.000€ b/a,Híbrido,Sin Data,Sin Data,Sin Data,Grupo NS,SQL -python -ADOBE ANALYTICS
+2025-11-22,Tecnoempleo,Sin Data,Sin Data,Administrador mainframe RACF,Sin Data,100% remoto,Sin Data,Sin Data,Sin Data,EXDESIS,Z/OS -RACF -mainframe
+2025-11-22,Tecnoempleo,Sin Data,Sin Data,Programador en BUSINESS CENTRAL,Sin Data,100% remoto,Sin Data,Sin Data,Sin Data,Davisa,Business Central -Dynamics NAV -Power BI
+2025-11-22,Tecnoempleo,Madrid,Sin Data,Technical Lead (Java/AWS),Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,UST,java -AWS -Spring
+2025-11-22,Tecnoempleo,Madrid,Sin Data,Data Engineer,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Cognizant Technology Solutions,AWS -SQL
+2025-11-22,Tecnoempleo,Madrid,Sin Data,iOS Developer - Spain based,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Cognizant Technology Solutions,Swift -iOS
+2025-11-22,Tecnoempleo,Barcelona,Sin Data,Senior Salesforce Developer,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Cognizant Technology Solutions,Salesforce
+2025-11-22,Tecnoempleo,Valladolid,Sin Data,Application Security Engineer,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Cognizant Technology Solutions,ServiceNow
+2025-11-22,Tecnoempleo,Madrid,Sin Data,IT Business Development Manager,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Sopra Steria,Ciberseguridad
+2025-11-22,Tecnoempleo,Madrid,Sin Data,Desarrollador/a Frontend React,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Sopra Steria,react -MongoDB
+2025-11-22,Tecnoempleo,Madrid,Sin Data,Angular Developer (inglés),Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Sopra Steria,Angular
+2025-11-22,Tecnoempleo,Madrid,Sin Data,Desarrollador/a Senior .NET,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Sopra Steria,.net -C#
+2025-11-22,Tecnoempleo,Madridy otras,Sin Data,Automation & Integration Engineer,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,PIXELABS,Python -Bash -API
+2025-11-22,Tecnoempleo,Madrid,Sin Data,EMEA Data Scientist,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Boston Scientific,SQL -Snowflake -BigQuery
+2025-11-22,Tecnoempleo,Madrid,Sin Data,Senior Data Platform Engineer,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Boston Scientific,ETL -Snowflake -AWS
+2025-11-22,Tecnoempleo,Málaga,Sin Data,Big Data Developer with Java,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,UST,java -ETL -Javascript
+2025-11-22,Tecnoempleo,Málaga,Sin Data,DevSecOps AWS/Python,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,UST,Python -AWS
+2025-11-22,Tecnoempleo,Madrid,Sin Data,Java Tech Lead (AWS),Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,UST,java -AWS
+2025-11-22,Tecnoempleo,Madrid,Sin Data,Agentic AI & Enterprise Architecture,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Ascendion,Agentic AI -AWS -Azure
+2025-11-22,Tecnoempleo,Zaragoza,Sin Data,Desarrollador/a de Firmware C++,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Segula Technologies,C++ -firmware -C
+2025-11-22,Tecnoempleo,Madrid,Sin Data,Embedded Software Engineer (Space),Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Airbus,C -C++ -Ada
+2025-11-22,Tecnoempleo,Madrid,Sin Data,Arquitecto/a Cloud AWS,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,sg tech,AWS -java -microservicios
+2025-11-22,Tecnoempleo,Madrid,Sin Data,Senior Developer Agentforce (Salesforce),Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,sg tech,Salesforce -Apex -Agentforce
+2025-11-22,Tecnoempleo,Barcelona,Sin Data,Desarrollador/a C++,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,sg tech,C++ -api -MQTT
