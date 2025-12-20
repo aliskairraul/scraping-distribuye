@@ -1,0 +1,47 @@
+Fecha,Plataforma,Provincia,Localidad,Oferta_Empleo,Salario,Modalidad,Tipo_Contrato,Tipo_Jornada,Experiencia,Empresa,Requisitos
+2025-12-20,Tecnoempleo,Sin Data,Sin Data,Analista Programador/a AS/400,Sin Data,100% remoto,Sin Data,Sin Data,Sin Data,PSS,as/400 -db2
+2025-12-20,Tecnoempleo,Sin Data,Sin Data,Programmer Analyst Senior,Sin Data,100% remoto,Sin Data,Sin Data,Sin Data,Krell Consulting & Training,java -etl
+2025-12-20,Tecnoempleo,Sin Data,Sin Data,Fullstack Developer PHP,24.000€ - 30.000€ b/a,100% remoto,Sin Data,Sin Data,Sin Data,Page Personnel,PHP -Laravel -Vue
+2025-12-20,Tecnoempleo,Sin Data,Sin Data,Developer Senior Fullstack,Sin Data,100% remoto,Sin Data,Sin Data,Sin Data,Krell Consulting & Training,java -spring -angular
+2025-12-20,Tecnoempleo,Sin Data,Sin Data,Architect BMC ITSM,Sin Data,100% remoto,Sin Data,Sin Data,Sin Data,PANEL Sistemas Informáticos,BMC -ITSM -Remedy
+2025-12-20,Tecnoempleo,Sin Data,Sin Data,Business Analyst,Sin Data,100% remoto,Sin Data,Sin Data,Sin Data,PANEL Sistemas Informáticos,agile -Scrum
+2025-12-20,Tecnoempleo,Barcelona,Sin Data,Automatista - Programador/a,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Randstad ES,PLC -Siemens
+2025-12-20,Tecnoempleo,Barcelona,Sin Data,Administrativo Soporte It,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Randstad ES,soporte -microinformatica
+2025-12-20,Tecnoempleo,Barcelona,Sin Data,Programador/a Plc Senior,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Randstad ES,PLC -HMI -SCADA
+2025-12-20,Tecnoempleo,Madrid,Sin Data,Data Analyst,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,FeverUp,Python -Excel -SQL
+2025-12-20,Tecnoempleo,Madrid,Sin Data,Devops Engineer,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,FeverUp,AWS -Docker -Terraform
+2025-12-20,Tecnoempleo,Madrid,Sin Data,Salesforce Marketing Cloud Engineer,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,FeverUp,Salesforce Marketing Cloud
+2025-12-20,Tecnoempleo,Madrid,Sin Data,Network Infrastructure Technician,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,FeverUp,Cisco -Aruba -HP
+2025-12-20,Tecnoempleo,Madrid,Sin Data,Salesforce Functional Lead,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,FeverUp,Salesforce -APEX
+2025-12-20,Tecnoempleo,Madrid,Sin Data,AI Search Innovation Strategist,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,FeverUp,SEO -LLM -Python
+2025-12-20,Tecnoempleo,Madrid,Sin Data,Cloud Solution Architect (m/f/d),Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,BASF,angular -.net -C#
+2025-12-20,Tecnoempleo,Madrid,Sin Data,Lead Data Engineer (m/f/d),Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,BASF,Python -azure -ETL
+2025-12-20,Tecnoempleo,Madrid,Sin Data,Cyber Security Engineer (m/f/d),Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,BASF,Ciberseguridad -CISSP -CISM
+2025-12-20,Tecnoempleo,Madrid,Sin Data,Data Architect,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,GFR Technologies SE,ETL -data
+2025-12-20,Tecnoempleo,Madrid,Sin Data,Sr Frontend Developer (React),Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,GFR Technologies SE,react -Redux
+2025-12-20,Tecnoempleo,Madrid,Sin Data,Senior Technical Project Manager,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,GFR Technologies SE,Project Manager -GCP
+2025-12-20,Tecnoempleo,Balearesy otras,Sin Data,Ingeniero de Inteligencia Artificial,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Somflow,Python -APIs REST -Postgres
+2025-12-20,Tecnoempleo,Madrid,Sin Data,AI Engineer (GenAI & LLMOps),Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,WayOps,GenAI -LLM -Python
+2025-12-20,Tecnoempleo,Madrid,Sin Data,Senior Data Engineer (Data Scraping),Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,WayOps,Playwright -Selenium -BeautifulSoup
+2025-12-20,Tecnoempleo,Madrid,Sin Data,Senior Data Engineer (Snowflake Expert),Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,WayOps,Snowflake -Python -SQL
+2025-12-20,Tecnoempleo,Madrid,Sin Data,Desarrollador aplicaciones AWS,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,UST,java -spring -AWS
+2025-12-20,Tecnoempleo,Barcelona,Sin Data,"Software Engineer, React",Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Bitpanda,react -NextJS -TypeScript
+2025-12-20,Tecnoempleo,Barcelona,Sin Data,"Software Engineer, Android (Earn Experience)",Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Bitpanda,Kotlin -Android
+2025-12-20,Tecnoempleo,Barcelona,Sin Data,"Software Engineer, iOS (Earn Experience)",Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Bitpanda,Swift -iOS
+2025-12-20,Tecnoempleo,Barcelona,Sin Data,"Software Engineer, Java (Broker app)",Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Bitpanda,java
+2025-12-20,Tecnoempleo,Barcelona,Sin Data,Programador Cobol,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Aubay,Cobol -JCL -DB2
+2025-12-20,Tecnoempleo,Barcelona,Sin Data,Desarrollador/a Fullstack Java Angular,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Aubay,Java -Angular
+2025-12-20,Tecnoempleo,Sin Data,Sin Data,Freelance Programador/a Sharepoint,Sin Data,100% remoto,Sin Data,Sin Data,Sin Data,sg tech,Sharepoint
+2025-12-20,Tecnoempleo,Madrid,Sin Data,Programador/a Backend Go,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,sg tech,Go -API -golang
+2025-12-20,Tecnoempleo,Madrid,Sin Data,Data Architect,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,sg tech,ETL -azure -Fabric
+2025-12-20,Tecnoempleo,Madrid,Sin Data,Analista Programador Java Moderno,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,sg tech,Java -Spring -APX
+2025-12-20,Tecnoempleo,Madrid,Sin Data,FullStack Developer (AI-Native),Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,sg tech,Apigee -react -next
+2025-12-20,Tecnoempleo,Sin Data,Sin Data,Ingeniero/a Azure Devops,Sin Data,100% remoto,Sin Data,Sin Data,Sin Data,sg tech,azure -Docker -Kubernetes
+2025-12-20,Tecnoempleo,Madrid,Sin Data,Data Engineer Databricks,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,Deloitte,Databricks -PySpark -Python
+2025-12-20,Tecnoempleo,Madrid,Sin Data,Data Engineer especialista MS Fabric,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,Deloitte,Fabric -PySpark -SparkSQL
+2025-12-20,Tecnoempleo,Madrid,Sin Data,Data Scientist IA o IA Generativa,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,Deloitte,Python -LLm -TensorFlow
+2025-12-20,Tecnoempleo,Zaragoza,Sin Data,Programador/a PLC - SIEMENS,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Segula Technologies,PLC -Siemens
+2025-12-20,Tecnoempleo,Madrid,Sin Data,Senior Software Engineering,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Santander,Java -Angular -SQL
+2025-12-20,Tecnoempleo,Madrid,Sin Data,Senior Cybersecurity Architect,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Santander,Ciberseguridad
+2025-12-20,Tecnoempleo,Madrid,Sin Data,DevOps Engineer,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Santander,AWS -Azure -GCP
+2025-12-20,Tecnoempleo,Madrid,Sin Data,Senior Sap Security & Compliance,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Randstad ES,SAP
