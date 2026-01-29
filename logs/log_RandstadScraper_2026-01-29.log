@@ -1,0 +1,12 @@
+2026-01-29 22:32:00 - INFO - [RandstadScraper] - ***********  Intento 1 de scrapear Randstad  ********************
+2026-01-29 22:32:00 - INFO - [RandstadScraper] - El json control_ejecusiones cargo correctamente
+2026-01-29 22:32:00 - INFO - [RandstadScraper] - Ultima vez que se scrapeo Randstad fue 2025-09-19
+2026-01-29 22:32:00 - INFO - [RandstadScraper] - Iniciando scraping en plataforma: Randstad
+2026-01-29 22:32:02 - INFO - [RandstadScraper] - Pagina 1 cargada correctamente - URL: https://www.randstad.es/candidatos/ofertas-empleo/sa-1100/st-3/jp-50/
+2026-01-29 22:32:35 - INFO - [RandstadScraper] - Pagina 2 cargada correctamente - URL: https://www.randstad.es/candidatos/ofertas-empleo/sa-1100/st-3/jp-50/pg-2/
+2026-01-29 22:33:08 - INFO - [RandstadScraper] - Pagina 3 cargada correctamente - URL: https://www.randstad.es/candidatos/ofertas-empleo/sa-1100/st-3/jp-50/pg-3/
+2026-01-29 22:33:40 - INFO - [RandstadScraper] - Pagina 4 cargada correctamente - URL: https://www.randstad.es/candidatos/ofertas-empleo/sa-1100/st-3/jp-50/pg-4/
+2026-01-29 22:34:12 - INFO - [RandstadScraper] - Pagina 5 cargada correctamente - URL: https://www.randstad.es/candidatos/ofertas-empleo/sa-1100/st-3/jp-50/pg-5/
+2026-01-29 22:34:13 - INFO - [RandstadScraper] - Scraping finalizado. Datos guardados en: data/historico_scraping/Randstad_2026-01-29.csv
+2026-01-29 22:34:13 - INFO - [RandstadScraper] - Se actualizo la fecha de la ultima vez scraper a --> 2026-01-29
+2026-01-29 22:34:13 - INFO - [RandstadScraper] - Se ha actualizado el archivo -->  control_ejecusiones.json
