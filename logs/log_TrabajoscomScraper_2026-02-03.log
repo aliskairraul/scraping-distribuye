@@ -1,0 +1,8 @@
+2026-02-03 05:21:28 - INFO - [TrabajoscomScraper] - **********   Intento 1 de scrapear Trabajoscom  ********************************
+2026-02-03 05:21:28 - INFO - [TrabajoscomScraper] - El json control_ejecusiones cargo correctamente
+2026-02-03 05:21:28 - INFO - [TrabajoscomScraper] - Ultima vez que se scrapeo Trabajoscom fue 2026-02-01
+2026-02-03 05:21:28 - INFO - [TrabajoscomScraper] - Iniciando scraping en plataforma: Trabajoscom
+2026-02-03 05:21:29 - INFO - [TrabajoscomScraper] - Pagina 1 cargada correctamente - URL: https://www.trabajos.com/ofertas-empleo/
+2026-02-03 05:21:29 - INFO - [TrabajoscomScraper] - Scraping finalizado. Datos guardados en: data/historico_scraping/Trabajoscom_2026-02-03.csv
+2026-02-03 05:21:29 - INFO - [TrabajoscomScraper] - Se actualizo la fecha de la ultima vez scraper a --> 2026-02-03
+2026-02-03 05:21:29 - INFO - [TrabajoscomScraper] - Se ha actualizado el archivo -->  control_ejecusiones.json

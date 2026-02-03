@@ -1,0 +1,6 @@
+2026-02-03 05:21:27 - INFO - [TecnoempleoScraper] - ************** Intento 1 de scrapear Tecnoempleo  ********************************
+2026-02-03 05:21:27 - INFO - [TecnoempleoScraper] - El json control_ejecusiones cargo correctamente
+2026-02-03 05:21:27 - INFO - [TecnoempleoScraper] - Ultima vez que se scrapeo Tecnoempleo fue 2025-09-19
+2026-02-03 05:21:27 - INFO - [TecnoempleoScraper] - Iniciando scraping en plataforma: Tecnoempleo
+2026-02-03 05:21:28 - INFO - [TecnoempleoScraper] - Pagina 1 cargada correctamente - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-02-03 05:21:28 - INFO - [TecnoempleoScraper] - NO ACTUALIZO --> control_ejecusiones.json,  porque NO ENCONTRO DATA

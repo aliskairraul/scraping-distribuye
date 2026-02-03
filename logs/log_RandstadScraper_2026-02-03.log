@@ -1,0 +1,6 @@
+2026-02-03 05:21:25 - INFO - [RandstadScraper] - ***********  Intento 1 de scrapear Randstad  ********************
+2026-02-03 05:21:25 - INFO - [RandstadScraper] - El json control_ejecusiones cargo correctamente
+2026-02-03 05:21:25 - INFO - [RandstadScraper] - Ultima vez que se scrapeo Randstad fue 2025-09-19
+2026-02-03 05:21:25 - INFO - [RandstadScraper] - Iniciando scraping en plataforma: Randstad
+2026-02-03 05:21:27 - INFO - [RandstadScraper] - Pagina 1 cargada correctamente - URL: https://www.randstad.es/candidatos/ofertas-empleo/sa-1100/st-3/jp-50/
+2026-02-03 05:21:27 - INFO - [RandstadScraper] - NO ACTUALIZO --> control_ejecusiones.json,  porque NO ENCONTRO DATA
