@@ -1,33 +1,417 @@
 Fecha,Plataforma,Provincia,Localidad,Oferta_Empleo,Salario,Modalidad,Tipo_Contrato,Tipo_Jornada,Experiencia,Empresa,Requisitos
 2026-02-03,Trabajoscom,Barcelona,Badalona,Limpiador/a.     Escola Bressol Badalona,1.285 €,Sin Data,De duracion determinada,Jornada Intensiva,Sin Data,Serveis Educatius Cavall de Cartró,Sin Data
 2026-02-03,Trabajoscom, Barcelona, Barcelona,Encargado/a limpieza.  Montornès del Vallès,22.000 €,Sin Data,Indefinido,Jornada Completa,Sin Data,CLECE,Sin Data
+2026-02-03,Trabajoscom,Madrid,Todo Madrid,Animadores deportivos,Sin Data,Sin Data,A tiempo parcial,Jornada Completa,Sin Data,Pathos Greece Entertainment,Sin Data
+2026-02-03,Trabajoscom,Madrid,Todo Madrid,Data Scientist - Python y Microsoft Fabric,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Page Personnel ETT,Sin Data
+2026-02-03,Trabajoscom,Madrid,Todo Madrid,Montador Mecánico Ajustador,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Open To Work,Sin Data
+2026-02-03,Trabajoscom,Tarragona,Todo Tarragona,Operario/a de Montaje Masllorenç (H/M/X),Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Manpower Trabajo Temporal,Sin Data
+2026-02-03,Trabajoscom,Baleares,Todo Baleares,Contable - Palma de Mallorca,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Page Personnel ETT,Sin Data
+2026-02-03,Trabajoscom,Madrid,Todo Madrid,Mozo-Operario-Carretilla,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Open To Work,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Todo Barcelona,Trade Marketing Junior (FMCG) - Barcelona,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Page Personnel ETT,Sin Data
+2026-02-03,Trabajoscom,Madrid,Todo Madrid,Técnico/a Contable y Fiscal,Sin Data,Sin Data,Indefinido,Media Jornada,Sin Data,EY,Sin Data
+2026-02-03,Trabajoscom,Málaga,Todo Málaga,Profesor/a Inmersión Lingüística Inglés,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Grupo Hedima,Sin Data
+2026-02-03,Trabajoscom,Cádiz,Todo Cádiz,Jefatura de obra eléctrica 198cb032,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,EY,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Todo Barcelona,Profesor/a Google WORKSPACE- Madrid/Barcelona,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Grupo Hedima,Sin Data
+2026-02-03,Trabajoscom,Valencia,Todo Valencia,Técnico/a de mantenimiento,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Eurofirms,Sin Data
+2026-02-03,Trabajoscom,Madrid,Todo Madrid,Back Office Financiero (H/M/X) Prácticas,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Manpower Trabajo Temporal,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Todo Barcelona,Responsable de Contabilidad y Personal (alrededores Igualada),Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Page Personnel ETT,Sin Data
+2026-02-03,Trabajoscom,Baleares,Todo Baleares,Ejecutivo de cuentas de empresas SR Broker Palma de Mallorca,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Page Personnel ETT,Sin Data
+2026-02-03,Trabajoscom,Ávila,Todo Ávila,RESPONSABLE DE MEJORA CONTINUA,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Page Personnel ETT,Sin Data
+2026-02-03,Trabajoscom,A Coruña,Santiago De Compostela,Servicio de limpieza y plancha en Santiago de Compostela,Sin Data,Sin Data,De duracion determinada,Trabajo Por Horas,Sin Data,Trigo y Martin Asociados,Sin Data
+2026-02-03,Trabajoscom,Madrid,Todo Madrid,Inspector de Instalaciones Eléctricas Baja Tensión en Organismo de Control y EICI,30.000 € - 35.000 €,Sin Data,Indefinido,Jornada Completa,Sin Data,Rieka Talent ETT,Sin Data
+2026-02-03,Trabajoscom,Zaragoza,Zaragoza,Calderero/a – Enderezado de Piezas de Aluminio,26.000 € - 27.000 €,Sin Data,Indefinido,Jornada Intensiva,Sin Data,Rieka Talent ETT,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Barcelona,Técnico Oficial de 1ª en Sistemas PCI y Seguridad,30.000 € - 34.000 €,Sin Data,Indefinido,Jornada Intensiva,Sin Data,Rieka Talent ETT,Sin Data
+2026-02-03,Trabajoscom,Huelva,Huelva,Encargado de obra o jefe de obra con experiencia en aislamiento industrial,30.000 € - 35.000 €,Sin Data,Indefinido,Jornada Completa,Sin Data,Rieka Talent ETT,Sin Data
+2026-02-03,Trabajoscom,Araba,Vitoria-Gasteiz,Conductor/a de grúa de asistencia (Carnet C + CAP o C+E + CAP),23.500 € - 28.000 €,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Rieka Talent ETT,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Mataro,Mecánico/a,27.000 €,Sin Data,Indefinido,Jornada Completa,Sin Data,Rieka Talent ETT,Sin Data
+2026-02-03,Trabajoscom,Madrid,Madrid,Interinidad Educador-a Infantil,15.000 € - 17.000 €,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Grupo Educativo,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Cerdanyola Del Valles,"Limpieza cristales (L-S, 20:30 - 22:00).  Cerdanyola del Vallès",Sin Data,Sin Data,Indefinido,Media Jornada,Sin Data,Limpiezas Deyse,Sin Data
+2026-02-03,Trabajoscom,Sevilla,Todo Sevilla,Comercial Interno T2,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Soluciones Tecnológicas Sevitec,Sin Data
+2026-02-03,Trabajoscom,Zaragoza,Zaragoza,Azafata/o con IDIOMAS para feria,Sin Data,Sin Data,Fijo discontinuo,Jornada Completa,Sin Data,Servicios Auxiliares Zaragoza,Sin Data
+2026-02-03,Trabajoscom,Cáceres,Todo Cáceres,Conductor/a de Camión con ADR,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Empresa de Selección,Sin Data
+2026-02-03,Trabajoscom,Castellón,Todo Castellón,Conductor/a de Camión con ADR,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Empresa de Selección,Sin Data
+2026-02-03,Trabajoscom,Córdoba,Todo Córdoba,Conductor/a de Camión con ADR,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Empresa de Selección,Sin Data
+2026-02-03,Trabajoscom,Cantabria,Todo Cantabria,Conductor/a de Camión con ADR,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Empresa de Selección,Sin Data
+2026-02-03,Trabajoscom,Bizkaia,Todo Bizkaia,Conductor/a de Camión con ADR,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Empresa de Selección,Sin Data
+2026-02-03,Trabajoscom,Ceuta,Todo Ceuta,Conductor/a de Camión con ADR,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Empresa de Selección,Sin Data
+2026-02-03,Trabajoscom,Gipuzkoa,Todo Gipuzkoa,Conductor/a de Camión con ADR,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Empresa de Selección,Sin Data
+2026-02-03,Trabajoscom,Badajoz,Todo Badajoz,Conductor/a de Camión con ADR,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Empresa de Selección,Sin Data
+2026-02-03,Trabajoscom,Guadalajara,Todo Guadalajara,Conductor/a de Camión con ADR,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Empresa de Selección,Sin Data
+2026-02-03,Trabajoscom,Araba,Todo Araba,Conductor/a de Camión con ADR,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Empresa de Selección,Sin Data
+2026-02-03,Trabajoscom,Sevilla,Todo Sevilla,Conductor/a de Camión con ADR,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Empresa de Selección,Sin Data
+2026-02-03,Trabajoscom,Navarra,Todo Navarra,Conductor/a de Camión con ADR,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Empresa de Selección,Sin Data
+2026-02-03,Trabajoscom,Melilla,Todo Melilla,Conductor/a de Camión con ADR,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Empresa de Selección,Sin Data
+2026-02-03,Trabajoscom,Toledo,Todo Toledo,Conductor/a de Camión con ADR,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Empresa de Selección,Sin Data
+2026-02-03,Trabajoscom,Valladolid,Todo Valladolid,Conductor/a de Camión con ADR,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Empresa de Selección,Sin Data
+2026-02-03,Trabajoscom,Almería,Todo Almería,Asesor/a Inmobiliario/a Autónomo/a,Sin Data,Sin Data,Autonomo,Freelance,Sin Data,Re/max Solución,Sin Data
+2026-02-03,Trabajoscom,Tenerife,Todo Tenerife,Oficial Albañil 1ª – Trabajo estable en Tenerife – 1. 500€ + valía,2.450 € - 3.200 €,Sin Data,Indefinido,Jornada Intensiva,Sin Data,Ormax Proyecta,Sin Data
+2026-02-03,Trabajoscom,Gipuzkoa,Todo Gipuzkoa,Back Office Ventas,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,AdegiLan,Sin Data
+2026-02-03,Trabajoscom,Gipuzkoa,Todo Gipuzkoa,Técnico/a de mantenimiento mecánico,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,AdegiLan,Sin Data
+2026-02-03,Trabajoscom,Gipuzkoa,Todo Gipuzkoa,Asesor-a Comercial de Formación,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,AdegiLan,Sin Data
+2026-02-03,Trabajoscom,Gipuzkoa,Todo Gipuzkoa,Responsable mantenimiento mecánico,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,AdegiLan,Sin Data
+2026-02-03,Trabajoscom,Gipuzkoa,Todo Gipuzkoa,Director/a de Hotel,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,AdegiLan,Sin Data
+2026-02-03,Trabajoscom,Valencia,Cheste,Operario/a [GMPR],17.000 €,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Galva 7 Empleo ETT,Sin Data
+2026-02-03,Trabajoscom,Córdoba,Todo Córdoba,Camarero/a de Pisos sustitución para Sercotel Medina Azahara,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,EY,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Todo Barcelona,Jefe/a de Obra de Instalaciones Integrales,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Page Personnel ETT,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Todo Barcelona,Bell Services Intern,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,EY,Sin Data
+2026-02-03,Trabajoscom,Madrid,Todo Madrid,Rooms Manager in Training (MIT) - Four Seasons Hotel Madrid,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,EY,Sin Data
+2026-02-03,Trabajoscom,Valencia,Todo Valencia,Jefe de Producción Obra Civil - Valencia,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Page Personnel ETT,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Todo Barcelona,Técnico Comercial Energia Solar Fotovoltaica Cataluña,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Page Personnel ETT,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Todo Barcelona,Técnico Superior de PRL - Especialidad Seguridad Industrial,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Page Personnel ETT,Sin Data
+2026-02-03,Trabajoscom,Murcia,Todo Murcia,Técnico/a de Mantenimiento Mecánico,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Page Personnel ETT,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Todo Barcelona,Chapista - Planchista,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Eurofirms,Sin Data
+2026-02-03,Trabajoscom,Madrid,Todo Madrid,Valet (turno de noche) - Four Seasons Hotel Madrid,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,EY,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Todo Barcelona,Group Sales Executive - W Barcelona,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,EY,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Todo Barcelona,Trade Marketing Junior (FMCG) - Barcelona,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Page Personnel ETT,Sin Data
+2026-02-03,Trabajoscom,Madrid,Todo Madrid,Senior Accountant with English (H/M/D) - Madrid,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Page Personnel ETT,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Todo Barcelona,Responsable de Contabilidad y Personal (alrededores Igualada),Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Page Personnel ETT,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Todo Barcelona,Recepcionista temporal para Sercotel Caspe,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,EY,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Todo Barcelona,Student Digital Marketing con Portugués- Barcelona,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Page Personnel ETT,Sin Data
+2026-02-03,Trabajoscom,Tarragona,Tarragona,Oficial/a polivalente.   Tarragona,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Multiserveis Ndavant,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Todo Barcelona,Group Sales Manager - W Barcelona,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,EY,Sin Data
+2026-02-03,Trabajoscom,Zaragoza,Cuarte De Huerva,Operario/a mantenimiento/reparación,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Grupo Adecco,Sin Data
+2026-02-03,Trabajoscom,Huesca,Huesca,Conductor Reparto C,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Grupo Adecco,Sin Data
+2026-02-03,Trabajoscom,Sevilla,Todo Sevilla,Recepcionista para nueva apertura de Sercotel en Sevilla,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,EY,Sin Data
+2026-02-03,Trabajoscom, Valencia, Valencia,TAPICERO/A,22.000 € - 25.000 €,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Grupo Adecco,Sin Data
+2026-02-03,Trabajoscom,Alicante,Todo Alicante,Backoffice con Inglés - Zona IBI,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Page Personnel ETT,Sin Data
+2026-02-03,Trabajoscom,Murcia,Todo Murcia,Técnico/a Laboral (empresa),Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Page Personnel ETT,Sin Data
+2026-02-03,Trabajoscom,Baleares,Todo Baleares,Contable - Palma de Mallorca,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Page Personnel ETT,Sin Data
+2026-02-03,Trabajoscom,Madrid,Todo Madrid,CONDUCTOR C+E (Humanes de Madrid),Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Grupo Adecco,Sin Data
+2026-02-03,Trabajoscom,Sevilla,Todo Sevilla,Ingeniero/a Comercial- automatización y maquinaria industrial,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Page Personnel ETT,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Sant Joan Despi,Oficial/a instalaciones térmicas y fluidos.  Sant Joan Despí,26.967 €,Sin Data,Indefinido,Jornada Completa,Sin Data,CLECE,Sin Data
+2026-02-03,Trabajoscom,Sevilla,Todo Sevilla,Comercial de Eventos Nueva Apertura Hotel en Sevilla,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,EY,Sin Data
+2026-02-03,Trabajoscom,Gipuzkoa,Usurbil,Operario/A Producción,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Grupompleo,Sin Data
+2026-02-03,Trabajoscom,Bizkaia,Ortuella,Operario/A de Almacén,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Grupompleo,Sin Data
+2026-02-03,Trabajoscom,Burgos,Todo Burgos,Peón Especialista,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Grupompleo,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Granollers,Operario/A Producción Sector Quimico,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Grupompleo,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Todo Barcelona,Operario/A Quimico,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Grupompleo,Sin Data
+2026-02-03,Trabajoscom,Navarra,Todo Navarra,Operario/A de Produccion,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Grupompleo,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Castellbisbal,Operario/A Con Carretilla y Puente Grúa En Vigor,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Grupompleo,Sin Data
+2026-02-03,Trabajoscom,Navarra,Todo Navarra,Especialista Producción,Sin Data,Sin Data,De duracion determinada,Jornada Indiferente,Sin Data,Grupompleo,Sin Data
+2026-02-03,Trabajoscom,Rioja,Todo Rioja,Administrativo/A Media Jornada,Sin Data,Sin Data,De duracion determinada,Jornada Indiferente,Sin Data,Grupompleo,Sin Data
 2026-02-03,Trabajoscom,Madrid,Torrejon De Ardoz,MOZOS/AS  DE ALMACEN TURNO PARCIAL MAÑANA,Sin Data,Sin Data,A tiempo parcial,Jornada Completa,Sin Data,Iman Temporing,Sin Data
 2026-02-03,Trabajoscom,Lleida,Lleida,ELECTROMECANICO/A,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Iman Temporing,Sin Data
 2026-02-03,Trabajoscom,Barcelona,Caldes De Montbui,Operario/a en planta de reciclaje ( metal ),22.000 € - 24.000 €,Sin Data,Indefinido,Jornada Completa,Sin Data,Iman Temporing,Sin Data
 2026-02-03,Trabajoscom,Palencia,Todo Palencia,Peón industrial OSORNO,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Pontevedra,Todo Pontevedra,CONDUCTOR TRAILER (C+E),20.000 € - 22.000 €,Sin Data,Indefinido,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Jaén,Jaen,"Docente para impartir el itinerario ""Manejo y Mantenimiento del Tractor Agrícola y Equipos",Sin Data,Sin Data,A tiempo parcial,Jornada Indiferente,Sin Data,Iman Global Consulting,Sin Data
+2026-02-03,Trabajoscom,Lleida,Lleida,Vigilante Seguridad Lleida ( lunes a viernes sust),Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Iman Seguridad,Sin Data
+2026-02-03,Trabajoscom,Guadalajara,Cabanillas Del Campo,CARRETILLERO/A RETRÁCTIL,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Jaén,Jaen,Ingeniero/a Comercial,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Lleida,Lleida,REPARTIDOR/A CARNET B Y MOZO/A ALMACÉN,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Santa Perpetua De Mogoda,OPERARIO/A DE MONTAJE Y SOLDADURA DE ROBOTS,14 € - 16 €,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Santa Perpetua De Mogoda,MOZO/A DE ALMACÉN,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,A Coruña,A Coruña,CONDUCTOR/A-REPARTIDOR/A CON CARNET C+CAP,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Iman Temporing,Sin Data
 2026-02-03,Trabajoscom,Barcelona,Todo Barcelona,Vigilante de Seguridad - Administración Pública,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Iman Seguridad,Sin Data
 2026-02-03,Trabajoscom,Barcelona,Santa Perpetua De Mogoda,CARRETILLERO/A FRONTAL (Sector Automoción),15 € - 17 €,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Iman Temporing,Sin Data
 2026-02-03,Trabajoscom,Tarragona,La Selva Del Camp,Carretillero/a de almacén,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Iman Temporing,Sin Data
 2026-02-03,Trabajoscom,Madrid,Todo Madrid,Técnico/a Nóminas-RRHH,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Citius Outsourcing,Sin Data
 2026-02-03,Trabajoscom,Gipuzkoa,Asteasu,Programador de maquinaria industrial CNC,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Iman Temporing,Sin Data
-2026-02-03,Trabajoscom,Barcelona,Santa Perpetua De Mogoda,OPERARIO/A DE MONTAJE Y SOLDADURA DE ROBOTS,14 € - 16 €,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Iman Temporing,Sin Data
-2026-02-03,Trabajoscom,Barcelona,Santa Perpetua De Mogoda,MOZO/A DE ALMACÉN,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Iman Temporing,Sin Data
-2026-02-03,Trabajoscom,Lleida,Lleida,REPARTIDOR/A CARNET B Y MOZO/A ALMACÉN,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Iman Temporing,Sin Data
-2026-02-03,Trabajoscom,A Coruña,A Coruña,CONDUCTOR/A-REPARTIDOR/A CON CARNET C+CAP,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Granada,Guadix,Operario/a de fábrica (MEDIA JORNADA),Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Crit Interim España ETT,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Terrassa,Comercial sector Hospitalario con inglés,30.000 € - 45.000 €,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Madrid,Alcala De Henares,Enfermero/a - DUE Centro Residencial DomusVi Espartales,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,DomusVi,Sin Data
+2026-02-03,Trabajoscom,Huelva,Huelva,Mozo de almacén - Carretilla,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Crit Interim España ETT,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Avinyonet Del Penedes,Jefe/a de planta - Avinyonet del Penedes,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Crit Interim España ETT,Sin Data
+2026-02-03,Trabajoscom,Girona,Girona,Operador/a Depuradora (Riells i Viabrea),Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Zaragoza,Todo Zaragoza,Operario/a extrusión vehículo propio,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Crit Interim España ETT,Sin Data
+2026-02-03,Trabajoscom,Coruña,Todo Coruña,Oficial de mantenimiento Centro Residencial DomusVi Laraxe,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,DomusVi,Sin Data
+2026-02-03,Trabajoscom,Madrid,Todo Madrid,Mozo/a de almacén Pinto,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Madrid,Leganes,Jefe/a de proyectos eléctricos y de automatización industrial (senior),Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Vilassar De Dalt,OPERARIO/A VERIFICACIÓN PIEZAS PEQUEÑAS,25.000 € - 26.000 €,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Castellón,Nules,Hornero/a de frita.,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Lleida,Lleida,OFICIAL DE 1ª,20.000 € - 25.000 €,Sin Data,Indefinido,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Madrid,Alcala De Henares,Enfermero/a - DUE Centro Residencial DomusVi Espartales,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,DomusVi,Sin Data
+2026-02-03,Trabajoscom,Huelva,Huelva,Mozo de almacén - Carretilla,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Crit Interim España ETT,Sin Data
+2026-02-03,Trabajoscom,Girona,Girona,Operador/a Depuradora (Riells i Viabrea),Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Zaragoza,Todo Zaragoza,Operario/a extrusión vehículo propio,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Crit Interim España ETT,Sin Data
+2026-02-03,Trabajoscom,Alicante,Todo Alicante,Dependiente/a (Alcoy),Sin Data,Sin Data,De duracion determinada,Media Jornada,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Jaén,La Carolina,Operarios/as Fabrica (Sin experiencia) La Carolina,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Crit Interim España ETT,Sin Data
+2026-02-03,Trabajoscom,Madrid,Todo Madrid,Mozo/a de almacén Pinto,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Madrid,Leganes,Jefe/a de proyectos eléctricos y de automatización industrial (senior),Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Avinyonet Del Penedes,Jefe/a de planta - Avinyonet del Penedes,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Crit Interim España ETT,Sin Data
+2026-02-03,Trabajoscom,Madrid,Las Rozas De Madrid,Administrativo/a de ventas y gestión comercial,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Castellbisbal,Reciclador/a-separador/a,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Crit Interim España ETT,Sin Data
+2026-02-03,Trabajoscom,Madrid,Alcala De Henares,Administración DomusVi,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,DomusVi,Sin Data
+2026-02-03,Trabajoscom,Murcia,Murcia,Electricista Industrial (H/M),Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Crit Interim España ETT,Sin Data
+2026-02-03,Trabajoscom,Gipuzkoa,Todo Gipuzkoa,Montador/a Mecánico Industrial,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Alicante,Beneixama,Administrativo/a Contable (Beneixama),20.000 €,Sin Data,Indefinido,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Madrid,Alcala De Henares,Consultor Senior de Recursos Humanos,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Crit Interim España ETT,Sin Data
+2026-02-03,Trabajoscom,Madrid,Camarma De Esteruelas,Manipuladores/as,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Araba,Vitoria-Gasteiz,OFICIAL 2º - VITORIA-GASTEIZ,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Crit Interim España ETT,Sin Data
+2026-02-03,Trabajoscom,Zaragoza,Zuera,Auxiliar Administrativo/a (temporal),Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Crit Interim España ETT,Sin Data
+2026-02-03,Trabajoscom,Araba,Vitoria-Gasteiz,Técnico Mantenimiento Electricista-Vitoria-Gasteiz,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Crit Interim España ETT,Sin Data
+2026-02-03,Trabajoscom,Tarragona,Riudoms,Analista de Laboratorio Control Calidad,23.000 € - 25.000 €,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Murcia,Murcia,Administrativo/a de recepción con inglés,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Málaga,Todo Málaga,Aux. Administrativo / Mozo de almacén - (H/M),Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Crit Interim España ETT,Sin Data
+2026-02-03,Trabajoscom,Granada,Todo Granada,"Químico/a analítico ""Encargado/a Laboratorio""",Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Crit Interim España ETT,Sin Data
+2026-02-03,Trabajoscom,Madrid,Alcorcon,Responsable de Delegación y Proyectos,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Crit Interim España ETT,Sin Data
+2026-02-03,Trabajoscom,Lugo,Outeiro De Rei,Ayudante de Cocina- Centro Residencial DomusVi Outeiro de Rei,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,DomusVi,Sin Data
+2026-02-03,Trabajoscom,Sevilla,Todo Sevilla,Dependiente/a Pescadería,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Valencia,Paterna,Operario/a de linea,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Burgos,Todo Burgos,CARPINTERO/A ALUMINIO,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Valencia,Rafelcofer,Operarios/as montaje - Rafelcofer- Gandia,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Crit Interim España ETT,Sin Data
+2026-02-03,Trabajoscom,Castellón,Onda,Operario/a montaje de moldes.,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Jaén,Guarroman,Operario/a de Calidad Sector Industrial,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Crit Interim España ETT,Sin Data
+2026-02-03,Trabajoscom,Valencia,Lliria,Cocinero/a - Centro Residencial DomusVi Jardines de Llíria,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,DomusVi,Sin Data
+2026-02-03,Trabajoscom,Jaén,Jaen,Operario/a de envasado,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Crit Interim España ETT,Sin Data
+2026-02-03,Trabajoscom,Málaga,Antequera,Operario de fábrica (H/M) - Antequera,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Crit Interim España ETT,Sin Data
+2026-02-03,Trabajoscom,Valencia,Almussafes,Mecánico/a de Taller en Almussafes,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Crit Interim España ETT,Sin Data
+2026-02-03,Trabajoscom,Madrid,Arganda Del Rey,Soldador/a hilo. T. Mañana,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Málaga,Todo Málaga,Conductor/Repartidor con carnet C + CAP (H-M),Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Crit Interim España ETT,Sin Data
+2026-02-03,Trabajoscom,Madrid,Todo Madrid,"Recepcionista Ingles C1, tardes, Leganés",Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Iman Corporation,Sin Data
 2026-02-03,Trabajoscom,Valladolid,Medina Del Campo,Operario de mecanizado,12 €,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Grupo Adecco,Sin Data
-2026-02-03,Trabajoscom,Barcelona,Barcelona,Vigilantes Seguridad NOCTURNO.  Zona Franca,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Clece Seguridad,Sin Data
 2026-02-03,Trabajoscom, Valencia, Valencia,Personal de limpieza (H/M/D) con discapacidad (SOLLANA),Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Ilunion,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Barcelona,Vigilantes Seguridad NOCTURNO.  Zona Franca,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Clece Seguridad,Sin Data
+2026-02-03,Trabajoscom,Lleida,La Seu D'urgell,FONTANERO/TÉCNICO CLIMA,25.000 € - 32.000 €,Sin Data,Indefinido,Jornada Completa,Sin Data,Pmir Instal·Lacions,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Badalona,Dependiente de Supermercado Badalona,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,CH Montferrer,Sin Data
+2026-02-03,Trabajoscom,Baleares,Todo Baleares,Responsable de Facturación - Palma de Mallorca,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Page Personnel ETT,Sin Data
+2026-02-03,Trabajoscom,Alicante,Todo Alicante,Administrativo/a contable,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Page Personnel ETT,Sin Data
+2026-02-03,Trabajoscom,Madrid,Todo Madrid,Fiscalista - Firma de Servicios Profesionales,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Page Personnel ETT,Sin Data
+2026-02-03,Trabajoscom,Madrid,Todo Madrid,Perfil Telemarketing Venta Formación (media jornada),Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Page Personnel ETT,Sin Data
+2026-02-03,Trabajoscom,Cáceres,Todo Cáceres,Comercial suministro Industrial,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Blinker España,Sin Data
+2026-02-03,Trabajoscom,Madrid,Todo Madrid,Gerente de cuentas RC Profesional,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Page Personnel ETT,Sin Data
+2026-02-03,Trabajoscom,Madrid,Todo Madrid,Soldador/a,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Page Personnel ETT,Sin Data
+2026-02-03,Trabajoscom,Valencia,Todo Valencia,Técnico/a de expansión - Comunidad Valencia y Murcia.,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Page Personnel ETT,Sin Data
+2026-02-03,Trabajoscom,Ávila,Todo Ávila,RESPONSABLE DE MEJORA CONTINUA,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,EY,Sin Data
+2026-02-03,Trabajoscom,Alicante,Todo Alicante,Teleoperador/a de Ventas,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Blinker España,Sin Data
+2026-02-03,Trabajoscom,Tarragona,Todo Tarragona,Operario/a mecanizados con CNC (H/M/X),Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Manpower Trabajo Temporal,Sin Data
+2026-02-03,Trabajoscom,Ávila,Todo Ávila,Técnico/a PRL,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Page Personnel ETT,Sin Data
+2026-02-03,Trabajoscom,Ourense,Todo Ourense,Comercial Alarmas - Puerta fría,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Eurofirms,Sin Data
+2026-02-03,Trabajoscom,Alicante,Todo Alicante,Albañil/a de 1ª,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Eurofirms,Sin Data
+2026-02-03,Trabajoscom,Valencia,Todo Valencia,Técnico/a de Mantenimiento Electromecánico,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Page Personnel ETT,Sin Data
+2026-02-03,Trabajoscom,Madrid,Todo Madrid,Soldador/a,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,EY,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Todo Barcelona,Técnico Comercial Energia Solar Fotovoltaica Cataluña,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Page Personnel ETT,Sin Data
+2026-02-03,Trabajoscom,Araba,Todo Araba,Operario/a metal,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Eurofirms,Sin Data
+2026-02-03,Trabajoscom,Alicante,Todo Alicante,Backoffice con Inglés - Zona IBI,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Page Personnel ETT,Sin Data
+2026-02-03,Trabajoscom,Madrid,Todo Madrid,Técnico Comercial – Sector Climatización,30.000 € - 40.000 €,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Rieka Talent ETT,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Sant Cugat Del Valles,Tornero/a,Sin Data,Sin Data,Indefinido,Jornada Intensiva,Sin Data,Rieka Talent ETT,Sin Data
+2026-02-03,Trabajoscom,Navarra,Andosilla,Mecánico/a de vehículos industriales,26.000 € - 31.000 €,Sin Data,Indefinido,Jornada Intensiva,Sin Data,Rieka Talent ETT,Sin Data
+2026-02-03,Trabajoscom,Madrid,Todo Madrid,Técnico Electricista y Mantenimiento Industrial,22.000 € - 26.000 €,Sin Data,Indefinido,Jornada Completa,Sin Data,Rieka Talent ETT,Sin Data
+2026-02-03,Trabajoscom,Navarra,Pamplona/iruña,Mecánico para el mantenimiento y reparación de carretillas y maquinaria de obra pública,25.000 € - 35.000 €,Sin Data,Indefinido,Jornada Completa,Sin Data,Rieka Talent ETT,Sin Data
+2026-02-03,Trabajoscom,Madrid,Meco,Mecánico de Coches – Oficial de 1ª,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Rieka Talent ETT,Sin Data
+2026-02-03,Trabajoscom,Huelva,Todo Huelva,Conductor/a de Camión con ADR,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Empresa de Selección,Sin Data
+2026-02-03,Trabajoscom,Real,Todo Real,Conductor/a de Camión con ADR,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Empresa de Selección,Sin Data
+2026-02-03,Trabajoscom,Ávila,Todo Ávila,Conductor/a de Camión con ADR,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Empresa de Selección,Sin Data
+2026-02-03,Trabajoscom,Alicante,Todo Alicante,Conductor/a de Camión con ADR,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Empresa de Selección,Sin Data
+2026-02-03,Trabajoscom,Pontevedra,Todo Pontevedra,Conductor/a de Camión con ADR,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Empresa de Selección,Sin Data
+2026-02-03,Trabajoscom,Almería,Todo Almería,Conductor/a de Camión con ADR,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Empresa de Selección,Sin Data
+2026-02-03,Trabajoscom,Murcia,Todo Murcia,Conductor/a de Camión con ADR,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Empresa de Selección,Sin Data
+2026-02-03,Trabajoscom,Zamora,Todo Zamora,Conductor/a de Camión con ADR,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Empresa de Selección,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Todo Barcelona,Conductor/a de Camión con ADR,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Empresa de Selección,Sin Data
+2026-02-03,Trabajoscom,Girona,Todo Girona,Conductor/a de Camión con ADR,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Empresa de Selección,Sin Data
+2026-02-03,Trabajoscom,Cuenca,Todo Cuenca,Conductor/a de Camión con ADR,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Empresa de Selección,Sin Data
+2026-02-03,Trabajoscom,Lugo,Todo Lugo,Conductor/a de Camión con ADR,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Empresa de Selección,Sin Data
+2026-02-03,Trabajoscom,Valencia,Todo Valencia,Conductor/a de Camión con ADR,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Empresa de Selección,Sin Data
+2026-02-03,Trabajoscom,Salamanca,Todo Salamanca,Conductor/a de Camión con ADR,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Empresa de Selección,Sin Data
+2026-02-03,Trabajoscom,Ourense,Todo Ourense,Conductor/a de Camión con ADR,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Empresa de Selección,Sin Data
+2026-02-03,Trabajoscom,Palencia,Todo Palencia,Conductor/a de Camión con ADR,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Empresa de Selección,Sin Data
+2026-02-03,Trabajoscom,Rioja,Todo Rioja,Conductor/a de Camión con ADR,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Empresa de Selección,Sin Data
+2026-02-03,Trabajoscom,Palmas,Todo Palmas,Conductor/a de Camión con ADR,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Empresa de Selección,Sin Data
+2026-02-03,Trabajoscom,Albacete,Todo Albacete,Conductor/a de Camión con ADR,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Empresa de Selección,Sin Data
+2026-02-03,Trabajoscom,Sevilla,Mairena Del Aljarafe,Geólogo/Ingeniero Geólogo para actividades en geotecnia.,Sin Data,Sin Data,Fijo discontinuo,Jornada Completa,Sin Data,Vorsevi Ingeo,Sin Data
+2026-02-03,Trabajoscom,Gipuzkoa,Todo Gipuzkoa,INGENIERIA INFORMATICA,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,AdegiLan,Sin Data
+2026-02-03,Trabajoscom,Gipuzkoa,Todo Gipuzkoa,Adjunto/a departamento recambios,30 € - 42 €,Sin Data,Indefinido,Jornada Completa,Sin Data,AdegiLan,Sin Data
+2026-02-03,Trabajoscom,Gipuzkoa,Todo Gipuzkoa,Coordinador/a de mantenimiento eléctrico,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,AdegiLan,Sin Data
+2026-02-03,Trabajoscom,Bizkaia,Todo Bizkaia,Gestor/a de Punto de Venta COCA COLA,42 € - 54 €,Sin Data,De duracion determinada,Jornada Completa,Sin Data,AdegiLan,Sin Data
+2026-02-03,Trabajoscom,Gipuzkoa,Todo Gipuzkoa,INGENIERO/A MANTENIMIENTO MECANICO,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,AdegiLan,Sin Data
+2026-02-03,Trabajoscom,Gipuzkoa,Todo Gipuzkoa,INGENIERO/A MANTENIMIENTO ELECTRICO INDUSTRIAL,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,AdegiLan,Sin Data
+2026-02-03,Trabajoscom,Toledo,Villafranca De Los Caballeros,Emprendedor/a para desarrollar su propio negocio a tiempo parcial o completo,1 € - 5.000 €,Sin Data,Autonomo,Jornada Indiferente,Sin Data,Somoslider,Sin Data
+2026-02-03,Trabajoscom,Málaga,Mijas,OFICIAL DE ALBAÑILERÍA,2.200 €,Sin Data,Indefinido,Jornada Completa,Sin Data,Limpiezas Gastronimicas Del Sur,Sin Data
+2026-02-03,Trabajoscom,Madrid,Getafe,Costurera,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,La tijera veloz,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Todo Barcelona,Controller Financiero Senior - Cataluña Central,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Page Personnel ETT,Sin Data
+2026-02-03,Trabajoscom,Toledo,Toledo,PESCADEROS -AS,1.500 € - 1.700 €,Sin Data,Fijo discontinuo,Jornada Completa,Sin Data,Grupo Adecco,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Barcelona,Limpiador/a.  Rubí,367 €,Sin Data,Indefinido,Media Jornada,Sin Data,Limpiezas Deyse,Sin Data
+2026-02-03,Trabajoscom,Lugo,Lugo,Personal Industria Panadera,1.500 €,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Grupo Adecco,Sin Data
+2026-02-03,Trabajoscom,Cantabria,Torrelavega,Repartidores/as Furgonetas,9 € - 10 €,Sin Data,Fijo discontinuo,Media Jornada,Sin Data,Grupo Adecco,Sin Data
+2026-02-03,Trabajoscom,Baleares,Todo Baleares,Front Office Agent - Kimpton Aysla Mallorca,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,EY,Sin Data
+2026-02-03,Trabajoscom, Valencia, Valencia,OPERARIO/A SECTOR METAL,12 € - 13 €,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Grupo Adecco,Sin Data
+2026-02-03,Trabajoscom,Gipuzkoa,Todo Gipuzkoa,Camarero/a de Pisos sustitucion para Sercotel Codina,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,EY,Sin Data
+2026-02-03,Trabajoscom,Bizkaia,Todo Bizkaia,Operador/a de planta de tratamiento de agua potable d760fdc0,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,EY,Sin Data
+2026-02-03,Trabajoscom,Murcia,Todo Murcia,Encargado/a de Producción de Envasado (H/M),Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Page Personnel ETT,Sin Data
+2026-02-03,Trabajoscom,Baleares,Todo Baleares,Responsable de Facturación - Palma de Mallorca,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Page Personnel ETT,Sin Data
+2026-02-03,Trabajoscom,Madrid,Todo Madrid,Ingeniero de operaciones. Instalaciones,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Page Personnel ETT,Sin Data
+2026-02-03,Trabajoscom,Madrid,Todo Madrid,Técnico I+D ( Sector alimentación/farmacéutico),Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Page Personnel ETT,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Todo Barcelona,Concinero/a Restaurante Hotel 5*,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,EY,Sin Data
+2026-02-03,Trabajoscom,Baleares,Todo Baleares,Técnico/a Laboral Senior - Oficinas Corporativas Mac Hotels,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,EY,Sin Data
+2026-02-03,Trabajoscom,Baleares,Todo Baleares,Ejecutivo de cuentas de empresas SR Broker Palma de Mallorca,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Page Personnel ETT,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Todo Barcelona,International Sales pádel,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Page Personnel ETT,Sin Data
+2026-02-03,Trabajoscom,Salamanca,Todo Salamanca,Operario (H/M/X) de Panel Industrial,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Manpower Trabajo Temporal,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Todo Barcelona,Técnico Comercial Ventana PVC y aluminio Cataluña,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Page Personnel ETT,Sin Data
+2026-02-03,Trabajoscom, Barcelona, Barcelona,Limpiador/a especialista conductor.  Manresa,18.555 €,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Limpiezas Deyse,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Todo Barcelona,Guest Services & Quality Intern,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,EY,Sin Data
+2026-02-03,Trabajoscom,Salamanca,Todo Salamanca,Operario (H/M/X) de Panel Industrial,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Manpower Trabajo Temporal,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Todo Barcelona,Técnico Comercial Ventana PVC y aluminio Cataluña,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Page Personnel ETT,Sin Data
+2026-02-03,Trabajoscom,Palencia,Fuentes De Valdepero,Ingeniero/a Técnico Industrial,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Granollers,Comercial Industrial,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Grupompleo,Sin Data
+2026-02-03,Trabajoscom,Navarra,Todo Navarra,Técnico/A de Monitorización de Instalaciones,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Grupompleo,Sin Data
+2026-02-03,Trabajoscom,Tarragona,Constanti,Operarios/as Metalúrgico/a con Ciclo Formativo,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Valencia,Todo Valencia,Responsable de Almacén (H/M),Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Granollers,Administrativo/a Logística - Posición Estable,18.000 € - 18.500 €,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,A Coruña,Ribeira,PANADERO/A Ribeira,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Madrid,Camarma De Esteruelas,Manipuladores/as,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Málaga,Todo Málaga,Peon/a Electricista,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Girona,Girona,Vigilante de seguridad Organismo Público,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Iman Seguridad,Sin Data
 2026-02-03,Trabajoscom,Barcelona,Terrassa,Técnico/a laboral y jurídico,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Iman Temporing,Sin Data
 2026-02-03,Trabajoscom,Las Palmas,Telde,Mozo/a de Almacén (Gran Canaria),1.100 € - 1.200 €,Sin Data,Indefinido,Jornada Completa,Sin Data,Pacto,Sin Data
-2026-02-03,Trabajoscom,Girona,Girona,Vigilante de seguridad Organismo Público,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Iman Seguridad,Sin Data
 2026-02-03,Trabajoscom,Sevilla,Todo Sevilla,Conductor/a Camión con Carnet C + CAP + Tacógrafo,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Iman Temporing,Sin Data
 2026-02-03,Trabajoscom,Barcelona,Manresa,Arquitecte/a,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Granada,Guadix,DESPIECE (sector alimentario),Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Crit Interim España ETT,Sin Data
+2026-02-03,Trabajoscom,Pontevedra,Todo Pontevedra,Cocinero/a - Centro Residencial DomusVi Barreiro,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,DomusVi,Sin Data
+2026-02-03,Trabajoscom,Granada,Peligros,ADMINISTRATIVO - ATENCIÓN AL CLIENTE,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Ávila,Avila,Camarero/a - Centro Residencial DomusVi Decanos,Sin Data,Sin Data,Indefinido,Media Jornada,Sin Data,DomusVi,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Santa Perpetua De Mogoda,Consultor/a RRHH Santa Perpetua,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Madrid,Todo Madrid,Director/a de relaciones y asociados,37.000 €,Sin Data,Indefinido,Jornada Completa,Sin Data,Crit Interim España ETT,Sin Data
+2026-02-03,Trabajoscom,Bizkaia,Amorebieta-Etxano,Operario/a Mantenimiento e Instalaciones Generales,22.800 € - 23.000 €,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Madrid,Algete,Operario/a de metal PLEGADOR/A,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Cádiz,Jerez De La Frontera,Jefe/a de Campo y Producción,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Crit Interim España ETT,Sin Data
+2026-02-03,Trabajoscom,Lugo,Castro De Rei,ADMINISTRATIVO/A,19.000 € - 20.000 €,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Lleida,Vallbona De Les Monges,Personal cocina y sala HOTEL,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Murcia,Santomera,"Operario/a Máquina de Embolsado, Colocación y QR",Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Crit Interim España ETT,Sin Data
+2026-02-03,Trabajoscom,Araba,Legutio,Responsable de Calidad y PRL,25.000 € - 35.000 €,Sin Data,Indefinido,Jornada Completa,Sin Data,Crit Interim España ETT,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Castellbisbal,Maquinista extrusión,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Crit Interim España ETT,Sin Data
+2026-02-03,Trabajoscom,Madrid,Alcala De Henares,Médico/a Centro Residencial DomusVi Espartales,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,DomusVi,Sin Data
+2026-02-03,Trabajoscom,Madrid,Alcala De Henares,Psicólogo/a Centro Residencial DomusVi Espartales,Sin Data,Sin Data,Indefinido,Media Jornada,Sin Data,DomusVi,Sin Data
+2026-02-03,Trabajoscom,Madrid,Todo Madrid,Operario/a de Montaje - Arroyomolinos,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Crit Interim España ETT,Sin Data
+2026-02-03,Trabajoscom,Araba,Urkabustaiz,Técnico/a contable-financiero,27.000 € - 30.000 €,Sin Data,Indefinido,Jornada Completa,Sin Data,Crit Interim España ETT,Sin Data
+2026-02-03,Trabajoscom,Madrid,Todo Madrid,Administrativo de Contratación (Seguros) - Madrid,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Crit Interim España ETT,Sin Data
+2026-02-03,Trabajoscom,Alicante,Todo Alicante,Jefe/a de Sala - DomusVi TAD Alicante,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,DomusVi,Sin Data
+2026-02-03,Trabajoscom,Málaga,Todo Málaga,Persona para Soldadura de Alta Precisión (SMD),Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Crit Interim España ETT,Sin Data
+2026-02-03,Trabajoscom,Zaragoza,Todo Zaragoza,Auxiliar Administrativo/a,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Guadalajara,Marchamalo,Dependiente/a para taller,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Crit Interim España ETT,Sin Data
+2026-02-03,Trabajoscom,Madrid,Alcala De Henares,Control de seguridad alimentaria en cadena,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Crit Interim España ETT,Sin Data
+2026-02-03,Trabajoscom,Bizkaia,Igorre,Técnico/a de Industrialización y Procesos,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Molins De Rei,Auxiliar Administrativo/a Media Jornada (Mañanas),Sin Data,Sin Data,A tiempo parcial,Jornada Indiferente,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Lleida,Lleida,PEÓN/A,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Sevilla,Salteras,Electromecánico/a industrial,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Crit Interim España ETT,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Esparreguera,OPERARIO/A DE LIMPIEZA INDUSTRIAL CON CARNET B,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Madrid,Todo Madrid,Personal almacen (recogepedidos)  Pinto,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Crit Interim España ETT,Sin Data
+2026-02-03,Trabajoscom,Las Palmas,Puerto Del Rosario,Mozo/a conductor/a-lavacoches (Rent a car)-FTV,16.576 €,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Citius Solutions,Sin Data
+2026-02-03,Trabajoscom,Madrid,Todo Madrid,Administrativo/a contable sector climatización,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Todo Barcelona,Gestor/a telefónico Inglés B2. Dpto. Proveedores. 3 meses,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Lliça D'amunt,Mozo/a de almacén carretillero retráctil,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Crit Interim España ETT,Sin Data
+2026-02-03,Trabajoscom,Sevilla,Todo Sevilla,Personal de mantenimiento de instalaciones,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Crit Interim España ETT,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Todo Barcelona,Oficial de 1ª de Mantenimiento (Centro Deportivo),Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Madrid,Todo Madrid,Personal de limpieza | Certificado discapacidad | Jornada parcial,Sin Data,Sin Data,Indefinido,Media Jornada,Sin Data,Diswork In,Sin Data
+2026-02-03,Trabajoscom,Baleares,Marratxi,Cocinero/a - Centro Residencial DomusVi Can Carbonell (Marratxí),Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,DomusVi,Sin Data
+2026-02-03,Trabajoscom,Madrid,Coslada,Mecánico/a de Taller en Coslada,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Crit Interim España ETT,Sin Data
+2026-02-03,Trabajoscom,Madrid,Coslada,Limpiador/a de coches zona Coslada,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Crit Interim España ETT,Sin Data
+2026-02-03,Trabajoscom,Zaragoza,Cuarte De Huerva,Operario/a sector metal lijadora con coche,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Crit Interim España ETT,Sin Data
+2026-02-03,Trabajoscom,Valencia,Almussafes,Limpiador/a de coches zona Almussafes,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Crit Interim España ETT,Sin Data
+2026-02-03,Trabajoscom,Navarra,San Adrian,Psiquiatra Centro Residencial DomusVi San Adrián,Sin Data,Sin Data,Indefinido,Media Jornada,Sin Data,Mentalia,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Terrassa,Auxiliar administrativo/a soporte logística,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Málaga,Antequera,Técnico de mantenimiento electromecánico - (H/M),Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Crit Interim España ETT,Sin Data
+2026-02-03,Trabajoscom,Tenerife,Todo Tenerife,Peón/a,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Crit Interim España ETT,Sin Data
+2026-02-03,Trabajoscom,Valencia,Benifla,Carretillero/a almacén de cítricos - Beniflá,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Crit Interim España ETT,Sin Data
+2026-02-03,Trabajoscom,Málaga,Todo Málaga,Operario/a Fresadora CNC,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Málaga,Antequera,Servicio técnico reparaciones - (H/M),Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Crit Interim España ETT,Sin Data
 2026-02-03,Trabajoscom,Barcelona,Sant Joan Despi,Vigilante Seguridad (diurno).   LIDL Sant Joan Despí,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Clece Seguridad,Sin Data
 2026-02-03,Trabajoscom, Madrid, Madrid,Personal Limpieza Cristalero/a (H/M/D) CON DISCAPACIDAD / INCAPACIDAD · Alcobendas,1.150 € - 1.200 €,Sin Data,Indefinido,Jornada Completa,Sin Data,Ilunion,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Navarcles,Dependiente de Supermercado Navarcles,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,CH Montferrer,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Todo Barcelona,Tecnico/a laboral y nóminas indefinido 1fd97248,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,EY,Sin Data
+2026-02-03,Trabajoscom,Madrid,Todo Madrid,Senior Accountant with English (H/M/D) - Madrid,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Page Personnel ETT,Sin Data
+2026-02-03,Trabajoscom,Madrid,Todo Madrid,Data Scientist - Python y Microsoft Fabric,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,EY,Sin Data
+2026-02-03,Trabajoscom,Navarra,Todo Navarra,Dependiente/a Interiorismo,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,EY,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Todo Barcelona,Ejecutivo/a de Cuentas (Digital - Remoto),Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Page Personnel ETT,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Todo Barcelona,Research Associate fluent in French - PageGroup SSC,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Page Personnel ETT,Sin Data
+2026-02-03,Trabajoscom,Gipuzkoa,Todo Gipuzkoa,FIELD SERVICE (H/M/X),Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Manpower Trabajo Temporal,Sin Data
+2026-02-03,Trabajoscom,Valencia,Todo Valencia,Jefe de Producción Obra Civil - Valencia,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Page Personnel ETT,Sin Data
+2026-02-03,Trabajoscom,Madrid,Getafe,Montador/a eléctrico,26.000 € - 30.000 €,Sin Data,Indefinido,Jornada Completa,Sin Data,Rieka Talent ETT,Sin Data
+2026-02-03,Trabajoscom,Zaragoza,Zaragoza,Oficial de 3ª – Trabajos con Herramientas Manuales (Desbarbado),23.000 € - 24.500 €,Sin Data,Indefinido,Jornada Completa,Sin Data,Rieka Talent ETT,Sin Data
+2026-02-03,Trabajoscom,Zaragoza,Zaragoza,Soldador MIG (Aluminio),26.000 € - 30.000 €,Sin Data,Indefinido,Jornada Intensiva,Sin Data,Rieka Talent ETT,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Masquefa,Técnico/a de Calidad – Industria Alimentaria,30.000 € - 35.000 €,Sin Data,Indefinido,Jornada Completa,Sin Data,Rieka Talent ETT,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Sant Just Desvern,Tornero/a Convencional,30.000 € - 32.000 €,Sin Data,Indefinido,Jornada Completa,Sin Data,Rieka Talent ETT,Sin Data
+2026-02-03,Trabajoscom,Navarra,Andosilla,Conductor/a de Camión Articulado (C+E + CAP),26.000 € - 28.000 €,Sin Data,Indefinido,Jornada Completa,Sin Data,Rieka Talent ETT,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Sant Cugat Del Valles,Soldador/a TIG,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Rieka Talent ETT,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Palau-Solita I Plegamans,Envasador/a,1.692 €,Sin Data,Indefinido,Jornada Intensiva,Sin Data,Rieka Talent ETT,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Mollet Del Valles,Electromecánico/a Industrial – Turnos Rotativos L/V- Zona Les Franqueses,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Rieka Talent ETT,Sin Data
+2026-02-03,Trabajoscom,Zaragoza,Zaragoza,Montador/a Eléctrico (Baja tensión y en obra civil),28.000 € - 30.000 €,Sin Data,Indefinido,Jornada Completa,Sin Data,Rieka Talent ETT,Sin Data
+2026-02-03,Trabajoscom,Madrid,Todo Madrid,Mecánico/a,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Excavaciones J. Fronton,Sin Data
+2026-02-03,Trabajoscom,Burgos,Todo Burgos,Conductor/a de Camión con ADR,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Empresa de Selección,Sin Data
+2026-02-03,Trabajoscom,Cádiz,Todo Cádiz,Conductor/a de Camión con ADR,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Empresa de Selección,Sin Data
+2026-02-03,Trabajoscom,Granada,Todo Granada,Conductor/a de Camión con ADR,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Empresa de Selección,Sin Data
+2026-02-03,Trabajoscom,Baleares,Todo Baleares,Conductor/a de Camión con ADR,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Empresa de Selección,Sin Data
+2026-02-03,Trabajoscom,Sevilla,Todo Sevilla,Técnico Junior T1,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Soluciones Tecnológicas Sevitec,Sin Data
+2026-02-03,Trabajoscom,Asturias,Todo Asturias,Conductor/a de Camión con ADR,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Empresa de Selección,Sin Data
+2026-02-03,Trabajoscom,Huesca,Todo Huesca,Conductor/a de Camión con ADR,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Empresa de Selección,Sin Data
+2026-02-03,Trabajoscom,Málaga,Todo Málaga,Conductor/a de Camión con ADR,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Empresa de Selección,Sin Data
+2026-02-03,Trabajoscom,León,Todo León,Conductor/a de Camión con ADR,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Empresa de Selección,Sin Data
+2026-02-03,Trabajoscom,Coruña,Todo Coruña,Conductor/a de Camión con ADR,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Empresa de Selección,Sin Data
+2026-02-03,Trabajoscom,Jaén,Todo Jaén,Conductor/a de Camión con ADR,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Empresa de Selección,Sin Data
+2026-02-03,Trabajoscom,Tarragona,Todo Tarragona,Conductor/a de Camión con ADR,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Empresa de Selección,Sin Data
+2026-02-03,Trabajoscom,Tenerife,Todo Tenerife,Conductor/a de Camión con ADR,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Empresa de Selección,Sin Data
+2026-02-03,Trabajoscom,Soria,Todo Soria,Conductor/a de Camión con ADR,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Empresa de Selección,Sin Data
+2026-02-03,Trabajoscom,Madrid,Todo Madrid,Conductor/a de Camión con ADR,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Empresa de Selección,Sin Data
+2026-02-03,Trabajoscom,Zaragoza,Todo Zaragoza,Conductor/a de Camión con ADR,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Empresa de Selección,Sin Data
+2026-02-03,Trabajoscom,Teruel,Todo Teruel,Conductor/a de Camión con ADR,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Empresa de Selección,Sin Data
+2026-02-03,Trabajoscom,Segovia,Todo Segovia,Conductor/a de Camión con ADR,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Empresa de Selección,Sin Data
+2026-02-03,Trabajoscom,Lleida,Todo Lleida,Conductor/a de Camión con ADR,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Empresa de Selección,Sin Data
+2026-02-03,Trabajoscom,Madrid,Madrid,OFICIAL ALBAÑIL,1.800 € - 2.500 €,Sin Data,Indefinido,Jornada Completa,Sin Data,Lorecanal,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Todo Barcelona,PEON LIMPIADOR,957 €,Sin Data,Indefinido,Media Jornada,Sin Data,Net Integral,Sin Data
+2026-02-03,Trabajoscom,Madrid,Todo Madrid,Buscamos repartidor con experiencia en la zona de Madrid,1.300 € - 1.600 €,Sin Data,Indefinido,Jornada Completa,Sin Data,Barma Fangzhou,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Terrassa,Teleoperador/a de Atención al Cliente - Turno de tarde- Sector Energía,1.098 € - 1.100 €,Sin Data,Indefinido,Media Jornada,Sin Data,Emergia Contact Center,Sin Data
+2026-02-03,Trabajoscom,Gipuzkoa,Todo Gipuzkoa,Técnico/a de mantenimiento eléctrico,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,AdegiLan,Sin Data
+2026-02-03,Trabajoscom,Gipuzkoa,Todo Gipuzkoa,TECNICOA COMERCIAL,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,AdegiLan,Sin Data
+2026-02-03,Trabajoscom,Gipuzkoa,Todo Gipuzkoa,COMERCIAL,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,AdegiLan,Sin Data
+2026-02-03,Trabajoscom,Gipuzkoa,Todo Gipuzkoa,Gestor-a de Oficina de Estudiantes,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,AdegiLan,Sin Data
+2026-02-03,Trabajoscom,Gipuzkoa,Todo Gipuzkoa,ATENCIÓN AL CLIENTE,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,AdegiLan,Sin Data
+2026-02-03,Trabajoscom,Gipuzkoa,Todo Gipuzkoa,Inside Sales Specialist,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,AdegiLan,Sin Data
+2026-02-03,Trabajoscom,Gipuzkoa,Todo Gipuzkoa,Coordinador/a de mantenimiento mecánico,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,AdegiLan,Sin Data
+2026-02-03,Trabajoscom,Gipuzkoa,Todo Gipuzkoa,Auxiliar Administrativo,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,AdegiLan,Sin Data
+2026-02-03,Trabajoscom,Gipuzkoa,Todo Gipuzkoa,Gida hezitzailea - San Telmo Museoa,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,AdegiLan,Sin Data
+2026-02-03,Trabajoscom,Madrid,Madrid,Dependiente/a herbolario extra fin de semana [GDHXFDS],12.000 € - 19.000 €,Sin Data,De duracion determinada,Media Jornada,Sin Data,Galva 7 Empleo ETT,Sin Data
+2026-02-03,Trabajoscom,Cádiz,Ubrique,Comercial de Seguros Ubrique (L a V) Fijo+ variable,6.000 € - 18.000 €,Sin Data,Autonomo,Jornada Indiferente,Sin Data,SGS Seguros Santalucía,Sin Data
+2026-02-03,Trabajoscom,Gipuzkoa,Todo Gipuzkoa,INGENIERO/A DE FABRICACION,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,AdegiLan,Sin Data
+2026-02-03,Trabajoscom,Valladolid,Arroyo De La Encomienda,Personal de Limpieza en Arroyo de la Encomienda (Valladolid),Sin Data,Sin Data,De duracion determinada,Jornada Indiferente,Sin Data,Limcamar,Sin Data
+2026-02-03,Trabajoscom,Girona,Vilamalla,OPERARIO/A LIMPIEZA EN VILAMALLA (FIGUERES Ó PUEBLOS CERCANOS) 8 HORAS SEMANALES,200 € - 350 €,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Sernet Servicios Integrales,Sin Data
+2026-02-03,Trabajoscom,Valencia,Paterna,Mecanico con experiencia,1.400 € - 1.900 €,Sin Data,Indefinido,Jornada Completa,Sin Data,Orlando Cars,Sin Data
+2026-02-03,Trabajoscom,Castellón,Segorbe,OPERARIO/A FABRICA PALLETS SONEJA,18.000 € - 24.000 €,Sin Data,Indefinido,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Madrid,Todo Madrid,Fiscalista - Firma de Servicios Profesionales,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Page Personnel ETT,Sin Data
+2026-02-03,Trabajoscom,Murcia,Todo Murcia,Responsable de Sección de Producción (H/M),Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Page Personnel ETT,Sin Data
+2026-02-03,Trabajoscom,Valladolid,Medina Del Campo,PINTOR/A INDUSTRIAL / CHORREADOR METAL,10 € - 12 €,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Grupo Adecco,Sin Data
+2026-02-03,Trabajoscom,Sevilla,Todo Sevilla,Ayudante Camarero/a 25H,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,EY,Sin Data
+2026-02-03,Trabajoscom,Madrid,Todo Madrid,Commercial Finance - sector gran consumo,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Page Personnel ETT,Sin Data
+2026-02-03,Trabajoscom,Sevilla,Todo Sevilla,Técnico de Mantenimiento para nueva apertura Sercotel,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,EY,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Badalona,Limpiador/a cristales (Lunes a jueves + fines semana).     Centro comercial Badalona,Sin Data,Sin Data,De duracion determinada,Media Jornada,Sin Data,Limpiezas Deyse,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Barcelona,Oficial/a climatización.  Barcelona,27.000 €,Sin Data,Indefinido,Jornada Completa,Sin Data,CLECE,Sin Data
+2026-02-03,Trabajoscom, Madrid, Madrid,Personal Gasolinera (H/M/D)  CON DISCAPACIDAD - Cobeña,17.000 € - 17.500 €,Sin Data,Discapacidad,Jornada Completa,Sin Data,Ilunion,Sin Data
+2026-02-03,Trabajoscom,Madrid,Todo Madrid,Técnico de cobros,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Page Personnel ETT,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Badalona,Limpiador/a (Lunes a sábado).   Centro comercial Badalona,Sin Data,Sin Data,De duracion determinada,Media Jornada,Sin Data,Limpiezas Deyse,Sin Data
+2026-02-03,Trabajoscom,Salamanca,Huerta,"Operario/a Metal en Huerta, Salamanca",10 € - 14 €,Sin Data,Fijo discontinuo,Jornada Completa,Sin Data,Grupo Adecco,Sin Data
+2026-02-03,Trabajoscom,Lugo,Lugo,Personal Industria Panadera,1.500 €,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Grupo Adecco,Sin Data
+2026-02-03,Trabajoscom,Bizkaia,Todo Bizkaia,Visitador/a médico/a,Sin Data,Sin Data,Indefinido,Media Jornada,Sin Data,Eurofirms,Sin Data
+2026-02-03,Trabajoscom,Valencia,Todo Valencia,Camarero/a media jornada para Sercotel Sorolla Palace,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,EY,Sin Data
+2026-02-03,Trabajoscom,Valencia,Todo Valencia,Tax Senior Internacional,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,Page Personnel ETT,Sin Data
 2026-02-03,Trabajoscom,S.C. Tenerife,Puerto De La Cruz,Camarera de piso zona norte,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Pacto,Sin Data
-2026-02-03,Trabajoscom,Barcelona,Sant Cugat Del Valles,Técnico/a de Proyectos - Sector: Construcción,35.000 € - 40.000 €,Sin Data,Indefinido,Jornada Completa,Sin Data,Iman Global Consulting,Sin Data
+2026-02-03,Trabajoscom,Gipuzkoa,Todo Gipuzkoa,Operario/A Sector Madera,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Grupompleo,Sin Data
+2026-02-03,Trabajoscom,Navarra,Todo Navarra,Operario/A de Producción  Sector Industrial,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Grupompleo,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Santpedor,Enginyer/a tècnic/a estudis,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Terrassa,Analista fisicoquímico turno fijo de noche,25.000 € - 27.000 €,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Tarragona,Constanti,Verificador/a de Piezas- Fin de Semana,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Zaragoza,Todo Zaragoza,Administrativo/a jornada parcial,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Zaragoza,Todo Zaragoza,Administrativo/a-Contable.,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Iman Global Consulting,Sin Data
 2026-02-03,Trabajoscom,Girona,Girona,Tècnic/a de RRHH (Girona),Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Iman Temporing,Sin Data
 2026-02-03,Trabajoscom,Barcelona,Todo Barcelona,OPERARIO/A PESAJES DE FORMULAS CON EXPERIENCIA,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Sant Cugat Del Valles,Técnico/a de Proyectos - Sector: Construcción,35.000 € - 40.000 €,Sin Data,Indefinido,Jornada Completa,Sin Data,Iman Global Consulting,Sin Data
 2026-02-03,Trabajoscom,Sevilla,Salteras,Mecánico/a Industrial (Salteras),Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Iman Temporing,Sin Data
 2026-02-03,Trabajoscom,Barcelona,Sabadell,Auxiliar Administrativa/o,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Iman Temporing,Sin Data
 2026-02-03,Trabajoscom,Zaragoza,Villanueva De Gallego,Ayudante Especialista (INYECTORAS),20 € - 21 €,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Pacto,Sin Data
+2026-02-03,Trabajoscom,Madrid,Aranjuez,Mozo/a inventarista. Turno tarde.(Aranjuez),Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Madrid,Algete,Operario/a de metal MONTAJE,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Alicante,Todo Alicante,Operario/a de fábrica,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Palencia,Palencia,Conductor/a camión C+CAP+TACÓGRAFO,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Lleida,Lleida,MAQUINISTA,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Murcia,Todo Murcia,Mozo/a almacén carretillero/a - Fortuna,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Crit Interim España ETT,Sin Data
+2026-02-03,Trabajoscom,Sevilla,Alcala De Guadaira,Cocinero/a - Centro Residencial DomusVi Alcalá de Guadaíra,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,DomusVi,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Viladecans,Auxiliar Administrativo/a - Viladecans,Sin Data,Sin Data,Autonomo,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Sevilla,Alcala De Guadaira,Fisioterapeuta Centro Residencial DomusVi Alcalá de Guadaíra,Sin Data,Sin Data,Indefinido,Jornada Indiferente,Sin Data,DomusVi,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Bigues I Riells,Operario/a de envasado,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Crit Interim España ETT,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Masquefa,Mozo/a con Carretilla Retráctil,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Lliça De Vall,Mozo/a de campa - Lliçà de Vall,16.981 €,Sin Data,Indefinido,Jornada Completa,Sin Data,Pacto,Sin Data
+2026-02-03,Trabajoscom,Girona,Figueres,MOZO/A DE ALMACÉN CON CARNET DE CARRETILLERO,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Barcelona,Sant Boi De Llobregat,Manipulador/a Componentes Eléctricos,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Crit Interim España ETT,Sin Data
+2026-02-03,Trabajoscom,Zaragoza,Todo Zaragoza,Técnico de marketing,Sin Data,Sin Data,Indefinido,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Madrid,Todo Madrid,Mozos/as con frontal TARDES (Villaverde),Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Iman Temporing,Sin Data
+2026-02-03,Trabajoscom,Badajoz,Badajoz,Técnico/a agrícola,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Crit Interim España ETT,Sin Data
+2026-02-03,Trabajoscom,Málaga,Todo Málaga,Administrativo/a de Logística Junior - Málaga,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Crit Interim España ETT,Sin Data
+2026-02-03,Trabajoscom,Murcia,Molina De Segura,Repartidor -Mozo de Almacén,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Crit Interim España ETT,Sin Data
+2026-02-03,Trabajoscom,Las Palmas,Telde,Peón/a,Sin Data,Sin Data,De duracion determinada,Jornada Completa,Sin Data,Crit Interim España ETT,Sin Data
