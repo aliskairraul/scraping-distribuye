@@ -1,0 +1,10 @@
+2026-02-07 22:34:51 - INFO - [ActualizacionData] - **********  Intento 1 de añadir a la DATABASE y la data del scrapeo del dia 2026-02-07  ********
+2026-02-07 22:34:51 - INFO - [ActualizacionData] - El json control_ejecusiones cargo correctamente
+2026-02-07 22:34:51 - INFO - [ActualizacionData] - Ultima vez que se ejecuto ETL 2026-02-06
+2026-02-07 22:34:51 - INFO - [ActualizacionData] - Iniciando el Procesamiento de la Data
+2026-02-07 22:34:51 - INFO - [ActualizacionData] - Se logró cargar la DATABASE, actualmente con 9667 registros
+2026-02-07 22:34:51 - INFO - [ActualizacionData] - Se logró cargar la data para actualizar, actualmente con 360 registros
+2026-02-07 22:34:51 - INFO - [ActualizacionData] - ETL finalizado, se guardaron los datos en data/db/base.parquet
+2026-02-07 22:34:51 - INFO - [ActualizacionData] - Despues de Juntar y eliminar ofertas repetidas quedaron 8933 registros
+2026-02-07 22:34:51 - INFO - [ActualizacionData] - Se actualizo la fecha de la ultima vez ETL a --> 2026-02-07
+2026-02-07 22:34:51 - INFO - [ActualizacionData] - Se ha actualizado el archivo -->  control_ejecusiones.json
