@@ -1,0 +1,205 @@
+2026-03-18 22:38:37 - INFO - [TecnoempleoScraper] - ************** Intento 1 de scrapear Tecnoempleo  ********************************
+2026-03-18 22:38:37 - INFO - [TecnoempleoScraper] - El json control_ejecusiones cargo correctamente
+2026-03-18 22:38:37 - INFO - [TecnoempleoScraper] - Ultima vez que se scrapeo Tecnoempleo fue 2025-09-19
+2026-03-18 22:38:37 - INFO - [TecnoempleoScraper] - Iniciando scraping en plataforma: Tecnoempleo
+2026-03-18 22:38:38 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 22:39:39 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 22:40:39 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 22:41:40 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 22:42:41 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 22:43:41 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 22:44:42 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 22:45:43 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 22:46:44 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 22:47:44 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 22:48:45 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 22:49:46 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 22:50:46 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 22:51:47 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 22:52:48 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 22:53:48 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 22:54:49 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 22:55:50 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 22:56:51 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 22:57:51 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 22:58:52 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 22:59:52 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 23:00:53 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 23:01:53 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 23:02:54 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 23:03:55 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 23:04:55 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 23:05:56 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 23:06:57 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 23:07:57 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 23:08:58 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 23:09:59 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 23:10:59 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 23:12:00 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 23:13:01 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 23:14:01 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 23:15:02 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 23:16:03 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 23:17:03 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 23:18:04 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 23:19:05 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 23:20:05 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 23:21:06 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 23:22:07 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 23:23:07 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 23:24:08 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 23:25:09 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 23:26:09 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 23:27:10 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 23:28:11 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 23:29:11 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 23:30:12 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 23:31:13 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 23:32:13 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 23:33:14 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 23:34:15 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 23:35:16 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 23:36:16 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 23:37:17 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 23:38:17 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 23:39:18 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 23:40:19 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 23:41:19 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 23:42:20 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 23:43:21 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 23:44:21 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 23:45:22 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 23:46:23 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 23:47:23 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 23:48:24 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 23:49:25 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 23:50:26 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 23:51:26 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 23:52:27 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 23:53:28 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 23:54:28 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 23:55:29 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 23:56:30 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 23:57:30 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 23:58:31 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-18 23:59:32 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 00:00:33 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 00:01:34 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 00:02:34 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 00:03:35 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 00:04:36 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 00:05:36 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 00:06:37 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 00:07:38 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 00:08:38 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 00:09:39 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 00:10:40 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 00:11:40 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 00:12:41 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 00:13:42 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 00:14:42 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 00:15:43 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 00:16:44 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 00:17:44 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 00:18:45 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 00:19:45 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 00:20:46 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 00:21:47 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 00:22:47 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 00:23:48 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 00:24:48 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 00:25:49 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 00:26:50 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 00:27:50 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 00:28:51 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 00:29:52 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 00:30:52 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 00:31:53 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 00:32:54 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 00:33:54 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 00:34:55 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 00:35:56 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 00:36:56 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 00:37:57 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 00:38:58 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 00:39:58 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 00:40:59 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 00:42:00 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 00:43:00 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 00:44:01 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 00:45:02 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 00:46:02 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 00:47:03 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 00:48:03 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 00:49:04 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 00:50:05 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 00:51:05 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 00:52:06 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 00:53:07 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 00:54:07 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 00:55:08 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 00:56:09 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 00:57:09 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 00:58:10 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 00:59:10 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 01:00:11 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 01:01:12 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 01:02:12 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 01:03:13 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 01:04:14 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 01:05:14 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 01:06:15 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 01:07:15 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 01:08:16 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 01:09:17 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 01:10:17 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 01:11:18 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 01:12:19 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 01:13:19 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 01:14:20 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 01:15:21 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 01:16:21 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 01:17:22 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 01:18:23 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 01:19:23 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 01:20:24 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 01:21:25 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 01:22:25 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 01:23:26 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 01:24:26 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 01:25:27 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 01:26:28 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 01:27:28 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 01:28:29 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 01:29:30 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 01:30:30 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 01:31:31 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 01:32:31 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 01:33:32 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 01:34:33 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 01:35:34 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 01:36:34 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 01:37:35 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 01:38:35 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 01:39:36 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 01:40:37 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 01:41:37 - WARNING - [TecnoempleoScraper] - No se pudo cargar la pagina 1 - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 01:42:38 - INFO - [TecnoempleoScraper] - Pagina 1 cargada correctamente - URL: https://www.tecnoempleo.com/ofertas-trabajo/
+2026-03-19 01:43:09 - INFO - [TecnoempleoScraper] - Pagina 2 cargada correctamente - URL: https://www.tecnoempleo.com/ofertas-trabajo/?pagina=2
+2026-03-19 01:43:40 - INFO - [TecnoempleoScraper] - Pagina 3 cargada correctamente - URL: https://www.tecnoempleo.com/ofertas-trabajo/?pagina=3
+2026-03-19 01:44:11 - INFO - [TecnoempleoScraper] - Pagina 4 cargada correctamente - URL: https://www.tecnoempleo.com/ofertas-trabajo/?pagina=4
+2026-03-19 01:44:41 - INFO - [TecnoempleoScraper] - Pagina 5 cargada correctamente - URL: https://www.tecnoempleo.com/ofertas-trabajo/?pagina=5
+2026-03-19 01:45:12 - INFO - [TecnoempleoScraper] - Pagina 6 cargada correctamente - URL: https://www.tecnoempleo.com/ofertas-trabajo/?pagina=6
+2026-03-19 01:45:43 - INFO - [TecnoempleoScraper] - Pagina 7 cargada correctamente - URL: https://www.tecnoempleo.com/ofertas-trabajo/?pagina=7
+2026-03-19 01:46:13 - INFO - [TecnoempleoScraper] - Pagina 8 cargada correctamente - URL: https://www.tecnoempleo.com/ofertas-trabajo/?pagina=8
+2026-03-19 01:46:44 - INFO - [TecnoempleoScraper] - Pagina 9 cargada correctamente - URL: https://www.tecnoempleo.com/ofertas-trabajo/?pagina=9
+2026-03-19 01:47:15 - INFO - [TecnoempleoScraper] - Pagina 10 cargada correctamente - URL: https://www.tecnoempleo.com/ofertas-trabajo/?pagina=10
+2026-03-19 01:47:46 - INFO - [TecnoempleoScraper] - Pagina 11 cargada correctamente - URL: https://www.tecnoempleo.com/ofertas-trabajo/?pagina=11
+2026-03-19 01:48:16 - INFO - [TecnoempleoScraper] - Pagina 12 cargada correctamente - URL: https://www.tecnoempleo.com/ofertas-trabajo/?pagina=12
+2026-03-19 01:48:47 - INFO - [TecnoempleoScraper] - Pagina 13 cargada correctamente - URL: https://www.tecnoempleo.com/ofertas-trabajo/?pagina=13
+2026-03-19 01:49:18 - INFO - [TecnoempleoScraper] - Pagina 14 cargada correctamente - URL: https://www.tecnoempleo.com/ofertas-trabajo/?pagina=14
+2026-03-19 01:49:48 - INFO - [TecnoempleoScraper] - Pagina 15 cargada correctamente - URL: https://www.tecnoempleo.com/ofertas-trabajo/?pagina=15
+2026-03-19 01:50:19 - INFO - [TecnoempleoScraper] - Pagina 16 cargada correctamente - URL: https://www.tecnoempleo.com/ofertas-trabajo/?pagina=16
+2026-03-19 01:50:19 - INFO - [TecnoempleoScraper] - Scraping finalizado. Datos guardados en: data/historico_scraping/Tecnoempleo_2026-03-18.csv
+2026-03-19 01:50:19 - INFO - [TecnoempleoScraper] - Se actualizo la fecha de la ultima vez scraper a --> 2026-03-18
+2026-03-19 01:50:19 - INFO - [TecnoempleoScraper] - Se ha actualizado el archivo -->  control_ejecusiones.json
