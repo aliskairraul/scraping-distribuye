@@ -1,0 +1,34 @@
+2026-04-08 22:42:50 - INFO - [RandstadScraper] - ***********  Intento 1 de scrapear Randstad  ********************
+2026-04-08 22:42:50 - INFO - [RandstadScraper] - El json control_ejecusiones cargo correctamente
+2026-04-08 22:42:50 - INFO - [RandstadScraper] - Ultima vez que se scrapeo Randstad fue 2025-09-19
+2026-04-08 22:42:50 - INFO - [RandstadScraper] - Iniciando scraping en plataforma: Randstad
+2026-04-08 22:42:52 - INFO - [RandstadScraper] - Pagina 1 cargada correctamente - URL: https://www.randstad.es/candidatos/ofertas-empleo/sa-1100/st-3/jp-50/
+2026-04-08 22:43:24 - INFO - [RandstadScraper] - Pagina 2 cargada correctamente - URL: https://www.randstad.es/candidatos/ofertas-empleo/sa-1100/st-3/jp-50/pg-2/
+2026-04-08 22:43:58 - INFO - [RandstadScraper] - Pagina 3 cargada correctamente - URL: https://www.randstad.es/candidatos/ofertas-empleo/sa-1100/st-3/jp-50/pg-3/
+2026-04-08 22:44:31 - INFO - [RandstadScraper] - Pagina 4 cargada correctamente - URL: https://www.randstad.es/candidatos/ofertas-empleo/sa-1100/st-3/jp-50/pg-4/
+2026-04-08 22:45:05 - INFO - [RandstadScraper] - Pagina 5 cargada correctamente - URL: https://www.randstad.es/candidatos/ofertas-empleo/sa-1100/st-3/jp-50/pg-5/
+2026-04-08 22:45:38 - INFO - [RandstadScraper] - Pagina 6 cargada correctamente - URL: https://www.randstad.es/candidatos/ofertas-empleo/sa-1100/st-3/jp-50/pg-6/
+2026-04-08 22:46:11 - INFO - [RandstadScraper] - Pagina 7 cargada correctamente - URL: https://www.randstad.es/candidatos/ofertas-empleo/sa-1100/st-3/jp-50/pg-7/
+2026-04-08 22:46:45 - INFO - [RandstadScraper] - Pagina 8 cargada correctamente - URL: https://www.randstad.es/candidatos/ofertas-empleo/sa-1100/st-3/jp-50/pg-8/
+2026-04-08 22:47:18 - INFO - [RandstadScraper] - Pagina 9 cargada correctamente - URL: https://www.randstad.es/candidatos/ofertas-empleo/sa-1100/st-3/jp-50/pg-9/
+2026-04-08 22:47:52 - INFO - [RandstadScraper] - Pagina 10 cargada correctamente - URL: https://www.randstad.es/candidatos/ofertas-empleo/sa-1100/st-3/jp-50/pg-10/
+2026-04-08 22:48:26 - INFO - [RandstadScraper] - Pagina 11 cargada correctamente - URL: https://www.randstad.es/candidatos/ofertas-empleo/sa-1100/st-3/jp-50/pg-11/
+2026-04-08 22:49:00 - INFO - [RandstadScraper] - Pagina 12 cargada correctamente - URL: https://www.randstad.es/candidatos/ofertas-empleo/sa-1100/st-3/jp-50/pg-12/
+2026-04-08 22:49:33 - INFO - [RandstadScraper] - Pagina 13 cargada correctamente - URL: https://www.randstad.es/candidatos/ofertas-empleo/sa-1100/st-3/jp-50/pg-13/
+2026-04-08 22:50:07 - INFO - [RandstadScraper] - Pagina 14 cargada correctamente - URL: https://www.randstad.es/candidatos/ofertas-empleo/sa-1100/st-3/jp-50/pg-14/
+2026-04-08 22:50:41 - INFO - [RandstadScraper] - Pagina 15 cargada correctamente - URL: https://www.randstad.es/candidatos/ofertas-empleo/sa-1100/st-3/jp-50/pg-15/
+2026-04-08 22:51:16 - INFO - [RandstadScraper] - Pagina 16 cargada correctamente - URL: https://www.randstad.es/candidatos/ofertas-empleo/sa-1100/st-3/jp-50/pg-16/
+2026-04-08 22:51:50 - INFO - [RandstadScraper] - Pagina 17 cargada correctamente - URL: https://www.randstad.es/candidatos/ofertas-empleo/sa-1100/st-3/jp-50/pg-17/
+2026-04-08 22:52:26 - INFO - [RandstadScraper] - Pagina 18 cargada correctamente - URL: https://www.randstad.es/candidatos/ofertas-empleo/sa-1100/st-3/jp-50/pg-18/
+2026-04-08 22:53:01 - INFO - [RandstadScraper] - Pagina 19 cargada correctamente - URL: https://www.randstad.es/candidatos/ofertas-empleo/sa-1100/st-3/jp-50/pg-19/
+2026-04-08 22:53:35 - INFO - [RandstadScraper] - Pagina 20 cargada correctamente - URL: https://www.randstad.es/candidatos/ofertas-empleo/sa-1100/st-3/jp-50/pg-20/
+2026-04-08 22:54:08 - INFO - [RandstadScraper] - Pagina 21 cargada correctamente - URL: https://www.randstad.es/candidatos/ofertas-empleo/sa-1100/st-3/jp-50/pg-21/
+2026-04-08 22:54:41 - INFO - [RandstadScraper] - Pagina 22 cargada correctamente - URL: https://www.randstad.es/candidatos/ofertas-empleo/sa-1100/st-3/jp-50/pg-22/
+2026-04-08 22:55:13 - INFO - [RandstadScraper] - Pagina 23 cargada correctamente - URL: https://www.randstad.es/candidatos/ofertas-empleo/sa-1100/st-3/jp-50/pg-23/
+2026-04-08 22:55:45 - INFO - [RandstadScraper] - Pagina 24 cargada correctamente - URL: https://www.randstad.es/candidatos/ofertas-empleo/sa-1100/st-3/jp-50/pg-24/
+2026-04-08 22:56:18 - INFO - [RandstadScraper] - Pagina 25 cargada correctamente - URL: https://www.randstad.es/candidatos/ofertas-empleo/sa-1100/st-3/jp-50/pg-25/
+2026-04-08 22:56:50 - INFO - [RandstadScraper] - Pagina 26 cargada correctamente - URL: https://www.randstad.es/candidatos/ofertas-empleo/sa-1100/st-3/jp-50/pg-26/
+2026-04-08 22:57:22 - INFO - [RandstadScraper] - Pagina 27 cargada correctamente - URL: https://www.randstad.es/candidatos/ofertas-empleo/sa-1100/st-3/jp-50/pg-27/
+2026-04-08 22:57:54 - INFO - [RandstadScraper] - Pagina 28 cargada correctamente - URL: https://www.randstad.es/candidatos/ofertas-empleo/sa-1100/st-3/jp-50/pg-28/
+2026-04-08 22:58:26 - INFO - [RandstadScraper] - Pagina 29 cargada correctamente - URL: https://www.randstad.es/candidatos/ofertas-empleo/sa-1100/st-3/jp-50/pg-29/
+2026-04-08 22:58:26 - INFO - [RandstadScraper] - NO ACTUALIZO --> control_ejecusiones.json,  porque NO ENCONTRO DATA
