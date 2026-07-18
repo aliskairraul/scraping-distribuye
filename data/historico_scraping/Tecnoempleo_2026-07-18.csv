@@ -1,0 +1,45 @@
+Fecha,Plataforma,Provincia,Localidad,Oferta_Empleo,Salario,Modalidad,Tipo_Contrato,Tipo_Jornada,Experiencia,Empresa,Requisitos
+2026-07-18,Tecnoempleo,Sin Data,Sin Data,Consultor Banca ETL,Sin Data,100% remoto,Sin Data,Sin Data,Sin Data,EXDESIS,SQL Server -DB2 -Oracle Database
+2026-07-18,Tecnoempleo,Valencia,Sin Data,Ingeniero/a MS 365,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,Serem,MS 365 -365 -WINDOWS
+2026-07-18,Tecnoempleo,Madrid,Sin Data,Responsable de Operaciones y Workplace,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Michael Page,Workplace
+2026-07-18,Tecnoempleo,Barcelona,Sin Data,Consultor Senior TIC Administración pública,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,Michael Page,TIC
+2026-07-18,Tecnoempleo,Valencia,Sin Data,Responsable de Licitaciones IT,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,LÃBERIT,ISO -ENS
+2026-07-18,Tecnoempleo,Madrid,Sin Data,Administrador Salesforce,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,EXDESIS,Salesforce
+2026-07-18,Tecnoempleo,Madrid,Sin Data,Senior SAP FICO Consultant S/4HANA,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,UST,SAP FICO -SAP -S/4HANA
+2026-07-18,Tecnoempleo,Madrid,Sin Data,IT Service 2nd Level Support (Banking),Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,UST,Splunk -Dynatrace -ServiceNow
+2026-07-18,Tecnoempleo,Madrid,Sin Data,Security Consultant GRC,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,Grupo Digital,ciberseguridad -iso 27001 -nist
+2026-07-18,Tecnoempleo,Madrid,Sin Data,Ingeniero/a de software embebido C/C++,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,GMV,C -C++ -Python
+2026-07-18,Tecnoempleo,Madrid,Sin Data,Ingeniero/a soporte Cisco VoIP y Videoconferencia,Sin Data,Presencial,Sin Data,Sin Data,Sin Data,Serem,Cisco -VoIP -Webex
+2026-07-18,Tecnoempleo,Madridy otras,Sin Data,Administrador/a AWS & JBoss,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Baoss,AWS -JBOSS -Java
+2026-07-18,Tecnoempleo,Sin Data,Sin Data,Ingeniero/a Senior de Plataforma Cloud AWS,Sin Data,100% remoto,Sin Data,Sin Data,Sin Data,Serem,AWS -Cloud -RabbitMQ
+2026-07-18,Tecnoempleo,Sin Data,Sin Data,Consultor/a SAP HCM en Remoto,Sin Data,100% remoto,Sin Data,Sin Data,Sin Data,Digital Talent Agency,sap hcm
+2026-07-18,Tecnoempleo,Madrid,Sin Data,Analista Programador Senior Java (Seguridad),36.000€ - 39.000€ b/a,Híbrido,Sin Data,Sin Data,Sin Data,CAS TRAINING,JAVA -SPRING BOOT -MICROSERVICIOS
+2026-07-18,Tecnoempleo,Sin Data,Sin Data,Platform Architect,Sin Data,100% remoto,Sin Data,Sin Data,Sin Data,Baoss,VMware -Kubernetes -Azure
+2026-07-18,Tecnoempleo,León,Sin Data,Ingeniero/a DevOps,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,Digital Talent Agency,kubernetes -docker -ci/cd
+2026-07-18,Tecnoempleo,Madrid,Sin Data,Ingeniero/a DevOps,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,Digital Talent Agency,kubernetes -docker -ci/cd
+2026-07-18,Tecnoempleo,Madrid,Sin Data,Lead SRE Engineer (AWS) - Remote,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,UST,AWS -EKS -Kubernetes
+2026-07-18,Tecnoempleo,Valencia,Sin Data,Consultor Senior ServiceNow ITOM & CMDB,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,PANEL Sistemas Informáticos,ServiceNow -ITOM -CMDB
+2026-07-18,Tecnoempleo,Valencia,Sin Data,ServiceNow ITOM Specialist,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,PANEL Sistemas Informáticos,ServiceNow -ITOM -Discovery
+2026-07-18,Tecnoempleo,Sin Data,Sin Data,Team Leader SEGUROS (Vida Riesgo Colectivo),Sin Data,100% remoto,Sin Data,Sin Data,Sin Data,Serem,scrum -ITIL
+2026-07-18,Tecnoempleo,Sin Data,Sin Data,Consultor/a Medallia - Mid/Senior,27.000€ - 36.000€ b/a,100% remoto,Sin Data,Sin Data,Sin Data,Social You,medallia -cx -VoC
+2026-07-18,Tecnoempleo,Sin Data,Sin Data,Arquitecto Senior Avaloq,48.000€ - 60.000€ b/a,100% remoto,Sin Data,Sin Data,Sin Data,Social You,avaloq -api -rest
+2026-07-18,Tecnoempleo,Barcelona,Sin Data,Data & AI Compliance Analyst,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Randstad ES,AI -Artificial Intelligence -EU AI Act
+2026-07-18,Tecnoempleo,Madrid,Sin Data,Designer,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Randstad ES,adobe -figma
+2026-07-18,Tecnoempleo,Albacete,Sin Data,TECHNICAL Data engineer,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Airbus,SAP -Windchill
+2026-07-18,Tecnoempleo,Madrid,Sin Data,Cyber Security Architect (d/f/m),Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Airbus,Ciberseguridad
+2026-07-18,Tecnoempleo,Madrid,Sin Data,Senior Software Engineer for EuroDrone,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Airbus,Python -C++ -Java
+2026-07-18,Tecnoempleo,Madrid,Sin Data,Test Engineer,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Airbus,test -EMC
+2026-07-18,Tecnoempleo,Albacete,Sin Data,"Web development - Spares, MRO & Training Product",Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Airbus,HTML5 -CSS3 -Javascript
+2026-07-18,Tecnoempleo,Madrid,Sin Data,Tech Lead AI Conversational Agents,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Santander,LLM -Python -NLP
+2026-07-18,Tecnoempleo,Madrid,Sin Data,Data Scientist Modelos-Empresas (CDAIO),Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Santander,PySpark -Python -Databricks
+2026-07-18,Tecnoempleo,Madrid,Sin Data,AI Search Innovation Lead,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,FeverUp,SEO -LLM -Python
+2026-07-18,Tecnoempleo,Madrid,Sin Data,Salesforce Functional Lead,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,FeverUp,Salesforce -Apex
+2026-07-18,Tecnoempleo,Madrid,Sin Data,Senior Software Engineer - Geolocalized Services,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,FeverUp,Python -CI/CD -DynamoDB
+2026-07-18,Tecnoempleo,Madrid,Sin Data,Staff Software Engineer,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,FeverUp,Python -Django -Flask
+2026-07-18,Tecnoempleo,Madrid,Sin Data,Senior Android Product Engineer,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,FeverUp,android -SDK
+2026-07-18,Tecnoempleo,Madrid,Sin Data,"UX Designer, EU INTech",Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Amazon,UX -wireframes
+2026-07-18,Tecnoempleo,Madrid,Sin Data,Desarrollador/a Talend,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,Devoteam,Talend -ETL
+2026-07-18,Tecnoempleo,Madrid,Sin Data,Google Cloud AI Engineer,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Devoteam,Google Cloud -LLM -Vertex
+2026-07-18,Tecnoempleo,Málaga,Sin Data,AI Applications & Data Science Consultant,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Talan,Python -R
+2026-07-18,Tecnoempleo,Málaga,Sin Data,Senior Database Administrator,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Talan,SQL Server
+2026-07-18,Tecnoempleo,Madrid,Sin Data,Big Data Developer,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Talan,Python -ETL -SQL
