@@ -1,0 +1,306 @@
+Fecha,Plataforma,Provincia,Localidad,Oferta_Empleo,Salario,Modalidad,Tipo_Contrato,Tipo_Jornada,Experiencia,Empresa,Requisitos
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Software Engineer - Madrid,30.000€ - 36.000€ b/a,Presencial,Sin Data,Sin Data,Sin Data,Galadrim,PostgreSQL -Node.js -React
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Product Manager & Sales Executive,30.000€ - 36.000€ b/a,Presencial,Sin Data,Sin Data,Sin Data,Galadrim,Product Management -Product Owner -Agile
+2026-08-07,Tecnoempleo,Barcelona,Sin Data,Desarrollador/a C++ (Presencial),Sin Data,Presencial,Sin Data,Sin Data,Sin Data,Grupo Digital,c++ -docker -kubernetes
+2026-08-07,Tecnoempleo,Barcelona,Sin Data,Cloud & Digital Transformation,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,Serem,azure -aws -amazon web services
+2026-08-07,Tecnoempleo,Barcelona,Sin Data,Analista Programador/a Senior COBOL,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,CMV Consultores,COBOL -CICS -DB2
+2026-08-07,Tecnoempleo,Madrid,Sin Data,"Data Engineer Snowflake, SQL",Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,Serem,Data -snowflake -SQL
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Mainframe Engineer COBOL,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,Digital Talent Agency,cobol -db2 -ims
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Analista Funcional de Sistemas de Cobros (Hibrido),Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,Grupo Digital,sql -jira -agile
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Technical Lead Telco Cloud OpenStack OpenShift SDN,48.000€ - 60.000€ b/a,Híbrido,Sin Data,Sin Data,Sin Data,Grupo NS,python -OpenShift -ansible
+2026-08-07,Tecnoempleo,Barcelona,Sin Data,Product Owner – Loyalty,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,Inkoova,Amadeus -Sabre -Airline
+2026-08-07,Tecnoempleo,Madridy otras,Sin Data,Analista Programador/a - Natural Adabas,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Baoss,Natural -Adabas -JCL
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Senior DevOps Engineer (AWS/IA) - Remoto,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,UST,AWS -Terraform -DevOps
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Cybersecurity Consultant (Cloud Security),Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,UST,Azure -Google Cloud Platform -Microsoft Entra ID
+2026-08-07,Tecnoempleo,Valencia,Sin Data,Senior developer,33.000€ - 45.000€ b/a,Sin Data,Sin Data,Sin Data,Sin Data,masterlex,supabase -claude -rag
+2026-08-07,Tecnoempleo,Málaga,Sin Data,Docente de Desarrollo de Aplicaciones Web (DAW),Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Aibe Formación,JAVA -HTML -CSS
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Analyst IT Cybersecurity - AWS Cloud,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Accenture,AWS -Terraform -MS Azure
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Manager Generative AI | LLM & Agentic AI,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Accenture,Azure -OpenAI -Agentic AI
+2026-08-07,Tecnoempleo,Barcelona,Sin Data,SAP EWM Manager,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Accenture,SAP EWM -SAP
+2026-08-07,Tecnoempleo,Madrid,Sin Data,AWS DATA ARCHITECT - ODS,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Santander,AWS -Glue -LakeFormation
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Senior Data Engineer - ODS,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Santander,Spark -PySpark -SQL
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Senior Backend Engineer - Security Subsystem,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Santander,Go -Java -APIs
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Analista Programador/a Cobol,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,Sopra Steria,COBOL -DB2 -IMS
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Desarrollador/a ADA,Sin Data,Presencial,Sin Data,Sin Data,Sin Data,Sopra Steria,ADA
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Data Engineer (Databricks),Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Sopra Steria,Databricks -Python -PySpark
+2026-08-07,Tecnoempleo,Madrid,Sin Data,IT Business Analyst ERP,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Sopra Steria,ERP -CRM -DMS
+2026-08-07,Tecnoempleo,Barcelona,Sin Data,Analista Programador/a Java,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,Aubay,java
+2026-08-07,Tecnoempleo,Barcelona,Sin Data,"Desarrollador/a Full Stack (.NET, Node.js & AWS)",Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,Aubay,.net -C# -SQL
+2026-08-07,Tecnoempleo,Barcelona,Sin Data,DevOps + AWS + inglés,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,Aubay,Terraform -AWS -IaC
+2026-08-07,Tecnoempleo,Barcelona,Sin Data,Técnico/a de selección IT,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,Aubay,rrhh
+2026-08-07,Tecnoempleo,Barcelona,Sin Data,Data Foundation Engineering Lead - Evinova,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,AstraZeneca,AWS -Glue -Athena
+2026-08-07,Tecnoempleo,Navarray otras,Sin Data,Responsable de Diseño Mecánico,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Ubyko Connectivity,SolidWorks -Autodesk -Inventor
+2026-08-07,Tecnoempleo,Barcelona,Sin Data,Senior Principal AI Engineer - AI Solut,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,AstraZeneca,RAG -MLOps -CI/CD
+2026-08-07,Tecnoempleo,Sin Data,Sin Data,Fullstack Developer Junior,21.000€ - 30.000€ b/a,100% remoto,Sin Data,Sin Data,Sin Data,Social You,react -nodejs -python
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Ingeniero/a de Sistemas Azure Banca,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,PANEL Sistemas Informáticos,Azure Arc -Microsoft Defender for Cloud
+2026-08-07,Tecnoempleo,Sin Data,Sin Data,Platform Engineer,Sin Data,100% remoto,Sin Data,Sin Data,Sin Data,Baoss,Kubernetes -Linux -Cloud
+2026-08-07,Tecnoempleo,Sin Data,Sin Data,Programadores y Analistas Java,30.000€ - 36.000€ b/a,100% remoto,Sin Data,Sin Data,Sin Data,Arelance,java -sql -git
+2026-08-07,Tecnoempleo,Sin Data,Sin Data,Desarrollador Java / Microservicios,30.000€ - 36.000€ b/a,100% remoto,Sin Data,Sin Data,Sin Data,Arelance,java -spring -git
+2026-08-07,Tecnoempleo,Sin Data,Sin Data,Técnicos Sistemas Linux,30.000€ - 33.000€ b/a,100% remoto,Sin Data,Sin Data,Sin Data,Seltime,Linux -Red Hat Satellite -IBM AIX
+2026-08-07,Tecnoempleo,Barcelona,Sin Data,Técnico/a SQL,21.000€ - 27.000€ b/a,Híbrido,Sin Data,Sin Data,Sin Data,Aradoxa Solutions,SQL -Bases de datos -Jira
+2026-08-07,Tecnoempleo,Barcelona,Sin Data,Técnico de Soporte Baix Llobregat,18.000€ - 21.000€ b/a,Presencial,Sin Data,Sin Data,Sin Data,Seltime,microinformatica
+2026-08-07,Tecnoempleo,Sin Data,Sin Data,Desarrollador/a Camunda 8 Automatización Procesos,39.000€ - 54.000€ b/a,100% remoto,Sin Data,Sin Data,Sin Data,Grupo NS,java -microservicios -spring boot
+2026-08-07,Tecnoempleo,Barcelona,Sin Data,DevOps Engineer (Azure / CI-CD / DevSecOps),Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,CMV Consultores,devops -cloud azure -CI/CD
+2026-08-07,Tecnoempleo,Bizkaia,Sin Data,Analista Mainframe COBOL / DB2,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,CMV Consultores,Mainframe -cobol -db2
+2026-08-07,Tecnoempleo,Sin Data,Sin Data,Tecnico WMS Supply Chain,Sin Data,100% remoto,Sin Data,Sin Data,Sin Data,Grupo Digital,wms -supply -chain
+2026-08-07,Tecnoempleo,Barcelona,Sin Data,Arquitecto/a de Software,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,Grupo Digital,software
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Técnico/a microinformatica,Sin Data,Presencial,Sin Data,Sin Data,Sin Data,Grupo Sermicro,microinformatica
+2026-08-07,Tecnoempleo,Barcelona,Sin Data,Programadores iOs/Android,27.000€ - 36.000€ b/a,Híbrido,Sin Data,Sin Data,Sin Data,Social You,android -ios -swift
+2026-08-07,Tecnoempleo,Sin Data,Sin Data,Backend Java,39.000€ - 45.000€ b/a,100% remoto,Sin Data,Sin Data,Sin Data,Social You,java -springboot -sql
+2026-08-07,Tecnoempleo,Sin Data,Sin Data,AI Automated Testing Engineer,30.000€ - 33.000€ b/a,100% remoto,Sin Data,Sin Data,Sin Data,Arelance,ia -ai -python
+2026-08-07,Tecnoempleo,Sin Data,Sin Data,Programador/a .NET (ORM/MQTT),33.000€ - 36.000€ b/a,100% remoto,Sin Data,Sin Data,Sin Data,Grupo NS,.net -asp .Net -MQTT
+2026-08-07,Tecnoempleo,Barcelona,Sin Data,Técnico/a de telefonía y atención al cliente,18.000€ - 21.000€ b/a,Presencial,Sin Data,Sin Data,Sin Data,Sosmatic,MDM -Excel
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Ingeniero de infraestructuras,33.000€ - 45.000€ b/a,Híbrido,Sin Data,Sin Data,Sin Data,Arelance,JBOSS -AWS -EKS
+2026-08-07,Tecnoempleo,Sin Data,Sin Data,Business Analyst,Sin Data,100% remoto,Sin Data,Sin Data,Sin Data,Baoss,UAT -SQL -QA
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Especialista Citrix,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,PANEL Sistemas Informáticos,citrix -azure -powershell
+2026-08-07,Tecnoempleo,Sin Data,Sin Data,Developer Fullstack .NET,36.000€ - 45.000€ b/a,100% remoto,Sin Data,Sin Data,Sin Data,Social You,asp .net -.NET Core -owasp
+2026-08-07,Tecnoempleo,Barcelona,Sin Data,Programadores ABAP (Logístico y PP),36.000€ - 45.000€ b/a,Híbrido,Sin Data,Sin Data,Sin Data,Seltime,ABAP -SAP PP -SAP logística
+2026-08-07,Tecnoempleo,Cádiz,Sin Data,Técnico/a de Soporte IT Onsite,18.000€ - 24.000€ b/a,Presencial,Sin Data,Sin Data,Sin Data,Arelance,Microinformatica -Redes -Sistemas
+2026-08-07,Tecnoempleo,Sin Data,Sin Data,Analista Programador/a Cobol (sector bancario),Sin Data,100% remoto,Sin Data,Sin Data,Sin Data,Grupo NS,SQL -COBOL -oracle
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Analista Programador Magnolia CMS - Java/JEE,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,Serem,Magnolia -Java -JEE
+2026-08-07,Tecnoempleo,Valladolid,Sin Data,Tecnico/a Instrumentacion,Sin Data,Presencial,Sin Data,Sin Data,Sin Data,Digital Talent Agency,electronica -telecomunicaciones -instrumentacion
+2026-08-07,Tecnoempleo,Sin Data,Sin Data,Analista/Desarrollador Senior Sector Logística,Sin Data,100% remoto,Sin Data,Sin Data,Sin Data,PANEL Sistemas Informáticos,apis -agile -zeleris
+2026-08-07,Tecnoempleo,Sin Data,Sin Data,SEM Specialist,27.000€ - 36.000€ b/a,100% remoto,Sin Data,Sin Data,Sin Data,Social You,sem -ppc -Pmax
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Responsable Funcional Salesforce Service Cloud,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,Serem,SALESFORCE -Salesforce Service Cloud
+2026-08-07,Tecnoempleo,Sin Data,Sin Data,1-QA Analyst / 1-QA Engineer,30.000€ - 39.000€ b/a,100% remoto,Sin Data,Sin Data,Sin Data,Social You,QA -Jira -scrum
+2026-08-07,Tecnoempleo,Barcelona,Sin Data,Fullstack Angular/Java. Inglés,42.000€ - 42.000€ b/a,Híbrido,Sin Data,Sin Data,Sin Data,Grupo NS,java -angular -NgRx/RxJS
+2026-08-07,Tecnoempleo,Sin Data,Sin Data,Data Engineer Service Now,33.000€ - 42.000€ b/a,100% remoto,Sin Data,Sin Data,Sin Data,Grupo NS,service now
+2026-08-07,Tecnoempleo,Sin Data,Sin Data,Desarrollador/a C++,Sin Data,100% remoto,Sin Data,Sin Data,Sin Data,Grupo NS,C++ -cmake -OpenCV
+2026-08-07,Tecnoempleo,Sin Data,Sin Data,3 Solutions Architect - Core Banking,54.000€ - 80.000€ b/a,100% remoto,Sin Data,Sin Data,Sin Data,Social You,event‑driven -microservicios -APIs REST
+2026-08-07,Tecnoempleo,Madrid,Sin Data,QA Tester Manual (Inglés B2),30.000€ - 33.000€ b/a,Híbrido,Sin Data,Sin Data,Sin Data,Serem,Xray -TestRail -TestLink
+2026-08-07,Tecnoempleo,Sin Data,Sin Data,Programador/a Vuejs,30.000€ - 33.000€ b/a,100% remoto,Sin Data,Sin Data,Sin Data,Grupo NS,NODEJS -vuejs
+2026-08-07,Tecnoempleo,Sin Data,Sin Data,Programador/a Senior Front Angular,Sin Data,100% remoto,Sin Data,Sin Data,Sin Data,LÃBERIT,angular -typescript
+2026-08-07,Tecnoempleo,Sin Data,Sin Data,Database Administrator DB2 for z/OS(Media Jornada),Sin Data,100% remoto,Sin Data,Sin Data,Sin Data,CMV Consultores,DB2 -z/OS -Mainframe
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Analista Natural / Adabas / DB2,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,CMV Consultores,Natural -Adabas -DB2
+2026-08-07,Tecnoempleo,Sin Data,Sin Data,Administrador/a Tuxedo,Sin Data,100% remoto,Sin Data,Sin Data,Sin Data,Baoss,Oracle -Tuxedo
+2026-08-07,Tecnoempleo,Sin Data,Sin Data,Programador/a Java/Springboot/Cassandra,33.000€ - 36.000€ b/a,100% remoto,Sin Data,Sin Data,Sin Data,Grupo NS,java -microservicios -SPRINGBOOT
+2026-08-07,Tecnoempleo,Sin Data,Sin Data,Programador/a AWS/Spark,36.000€ - 42.000€ b/a,100% remoto,Sin Data,Sin Data,Sin Data,Grupo NS,SPARK -AWS -kafka
+2026-08-07,Tecnoempleo,Barcelona,Sin Data,DevOps Engineer Azure (Inglés),39.000€ - 42.000€ b/a,Híbrido,Sin Data,Sin Data,Sin Data,Grupo NS,devops -azure -OpenShift
+2026-08-07,Tecnoempleo,Málaga,Sin Data,Técnico de Microinformática,16.000€ - 18.000€ b/a,Presencial,Sin Data,Sin Data,Sin Data,Pulsia Technology,Ofimatica -redes -Itil
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Desarrollador Java Senior,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Serem,Java -Spring -microservicios
+2026-08-07,Tecnoempleo,Sin Data,Sin Data,Fullstack React / Node /MongoDB. Teletrabajo 100%,Sin Data,100% remoto,Sin Data,Sin Data,Sin Data,Second Window,React -Nodejs -MERN
+2026-08-07,Tecnoempleo,Sin Data,Sin Data,Programador Java/Open Api,Sin Data,100% remoto,Sin Data,Sin Data,Sin Data,Second Window,java -Springboot -Open Api
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Angular  V14 Developer. Teletrabajo 100%,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Second Window,Angular
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Functional Analyst Junior,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Second Window,API -REST -agile
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Developer Salesforce,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,Serem,Salesforce -LWC -Apex
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Systems Technician | Unix / Linux SAN & Storage,27.000€ - 30.000€ b/a,Híbrido,Sin Data,Sin Data,Sin Data,CAS TRAINING,UNIX -SOLARIS -LINUX
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Software Engineer - Agentic AI,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,EXDESIS,GenAI -FastAPI -AWS
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Project Manager – IA Generativa,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,EXDESIS,Generative AI -Large Language Models LLMs -Cloud
+2026-08-07,Tecnoempleo,Barcelona,Sin Data,Data Engineer AI,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,EXDESIS,Python -SQL -AWS
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Ciberseguridad - Perfiles Gestión de Identidades,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,Serem,IAM -LDAP -Active Directory
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Analista Programador/a Natural Adabas,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,Serem,natural -adabas -DB2
+2026-08-07,Tecnoempleo,Sin Data,Sin Data,Administrador/a OpenShift Kubernetes Ansible,27.000€ - 36.000€ b/a,100% remoto,Sin Data,Sin Data,Sin Data,Grupo NS,OpenShift -ansible -kubernetes
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Service Transition Manager - Telco,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,Serem,Transition Manager -Network Operations Center NOC
+2026-08-07,Tecnoempleo,Barcelonay otras,Sin Data,Project Manager - Sector Seguros,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Baoss,project manager
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Administrador/a de Sistemas Middleware,30.000€ - 39.000€ b/a,Híbrido,Sin Data,Sin Data,Sin Data,Arelance,weblogic -jboss -middleware
+2026-08-07,Tecnoempleo,Sin Data,Sin Data,Analista de operacion (Dynatrace),24.000€ - 27.000€ b/a,100% remoto,Sin Data,Sin Data,Sin Data,Arelance,DYNATRACE -ITIL
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Tecnico/a de instalacion,30.000€ - 33.000€ b/a,Presencial,Sin Data,Sin Data,Sin Data,Arelance,CPDs -Antenas -RF
+2026-08-07,Tecnoempleo,Valencia,Sin Data,Ingeniero/a Industrial,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Michael Page,industrial
+2026-08-07,Tecnoempleo,Valencia,Sin Data,Ingeniero de Procesos,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Michael Page,Office -SAP -Lean
+2026-08-07,Tecnoempleo,Barcelona,Sin Data,Supply Chain Director,90.000€ - 110.000€ b/a,Híbrido,Sin Data,Sin Data,Sin Data,HAYS,APICS -CSCP -CPIM
+2026-08-07,Tecnoempleo,Barcelona,Sin Data,Product manager Conectividad,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Michael Page,Conectividad -Domótica
+2026-08-07,Tecnoempleo,Sevilla,Sin Data,Release Manager - Salesforce,Sin Data,Presencial,Sin Data,Sin Data,Sin Data,Michael Page,Salesforce -Gearset -Copado
+2026-08-07,Tecnoempleo,Valencia,Sin Data,Ingeniero/a Técnico Industrial,33.000€ - 39.000€ b/a,Sin Data,Sin Data,Sin Data,Sin Data,Michael Page,electricidad -industrial
+2026-08-07,Tecnoempleo,Valladolid,Sin Data,Técnico/a Electrónico/a,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,GMV,electronica -Firmware -Software
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Junior IT Infrastructure Engineer,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,GMV,Linux -Windows -VMware
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Ingeniero/a de ciberseguridad,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,GMV,ciberseguridad -SIEM -TOGAF
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Ingeniero/a Big Data,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,GMV,Big Data -Apache Spark -Hadoop
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Especialista Procesamiento Lenguaje,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,GMV,Inteligencia Artificial -Machine Learning -NLP
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Analista de Pruebas,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,GMV,SQL
+2026-08-07,Tecnoempleo,Barcelona,Sin Data,Security Architect,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,Michael Page,Azure -Microsoft 365 -NIST
+2026-08-07,Tecnoempleo,Barcelona,Sin Data,Senior Software Engineer,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Factorial,Ruby on Rails -Ruby -React
+2026-08-07,Tecnoempleo,Baleares,Sin Data,Senior Shopware Fullstack Entwickler,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Allers Technology,Shopware -php -Symfony
+2026-08-07,Tecnoempleo,Alicante,Sin Data,Doctor en Microelectrónica,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,Intigia,FPGA -SoC -Matlab
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Técnico electrónico,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,LIDERBEAUTY SOLUTIONS,electronica
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Trade Marketing Internacional,48.000€ - 54.000€ b/a,Sin Data,Sin Data,Sin Data,Sin Data,Michael Page,Marketing
+2026-08-07,Tecnoempleo,La Rioja,Sin Data,Técnico/a Microinformático,Sin Data,Presencial,Sin Data,Sin Data,Sin Data,Grupo Sermicro,Windows Server -Google Workspace
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Data Scientist II,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,Ebury,Python -SQL -GCP
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Data Analyst II - Regulatory Reporting,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,Ebury,SQL -dbt -Google Cloud BigQuery
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Senior Software Engineer (FinCore),Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,Ebury,Python
+2026-08-07,Tecnoempleo,Valencia,Sin Data,Senior Mobile Engineer,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,Ebury,React Native -Python
+2026-08-07,Tecnoempleo,Sin Data,Sin Data,Desarrollador/a COBOL,Sin Data,100% remoto,Sin Data,Sin Data,Sin Data,Arelance,COBOL -DB2 SQL -Scripting Shell
+2026-08-07,Tecnoempleo,Almería,Sin Data,Técnico de infraestructura,24.000€ - 27.000€ b/a,Presencial,Sin Data,Sin Data,Sin Data,Pulsia Technology,Redhat -Windows -ITSM
+2026-08-07,Tecnoempleo,Gipuzkoa,Sin Data,It Service & Operations Manager,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Randstad ES,service manager
+2026-08-07,Tecnoempleo,Barcelona,Sin Data,Senior Software Engineer Backend,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Randstad ES,Python -LLM -API
+2026-08-07,Tecnoempleo,Sin Data,Sin Data,Analista programador/ JAVA Cloud,33.000€ - 39.000€ b/a,100% remoto,Sin Data,Sin Data,Sin Data,CAS TRAINING,java -microservicios -springboot
+2026-08-07,Tecnoempleo,Barcelona,Sin Data,Analista Programador Sap Ecc,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Randstad ES,sap -abap
+2026-08-07,Tecnoempleo,Barcelona,Sin Data,Aws Cloud Engineer,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Randstad ES,AWS -Python
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Programador/a PLC,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Randstad ES,PLC -Siemens -Omron
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Senior Data Engineer (SQL + DBT),Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,knowmad mood,SQL -DBT -ETL
+2026-08-07,Tecnoempleo,Sin Data,Sin Data,Arquitecto/a DevOps - Remoto,Sin Data,100% remoto,Sin Data,Sin Data,Sin Data,knowmad mood,Jenkins -Groovy -git
+2026-08-07,Tecnoempleo,Madrid,Sin Data,DevOps / OpenShift & Kubernetes Engineer,30.000€ - 36.000€ b/a,Híbrido,Sin Data,Sin Data,Sin Data,CAS TRAINING,openshift -kubernetes -devops
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Analista Programador .NET Senior,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,knowmad mood,.net -C# -ASP.NET
+2026-08-07,Tecnoempleo,Madrid,Sin Data,SAP PP Consultant,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,knowmad mood,sap pp -sap
+2026-08-07,Tecnoempleo,Madrid,Sin Data,.NET/AI Technical Lead and AI Evangelist,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,knowmad mood,.net
+2026-08-07,Tecnoempleo,Sin Data,Sin Data,Desarrollador/a Full Stack (JAVA+Angular/Vue),Sin Data,100% remoto,Sin Data,Sin Data,Sin Data,Arelance,Java -Angular -Vue.js
+2026-08-07,Tecnoempleo,Madridy otras,Sin Data,Test Data Management Specialist (Icaria TDM),30.000€ - 42.000€ b/a,Sin Data,Sin Data,Sin Data,Sin Data,Social You,Icaria -TDM -QA
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Técnico/a Informático/a – Jornada completa,21.000€ - 27.000€ b/a,Sin Data,Sin Data,Sin Data,Sin Data,Cuadratic Soluciones,microinformatica
+2026-08-07,Tecnoempleo,Barcelona,Sin Data,Senior Software Engineer AI,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,CHAMP,python -java -machine learning
+2026-08-07,Tecnoempleo,Sin Data,Sin Data,Senior Data Engineer,Sin Data,100% remoto,Sin Data,Sin Data,Sin Data,Talan,PySpark -SQL -Python
+2026-08-07,Tecnoempleo,Barcelona,Sin Data,Analista/Desarrollador Amazon Connect,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Accenture,Amazon Connect -Amazon Lex -Amazon Bedrock
+2026-08-07,Tecnoempleo,Sin Data,Sin Data,AI Architect (Agentic AI & Automation),Sin Data,100% remoto,Sin Data,Sin Data,Sin Data,knowmad mood,n8n -make -zapier
+2026-08-07,Tecnoempleo,Málaga,Sin Data,AI Native Manager,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Accenture,AI -LangGraph -CrewAI
+2026-08-07,Tecnoempleo,Málaga,Sin Data,SSR Java Developer,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Talan,java -spring
+2026-08-07,Tecnoempleo,Sin Data,Sin Data,Senior DevOps Engineer,Sin Data,100% remoto,Sin Data,Sin Data,Sin Data,UST,DevOps -Microsoft Azure -Amazon Web Services
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Senior AI Engineer (All Genders),Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,zooplus SE,Java -Python -JavaScript
+2026-08-07,Tecnoempleo,Sin Data,Sin Data,"Java developer, Microsoft 365 100% remoto",Sin Data,100% remoto,Sin Data,Sin Data,Sin Data,UST,Java -Microsoft 365 -APIs REST
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Application Responsible & System Architect,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,UST,Actico -Java -Oracle
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Senior Java Engineer (AWS),Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,UST,Java -AWS -Spring
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Functional Business Analyst,Sin Data,Presencial,Sin Data,Sin Data,Sin Data,UST,Agile -Confluence -Dashboard Development
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Business Excellence Senior Consultant,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,UST,Project Management -Process Management
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Mid Java Developer (Actico),Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,UST,Java -REST -Eclipse
+2026-08-07,Tecnoempleo,Sin Data,Sin Data,"Administrador de sistemas, Zabbix",Sin Data,100% remoto,Sin Data,Sin Data,Sin Data,UST,Zabbix -Python -Grafana
+2026-08-07,Tecnoempleo,Sevilla,Sin Data,Application Developer,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Accenture,Core Banking -COBOL
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Software Developer Java + Python + AWS,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,knowmad mood,java -Python -AWS
+2026-08-07,Tecnoempleo,Barcelona,Sin Data,Senior Software Engineer - Mobile,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Factorial,React -Native
+2026-08-07,Tecnoempleo,Sin Data,Sin Data,Java Software Developer | Hexagonal,Sin Data,100% remoto,Sin Data,Sin Data,Sin Data,knowmad mood,java -spring -SQL
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Technology Consulting Senior Manager,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Accenture,Mainframe -Cloud -Mobility
+2026-08-07,Tecnoempleo,Barcelona,Sin Data,Helpdesk con inglés,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,Aubay,Helpdesk
+2026-08-07,Tecnoempleo,Málaga,Sin Data,Full Stack Developer (Java-Angular),Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Talan,java -angular
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Programador/ Java,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Sopra Steria,java -spring -Kafka
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Programador/a Full Stack (.NET + Vue.JS),Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Sopra Steria,.NET -Vue.js -C#
+2026-08-07,Tecnoempleo,Barcelona,Sin Data,Desarrollador/a C++ Sistemas de Ticketing,Sin Data,Presencial,Sin Data,Sin Data,Sin Data,sg tech,C++ -API REST -MQTT
+2026-08-07,Tecnoempleo,Sin Data,Sin Data,Senior Data Analyst,Sin Data,100% remoto,Sin Data,Sin Data,Sin Data,Talan,Power BI -fabric -SQL
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Software Requirements and Test Engineer,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Airbus,C -C++ -ada
+2026-08-07,Tecnoempleo,Albacete,Sin Data,DIGITAL CAMPUS Mulesoft & API developer,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Airbus,MuleSoft -api -OpenAPI
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Test Engineer (Human Factors),Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Airbus,Bedford -NASA TLX -ISA
+2026-08-07,Tecnoempleo,Sevilla,Sin Data,EMC Testing Engineer,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Airbus,EMC -AVS -COMMS
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Senior ABAP Developer,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Airbus,abap -sap
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Software Developer (Military Derivatives),Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Airbus,.net
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Senior Full Stack Engineer,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Swiss Re,JavaScript -TypeScript -React
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Técnico/a de Soporte CAU - Data & Analytics,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,Deloitte,Python -PySpark -Git
+2026-08-07,Tecnoempleo,Madrid,Sin Data,AI Adoption & Transformation Lead,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Santander,Artificial Intelligence -agile
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Analista/Desarrollador/a Dialogflow,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Accenture,Dialogflow -Google Cloud Platform -Cloud Run
+2026-08-07,Tecnoempleo,Málaga,Sin Data,AI Engineer,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Accenture,AI -LLM APIs -Python
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Analista/Desarrollador/a Automatización de Voz,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Accenture,Python -Google CCAI -Dialogflow CX
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Data Engineer,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,BNP Paribas,Alteryx -Tableau -PowerBI
+2026-08-07,Tecnoempleo,Madrid,Sin Data,AI Software Engineering Specialist,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Santander,Docker -Kubernetes -AWS
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Frontend Engineer,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Santander,React.js -Redux -Webpack
+2026-08-07,Tecnoempleo,Barcelona,Sin Data,DATA CENTER CSA ENGINEER (España y Portugal),Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Accenture,Data Center
+2026-08-07,Tecnoempleo,Madrid,Sin Data,DATA CENTER SAFETY MANAGER (España o Portugal),Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Accenture,Data Centers -HSE
+2026-08-07,Tecnoempleo,Barcelona,Sin Data,Product Marketing Manager (Software ERP) - M/H/NB,42.000€ - 54.000€ b/a,Sin Data,Sin Data,Sin Data,Sin Data,Cegid,CRM -ERP -SaaS
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Técnico/a de Seguridad (Identidades & Accesos),27.000€ - 36.000€ b/a,Híbrido,Sin Data,Sin Data,Sin Data,Arelance,Active Directory
+2026-08-07,Tecnoempleo,Sin Data,Sin Data,Technical Analyst Calypso,Sin Data,100% remoto,Sin Data,Sin Data,Sin Data,PANEL Sistemas Informáticos,Calypso -Oracle -Spring Boot
+2026-08-07,Tecnoempleo,Barcelona,Sin Data,Data Analyst,39.000€ - 48.000€ b/a,Híbrido,Sin Data,Sin Data,Sin Data,Social You,sql -python -excel
+2026-08-07,Tecnoempleo,Almería,Sin Data,Oficina Gestión Del Servicio (SMO),Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,Cajamar Tecnología,servicios TI -soluciones digitales
+2026-08-07,Tecnoempleo,Barcelona,Sin Data,TÉCNICO/A ONSITE,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Grupo Sermicro,ticketing -soporte -microinformatica
+2026-08-07,Tecnoempleo,Barcelona,Sin Data,Product Owner - Airline Servicing,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,Inkoova,Product Owner -Agile -Scrum
+2026-08-07,Tecnoempleo,Barcelonay otras,Sin Data,Analista Programador/a .NET,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Baoss,.net -visual basic -c#
+2026-08-07,Tecnoempleo,Barcelonay otras,Sin Data,Analista Funcional (Sector Seguros),Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Baoss,analisis funcional
+2026-08-07,Tecnoempleo,Madridy otras,Sin Data,Técnico/a de Sistemas - Office 365,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Baoss,Microsoft Office 365 -PowerShell -Exchange Online
+2026-08-07,Tecnoempleo,Madridy otras,Sin Data,Técnico Qualys - (Gestión de Vulnerabilidades),Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Baoss,Qualys -vul -vulnerabilidades
+2026-08-07,Tecnoempleo,Barcelonay otras,Sin Data,Project Manager - Sector Seguros,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Baoss,project manager
+2026-08-07,Tecnoempleo,Almería,Sin Data,Jefe de Proyecto - ETL y Arquitecturas Cloud,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,Cajamar Tecnología,DevOps -CI/CD -Power BI
+2026-08-07,Tecnoempleo,Sin Data,Sin Data,Full Stack(Java/Angular),Sin Data,100% remoto,Sin Data,Sin Data,Sin Data,Second Window,JAVA -SPRINGBOOT -ANGULAR
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Analista Programador/a Java,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,Baoss,WAS -Java -Eclipse
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Desarrollador Senior .NET/C#,39.000€ - 48.000€ b/a,Híbrido,Sin Data,Sin Data,Sin Data,APS - IESA,C# -.NET -Microservicios
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Ingeniero/a de Software .NET,48.000€ - 54.000€ b/a,Híbrido,Sin Data,Sin Data,Sin Data,Sedecal,.net -C# -azure
+2026-08-07,Tecnoempleo,Sin Data,Sin Data,Desarrollador/a especializado/a en C++,Sin Data,100% remoto,Sin Data,Sin Data,Sin Data,Crypto Fund Trader,C++ -Linux -multithreading
+2026-08-07,Tecnoempleo,Sin Data,Sin Data,Data Analyst SSr/ Sr | Sector bancario,30.000€ - 36.000€ b/a,100% remoto,Sin Data,Sin Data,Sin Data,CAS TRAINING,ORACLE -JAVA -OPENSHIFT
+2026-08-07,Tecnoempleo,Barcelona,Sin Data,IT SAP Finance Support Specialist,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,Inkoova,SAP FI -SAP -S/4HANA
+2026-08-07,Tecnoempleo,Bizkaiay otras,Sin Data,Analista Programador - Facturación Electrónica,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Baoss,java -spring -XML
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Técnico/a Informático/a helpdesk con inglés,21.000€ - 24.000€ b/a,Presencial,Sin Data,Sin Data,Sin Data,Sosmatic,Windows -helpdesk
+2026-08-07,Tecnoempleo,Sin Data,Sin Data,Programador Oracle OBIEE/ODI,21.000€ - 27.000€ b/a,100% remoto,Sin Data,Sin Data,Sin Data,CMV Consultores,ODI -OBIEE -Oracle
+2026-08-07,Tecnoempleo,Sta. Cruz De Tenerife,Sin Data,Consultor/a SAP Junior,18.000€ - 21.000€ b/a,Híbrido,Sin Data,Sin Data,Sin Data,Serem,SAP
+2026-08-07,Tecnoempleo,Gipuzkoa,Sin Data,Técnico/a de Sistema Wintel,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,Baoss,Wintel -Windows server -Active Directory
+2026-08-07,Tecnoempleo,Alicante,Sin Data,Tech Lead - Analista de Integración,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,Chakray,WSO2 -API -Gravitee
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Especialista Mainframe,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,Baoss,Mainframe -DB2 -SQL
+2026-08-07,Tecnoempleo,Sin Data,Sin Data,Analista Funcional Seguros Mainframe / Gravity,Sin Data,100% remoto,Sin Data,Sin Data,Sin Data,PANEL Sistemas Informáticos,Mainframe -COBOL -CICS
+2026-08-07,Tecnoempleo,Madrid,Sin Data,"Técnico/a Centrales Telefónicas Mitel, MX-ONE",Sin Data,Presencial,Sin Data,Sin Data,Sin Data,Grupo Sermicro,MxOne -Mitel
+2026-08-07,Tecnoempleo,Sin Data,Sin Data,Programador Java (C1 Inglés),Sin Data,100% remoto,Sin Data,Sin Data,Sin Data,Second Window,Java -Springboot -microservicios
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Consultor de Ciberseguridad OT/IT,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,Serem,OT/IT -ServiceNow -IAM
+2026-08-07,Tecnoempleo,Barcelona,Sin Data,Full-stack developer Angular + NodeJS,39.000€ - 42.000€ b/a,Híbrido,Sin Data,Sin Data,Sin Data,CMV Consultores,angular -nodejs -typescript
+2026-08-07,Tecnoempleo,Sin Data,Sin Data,Desarrollador/a Vue.js,27.000€ - 30.000€ b/a,100% remoto,Sin Data,Sin Data,Sin Data,Arelance,Vue.js -Node.js -VSCode
+2026-08-07,Tecnoempleo,Barcelona,Sin Data,QA Tester,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,Baoss,Risk reveal -fircosoft cloud
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Analista de Datos - Python,18.000€ - 21.000€ b/a,Híbrido,Sin Data,Sin Data,Sin Data,Arelance,ETL -Python
+2026-08-07,Tecnoempleo,Almería,Sin Data,Técnico de Datos - ETL y Arquitecturas Cloud,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,Cajamar Tecnología,ETL -SQL -Azure
+2026-08-07,Tecnoempleo,Madrid,Sin Data,DevOps,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,Serem,openshift
+2026-08-07,Tecnoempleo,Almería,Sin Data,Líder Banca Digital,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Cajamar Tecnología,PMP -ITIL -SCRUM MASTER
+2026-08-07,Tecnoempleo,Madrid,Sin Data,People Analytics & BI,27.000€ - 36.000€ b/a,Híbrido,Sin Data,Sin Data,Sin Data,Arelance,looker studio -python -SageMaker
+2026-08-07,Tecnoempleo,Barcelona,Sin Data,Helpdesk / Fines de Semana (Teleoperador/a),10.000€ - 18.000€ b/a,Sin Data,Sin Data,Sin Data,Sin Data,Sosmatic,microinformatica -VoIP
+2026-08-07,Tecnoempleo,Barcelonay otras,Sin Data,Project Manager - Cloud,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Baoss,AWS -Azure
+2026-08-07,Tecnoempleo,Madridy otras,Sin Data,Consultor/a - Adquirencia y Chargebacks,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Baoss,Claims
+2026-08-07,Tecnoempleo,Almería,Sin Data,Técnico de Datos ETL y Arquitecturas Cloud (HUB),Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,Cajamar Tecnología,PowerCenter -Talend -ETL
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Desarrollador/a Android Nativo.Teletrabajo 100%,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Second Window,Android -Java -Kotlin
+2026-08-07,Tecnoempleo,Málaga,Sin Data,Técnico de Microinformática y Soporte ERP,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,"GECONSAA, S.L.",Microinformática -SQL -ERP
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Administrador/a senior Control M,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,Serem,Control M -Parcheos -Linux
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Analista Programador .Net (jornada intensiva),36.000€ - 39.000€ b/a,Presencial,Sin Data,Sin Data,Sin Data,Second Window,.Net -C# -MVC
+2026-08-07,Tecnoempleo,Madridy otras,Sin Data,Senior DevOps Engineer,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Baoss,DevOps -GitHub Actions -Terraform
+2026-08-07,Tecnoempleo,Madridy otras,Sin Data,PMO Junior - Gestión de Proyectos IT,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Baoss,PMO -Scrum -Kanban
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Planificador Control-M,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Second Window,control M -batch -Editran
+2026-08-07,Tecnoempleo,Sevillay otras,Sin Data,QA Automation Engineer – XRay,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Serem,XRay
+2026-08-07,Tecnoempleo,Madridy otras,Sin Data,Técnico/ca Jr IT - Excel Avanzado / Power BI,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Baoss,Excel -Power BI -ASIR
+2026-08-07,Tecnoempleo,Almeríay otras,Sin Data,Líder Banca Digital,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Cajamar Tecnología,PMP -Scrum -Product Owner
+2026-08-07,Tecnoempleo,Sin Data,Sin Data,Technical Lead Full Stack | Java & Angular,Sin Data,100% remoto,Sin Data,Sin Data,Sin Data,PANEL Sistemas Informáticos,java -angular
+2026-08-07,Tecnoempleo,Sin Data,Sin Data,Big Data IA Researcher Developer (remoto),Sin Data,100% remoto,Sin Data,Sin Data,Sin Data,ZYLK,big data -Linux -Hadoop
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Técnico/a de reparación de placas,24.000€ - 27.000€ b/a,Presencial,Sin Data,Sin Data,Sin Data,Sedecal,SMD -THRU HOLE PCB -OSCILOCOPIO DIGITAL
+2026-08-07,Tecnoempleo,Sin Data,Sin Data,FullStack Senior,33.000€ - 36.000€ b/a,100% remoto,Sin Data,Sin Data,Sin Data,Arelance,angular -spring -spring webflux
+2026-08-07,Tecnoempleo,Zaragoza,Sin Data,IT Manager SAP,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Michael Page,SAP -MES -SCADA
+2026-08-07,Tecnoempleo,Barcelona,Sin Data,Técnico/a de Soporte IT (Onsite),33.000€ - 36.000€ b/a,Presencial,Sin Data,Sin Data,Sin Data,Nextret,microinformatica -Windows -hardware
+2026-08-07,Tecnoempleo,Barcelona,Sin Data,Fullstack Developer (JavaScript/PHP),Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,HAYS,PHP -JavaScript -react
+2026-08-07,Tecnoempleo,Sin Data,Sin Data,Developer Java Spring Boot Ingles,Sin Data,100% remoto,Sin Data,Sin Data,Sin Data,Digital Talent Agency,java -spring -JPA
+2026-08-07,Tecnoempleo,Sin Data,Sin Data,Programador/a Senior Oracle SOA/OSB (Remoto),Sin Data,100% remoto,Sin Data,Sin Data,Sin Data,Grupo Digital,soa -osb -oracle
+2026-08-07,Tecnoempleo,Bizkaia,Sin Data,Técnico de iniciativas Observatorio,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,Michael Page,Inteligencia Artificial -Power BI -Excel
+2026-08-07,Tecnoempleo,Barcelona,Sin Data,SAP GRC Manager,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,Michael Page,SAP
+2026-08-07,Tecnoempleo,Madrid,Sin Data,AI/ML Computational Scientist,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Accenture,Python -TensorFlow -PyTorch
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Machine Learning Engineer 100% (f/m/d),Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Julius Baer,Python -TensorFlow -PyTorch
+2026-08-07,Tecnoempleo,Barcelona,Sin Data,SAP Project Manager - S4hana,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Michael Page,sap -hana
+2026-08-07,Tecnoempleo,Zaragoza,Sin Data,Product Owner / Data analyst,Sin Data,Presencial,Sin Data,Sin Data,Sin Data,Michael Page,SQL -Python -R
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Senior Azure Database Platform Engineer,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,UST,Oracle -Azure SQL -PostgreSQL
+2026-08-07,Tecnoempleo,Sin Data,Sin Data,Analista de datos,Sin Data,100% remoto,Sin Data,Sin Data,Sin Data,UST,Oracle -Java -OpenShift
+2026-08-07,Tecnoempleo,Álava,Sin Data,Product Engineer - TIER1,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Michael Page,FMEA -SPC -APQP
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Master Data Specialist,27.000€ - 39.000€ b/a,Híbrido,Sin Data,Sin Data,Sin Data,Michael Page,SAP -Office -Excel
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Head of SAP Logistics,80.000€ - 90.000€ b/a,Híbrido,Sin Data,Sin Data,Sin Data,Michael Page,SAP -SAP S/4HANA -SAP EWM
+2026-08-07,Tecnoempleo,Valencia,Sin Data,Diseñador/a Mecánico,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Michael Page,Neumatica -Hidraulica -Mecanica
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Responsable de Infraestructura IT,39.000€ - 48.000€ b/a,Híbrido,Sin Data,Sin Data,Sin Data,Michael Page,Azure -Microsoft 365
+2026-08-07,Tecnoempleo,Valencia,Sin Data,Ingeniero/a de procesos Junior,24.000€ - 27.000€ b/a,Sin Data,Sin Data,Sin Data,Sin Data,Michael Page,Ingeniería -Industrial
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Senior SAP MDG (Master Data Governance),Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,Michael Page,SAP MDG -SAP
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Software/DevOps Engineering,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,UST,azure devops -kubernetes -ci/cd pipeline
+2026-08-07,Tecnoempleo,Bizkaia,Sin Data,Gerente,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Michael Page,Ingeniería -Industrial
+2026-08-07,Tecnoempleo,Sin Data,Sin Data,Technical Business Analyst (T24/Temenos),Sin Data,100% remoto,Sin Data,Sin Data,Sin Data,UST,Temenos -T24 -InfoBasic
+2026-08-07,Tecnoempleo,Barcelona,Sin Data,Project Manager (HW-FW-SW),45.000€ - 45.000€ b/a,Híbrido,Sin Data,Sin Data,Sin Data,Michael Page,PMP -Agile -Scrum
+2026-08-07,Tecnoempleo,Zaragoza,Sin Data,Instalador de Redes,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Michael Page,Redes -WIFI
+2026-08-07,Tecnoempleo,Zaragoza,Sin Data,Técnico/a de Sistemas y Automatización,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Michael Page,SQL -PLC
+2026-08-07,Tecnoempleo,Sin Data,Sin Data,Software Engineer | Python & AWS,Sin Data,100% remoto,Sin Data,Sin Data,Sin Data,UST,Python -AWS -Linux
+2026-08-07,Tecnoempleo,Valencia,Sin Data,Team Lead Security & Authorizations,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Michael Page,SAP Focused Run -SAP Solution Manager -SAP RUN
+2026-08-07,Tecnoempleo,Sevilla,Sin Data,Junior Data Analyst,21.000€ - 30.000€ b/a,Sin Data,Sin Data,Sin Data,Sin Data,Michael Page,Excel -SQL -Python
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Senior QA Tester (Remote from Spain),Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,UST,SQL -Postman -Jira
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Site Manager,Sin Data,Presencial,Sin Data,Sin Data,Sin Data,HAYS,Ingeniería -Industrial
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Data Governance,45.000€ - 54.000€ b/a,Sin Data,Sin Data,Sin Data,Sin Data,Michael Page,Gobernanza de datos -Gestión de datos
+2026-08-07,Tecnoempleo,Lugo,Sin Data,Subdirector/a de Marketing Retail,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Michael Page,marketing
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Programador/a Senior Java,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Segula Technologies,Java
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Software Engineer (PHP + Python),42.000€ - 60.000€ b/a,Híbrido,Sin Data,Sin Data,Sin Data,Michael Page,PHP -Python -MySQL
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Test Automation Platform Engineer,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,UST,DevOps -API -CI/CD
+2026-08-07,Tecnoempleo,Madrid,Sin Data,SAP PP - Pharma,54.000€ - 60.000€ b/a,Presencial,Sin Data,Sin Data,Sin Data,Michael Page,SAP
+2026-08-07,Tecnoempleo,Barcelona,Sin Data,Director/a de IT (Servicios B2B),Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Michael Page,Business Central -Power BI -Cloud
+2026-08-07,Tecnoempleo,Valencia,Sin Data,Programador PLC Senior (h/m),Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Michael Page,PLC
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Desarrollador/a Senior ASP.NET (.NET/C#),Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,sg tech,ASP.NET -.NET -C#
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Técnico Industralización (Electrónica),30.000€ - 42.000€ b/a,Presencial,Sin Data,Sin Data,Sin Data,Michael Page,Mecatrónica -Automatización -Electrónica
+2026-08-07,Tecnoempleo,Zaragoza,Sin Data,Programador/a PLC junior,30.000€ - 33.000€ b/a,Sin Data,Sin Data,Sin Data,Sin Data,Michael Page,PLC
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Admin Infra Workplace - Intune,39.000€ - 54.000€ b/a,Híbrido,Sin Data,Sin Data,Sin Data,Michael Page,Intune -Microsoft 365 -Active Directory
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Arquitecto/a de soluciones de sistemas,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,GMV,Azure -AWS -VMware
+2026-08-07,Tecnoempleo,Madrid,Sin Data,PMO,48.000€ - 54.000€ b/a,Híbrido,Sin Data,Sin Data,Sin Data,Michael Page,PMP -agile
+2026-08-07,Tecnoempleo,Barcelona,Sin Data,Ingeniero Electrónico Firmware | Hardware,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Michael Page,C -C++
+2026-08-07,Tecnoempleo,León,Sin Data,Programador Senior C++ - Firmware,45.000€ - 54.000€ b/a,Híbrido,Sin Data,Sin Data,Sin Data,Michael Page,C++
+2026-08-07,Tecnoempleo,Badajoz,Sin Data,AI Engineer,42.000€ - 54.000€ b/a,Sin Data,Sin Data,Sin Data,Sin Data,Michael Page,Python
+2026-08-07,Tecnoempleo,Valencia,Sin Data,Ingeniero/a de procesos,Sin Data,Presencial,Sin Data,Sin Data,Sin Data,Michael Page,Ingeniería -Industrial
+2026-08-07,Tecnoempleo,Barcelona,Sin Data,Data Platform Engineer,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,Michael Page,Databricks -Azure Data Factory -Power BI
+2026-08-07,Tecnoempleo,Zaragoza,Sin Data,Consultor/a ERP + Alemán,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,HAYS,ERP -SAP -Microsoft Dynamics
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Marketplaces Consultant (Amazon),Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,UST,Amazon Marketplace -E commerce
+2026-08-07,Tecnoempleo,La Rioja,Sin Data,Responsable Transformación Digital,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Michael Page,SAP
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Ingeniero/a de soporte de nivel 2/3,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,GMV,TCP/IP -Firewall -Switches
+2026-08-07,Tecnoempleo,Madrid,Sin Data,IT Head of Workplace,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,Michael Page,Digital workplace -Technology services
+2026-08-07,Tecnoempleo,Valencia,Sin Data,Responsable de Licitaciones IT,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,LÃBERIT,PLYCA -PIXWEL -Vortal
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Ingeniero/a de Desarrollo producto,39.000€ - 45.000€ b/a,Sin Data,Sin Data,Sin Data,Sin Data,Michael Page,SolidWorks -Manufacturing -PLM
+2026-08-07,Tecnoempleo,Madrid,Sin Data,SAP Security & Compliance Specialist,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,Michael Page,SAP
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Ingeniero/a de Software Aeroespacial,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,GMV,Java -Spring Boot -API RESTful
+2026-08-07,Tecnoempleo,Alicante,Sin Data,Técnico/a CNC,24.000€ - 30.000€ b/a,Presencial,Sin Data,Sin Data,Sin Data,Michael Page,CNC -Industrial
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Ingeniero Industrial Junior discapacida,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Michael Page,ingenieria
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Desarrollador/a Fullstack PHP/JS (Senior),Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,EISI Soft,php -Javascript
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Consultor/a ERP,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Michael Page,SAP -Dynamics -Sage
+2026-08-07,Tecnoempleo,Valencia,Sin Data,Product Manager,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Michael Page,Product Manager
+2026-08-07,Tecnoempleo,Málaga,Sin Data,Ingeniero de Procesos,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Michael Page,Ingenieria
+2026-08-07,Tecnoempleo,Gipuzkoa,Sin Data,Responsable de Calidad,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,HAYS,calidad -ISO
+2026-08-07,Tecnoempleo,Madrid,Sin Data,Técnico/a Automatista,36.000€ - 45.000€ b/a,Sin Data,Sin Data,Sin Data,Sin Data,Michael Page,TIA Portal -ABB
+2026-08-07,Tecnoempleo,Barcelona,Sin Data,Operario/a Electrónico/a - Turno tarde,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Michael Page,Electrónica
+2026-08-07,Tecnoempleo,Madridy otras,Sin Data,"Analista Programador IA, BI",21.000€ - 30.000€ b/a,Sin Data,Sin Data,Sin Data,Sin Data,Incoming Domain,AWS -IAM -EC2
