@@ -1,0 +1,47 @@
+Fecha,Plataforma,Provincia,Localidad,Oferta_Empleo,Salario,Modalidad,Tipo_Contrato,Tipo_Jornada,Experiencia,Empresa,Requisitos
+2026-08-23,Tecnoempleo,Sin Data,Sin Data,Analista de Riesgos de Mercado,Sin Data,100% remoto,Sin Data,Sin Data,Sin Data,UST,SQL -Control M -PL/SQL
+2026-08-23,Tecnoempleo,Madrid,Sin Data,Ingeniero/a de Producción Junior,30.000€ - 33.000€ b/a,Sin Data,Sin Data,Sin Data,Sin Data,Michael Page,Lean -5S
+2026-08-23,Tecnoempleo,Sin Data,Sin Data,Arquitecto/a de Infraestructuras IT,45.000€ - 60.000€ b/a,100% remoto,Sin Data,Sin Data,Sin Data,Grupo NS,REDHAT -LINUX -vmware
+2026-08-23,Tecnoempleo,Barcelona,Sin Data,Field Service Engineer,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Michael Page,industrial -Electrónica -Mecatrónica
+2026-08-23,Tecnoempleo,Granada,Sin Data,JP SAP con Skills Scrum Master (m/f/d),Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,T-Systems,SAP -S/4HANA -SCRUM
+2026-08-23,Tecnoempleo,Barcelona,Sin Data,Project Manager PMP,42.000€ - 45.000€ b/a,Híbrido,Sin Data,Sin Data,Sin Data,Serem,PMP -Scrum -Waterfall
+2026-08-23,Tecnoempleo,Madrid,Sin Data,Senior AI Test Automation Engineer,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,UST,Python -Playwright -pytest
+2026-08-23,Tecnoempleo,Madrid,Sin Data,Senior Pentester,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,UST,Burp Suite -Nmap -OWASP
+2026-08-23,Tecnoempleo,Madrid,Sin Data,Application Owner / Python Developer,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,UST,Python -Django -Linux
+2026-08-23,Tecnoempleo,Sin Data,Sin Data,Arquitecto Cloud Azure,Sin Data,100% remoto,Sin Data,Sin Data,Sin Data,knowmad mood,azure -AWS
+2026-08-23,Tecnoempleo,Sin Data,Sin Data,Consultor Dynamics CRM,Sin Data,100% remoto,Sin Data,Sin Data,Sin Data,knowmad mood,Dynamics
+2026-08-23,Tecnoempleo,Baleares,Sin Data,Técnico de Sistemas Cloud AWS,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,knowmad mood,AWS -Terraform -EC2
+2026-08-23,Tecnoempleo,A Coruña,Sin Data,Technical Product Owner,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,knowmad mood,Product Owner
+2026-08-23,Tecnoempleo,Madrid,Sin Data,ServiceNow Delivery & Transformation Manager,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Devoteam,ServiceNow -ITSM -ITOM
+2026-08-23,Tecnoempleo,Madrid,Sin Data,Beca no remuneradas en Seguridad Normativa,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Devoteam,Governance -Risk
+2026-08-23,Tecnoempleo,Madrid,Sin Data,"Especialista en Seguridad Cloud (Azure, AWS, GCP)",Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,Devoteam,Azure -AWS -GCP
+2026-08-23,Tecnoempleo,Madrid,Sin Data,Power Bi con inglés muy alto,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Devoteam,Power BI -DAX
+2026-08-23,Tecnoempleo,Madrid,Sin Data,AWS Data Engineer,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Devoteam,PySpark -Python -SQL
+2026-08-23,Tecnoempleo,Madrid,Sin Data,Técnico de Soporte N1 (Inglés alto),Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,Devoteam,soporte -microinformatica -M365
+2026-08-23,Tecnoempleo,Sin Data,Sin Data,PMO - ERP Transformation (Dynamics 365),Sin Data,100% remoto,Sin Data,Sin Data,Sin Data,Talan,Dynamics 365
+2026-08-23,Tecnoempleo,Málaga,Sin Data,Backend Java/Spring Boot Developer (Camunda 8),Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Talan,java -spring -Camunda
+2026-08-23,Tecnoempleo,Barcelona,Sin Data,Administrateur SAP BASIS,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Talan,SAP BASIS
+2026-08-23,Tecnoempleo,Málaga,Sin Data,Cloud Platform Engineer (Azure),Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Talan,Azure -IaC -Terraform
+2026-08-23,Tecnoempleo,Zaragoza,Sin Data,Ingeniero Eléctrico / Electricista Autorizado,Sin Data,Presencial,Sin Data,Sin Data,Sin Data,3AB ENERJI,BT -AT -SCADA
+2026-08-23,Tecnoempleo,Málaga,Sin Data,Camunda Business Analyst,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Talan,Camunda
+2026-08-23,Tecnoempleo,Madrid,Sin Data,Stream-aligned Software Engineer,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Airbus,C++ -linu
+2026-08-23,Tecnoempleo,Madrid,Sin Data,Airbus UpNext Spain - Test Engineer (m/f),Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Airbus,DIAdem -MATLAB
+2026-08-23,Tecnoempleo,Albacete,Sin Data,IAM IT Operation and Service Manager,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,Airbus,IAM -SSO
+2026-08-23,Tecnoempleo,Madrid,Sin Data,SAP MDG Functional Architect,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,EPAM,SAP MDG -SAP BTP -Scrum
+2026-08-23,Tecnoempleo,Madrid,Sin Data,System Architect (Application Responsible),Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,EPAM,Actico Rules -Visual Rules -Web services
+2026-08-23,Tecnoempleo,Madrid,Sin Data,SAP HANA Cloud Developer,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,EPAM,SAP -HANA -Databricks
+2026-08-23,Tecnoempleo,Madrid,Sin Data,Senior SAP Basis Admin,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,EPAM,SAP Basis -SAP -S/4HANA
+2026-08-23,Tecnoempleo,Madrid,Sin Data,"Director, Business Solution Architect Salesforce",Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,EPAM,Salesforce -Sales Cloud -Service Cloud
+2026-08-23,Tecnoempleo,Madrid,Sin Data,Senior Machine Learning Engineer,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,EPAM,Machine Learning -RAG -LLM
+2026-08-23,Tecnoempleo,Madrid,Sin Data,Lead Salesforce Developer (Native Spanish Speaker),Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,EPAM,Salesforce
+2026-08-23,Tecnoempleo,Madrid,Sin Data,Senior Azure Engineer,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,EPAM,CI/CD -azure
+2026-08-23,Tecnoempleo,Málaga,Sin Data,IT Audit with Portuguese - Technology Risk,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,EY,SWIFT -CSA -SOX
+2026-08-23,Tecnoempleo,Málaga,Sin Data,Cyber SOC with German - Manager,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,EY,Sentinel -Defender XDR -Splunk
+2026-08-23,Tecnoempleo,Málaga,Sin Data,Backend Java Developer - Senior,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,EY,java -spring
+2026-08-23,Tecnoempleo,Madrid,Sin Data,Data and AI Specialist - Agentic Tax Processes,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,EY,Azure ML -Databricks -MLflow
+2026-08-23,Tecnoempleo,Málaga,Sin Data,PEGA Developer,Sin Data,Híbrido,Sin Data,Sin Data,Sin Data,EY,Pega -java
+2026-08-23,Tecnoempleo,Madrid,Sin Data,Manager - AI Technology Risk (Industrial Sector),Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,EY,inteligencia artificial
+2026-08-23,Tecnoempleo,Málaga,Sin Data,Cybersecurity Consultant (German & English),Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,EY,Ciberseguridad -IAM -SIEM
+2026-08-23,Tecnoempleo,Barcelona,Sin Data,Associate Principal AI Platform Enginee,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,AstraZeneca,IaC -AWS -Terraform
+2026-08-23,Tecnoempleo,Barcelona,Sin Data,Senior AI Operations Engineer,Sin Data,Sin Data,Sin Data,Sin Data,Sin Data,AstraZeneca,Python -Datadog -New Relic
+2026-08-23,Tecnoempleo,Sta. Cruz De Tenerife,Sin Data,CTO & Director/a de Operaciones,Sin Data,Presencial,Sin Data,Sin Data,Sin Data,Cicom S.L.,Cloud Computing -DevOps -Agile
