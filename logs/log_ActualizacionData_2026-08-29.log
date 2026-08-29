@@ -1,0 +1,3 @@
+2026-08-29 03:56:03 - INFO - [ActualizacionData] - **********  Intento 1 de añadir a la DATABASE y la data del scrapeo del dia 2026-08-28  ********
+2026-08-29 03:56:03 - INFO - [ActualizacionData] - El json control_ejecusiones cargo correctamente
+2026-08-29 03:56:03 - INFO - [ActualizacionData] - Ultima vez que se ejecuto ETL 2026-08-28
